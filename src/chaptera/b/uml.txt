@@ -1,0 +1,34 @@
+@startuml
+!theme plain
+Duck <|-- MallarDuck
+Duck <|-- RedHeadDuck
+Duck <|-- RubberDuck
+Duck <|-- DecoyDuck
+
+Class Duck {
+  quack()
+  swim()
+  {abstract} display()
+  fly()
+}
+
+Class MallarDuck {
+  display()
+}
+
+Class RedHeadDuck {
+  dispaly()
+}
+
+Class RubberDuck {
+  quack()
+  dispaly()
+  fly()
+}
+
+Class DecoyDuck {
+  quack()
+  dispaly()
+  fly()
+}
+@enduml

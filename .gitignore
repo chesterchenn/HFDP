@@ -3,3 +3,6 @@
 
 # Editor file
 .idea/
+
+# Build file
+out/

@@ -1,3 +1,5 @@
+package chaptera.a;
+
 public class MallardDuck extends Duck {
   public static void main(String[] args) {
     MallardDuck m = new MallardDuck();

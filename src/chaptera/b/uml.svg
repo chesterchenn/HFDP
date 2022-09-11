@@ -1,0 +1,231 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" contentStyleType="text/css" height="286px" preserveAspectRatio="none" style="width:572px;height:286px;background:#FFFFFF;" version="1.1" viewBox="0 0 572 286" width="572px" zoomAndPan="magnify"><defs/><g><!--MD5=[ee80f128756adf0e95ba2af8ad3ecb8c]
+class Duck--><g id="elem_Duck"><rect codeLine="7" fill="#FFFFFF" height="112.0586" id="Duck" rx="2.5" ry="2.5" style="stroke:#000000;stroke-width:1.0;" width="73" x="252.5" y="12"/><ellipse cx="270" cy="26" fill="#FFFFFF" rx="9" ry="9" style="stroke:#000000;stroke-width:1.0;"/><path d="M272.9688,31.6406 Q272.3906,31.9375 271.75,32.0781 Q271.1094,32.2344 270.4063,32.2344 Q267.9063,32.2344 266.5781,30.5938 Q265.2656,28.9375 265.2656,25.8125 Q265.2656,22.6875 266.5781,21.0313 Q267.9063,19.375 270.4063,19.375 Q271.1094,19.375 271.75,19.5313 Q272.4063,19.6875 272.9688,19.9844 L272.9688,22.7031 Q272.3438,22.125 271.75,21.8594 Q271.1563,21.5781 270.5313,21.5781 Q269.1875,21.5781 268.5,22.6563 Q267.8125,23.7188 267.8125,25.8125 Q267.8125,27.9063 268.5,28.9844 Q269.1875,30.0469 270.5313,30.0469 Q271.1563,30.0469 271.75,29.7813 Q272.3438,29.5 272.9688,28.9219 L272.9688,31.6406 Z " fill="#000000"/><text fill="#000000" font-family="Verdana" font-size="14" lengthAdjust="spacing" textLength="35" x="283" y="31.5679">Duck</text><line style="stroke:#000000;stroke-width:1.0;" x1="253.5" x2="324.5" y1="40" y2="40"/><line style="stroke:#000000;stroke-width:1.0;" x1="253.5" x2="324.5" y1="48" y2="48"/><text fill="#000000" font-family="Verdana" font-size="14" lengthAdjust="spacing" textLength="53" x="258.5" y="66.0752">quack()</text><text fill="#000000" font-family="Verdana" font-size="14" lengthAdjust="spacing" textLength="47" x="258.5" y="83.0898">swim()</text><text fill="#000000" font-family="Verdana" font-size="14" font-style="italic" lengthAdjust="spacing" textLength="61" x="258.5" y="100.1045">display()</text><text fill="#000000" font-family="Verdana" font-size="14" lengthAdjust="spacing" textLength="28" x="258.5" y="117.1191">fly()</text></g><!--MD5=[6b7aa2b48f699f84e43038c6d40cb339]
+class MallarDuck--><g id="elem_MallarDuck"><rect codeLine="14" fill="#FFFFFF" height="61.0146" id="MallarDuck" rx="2.5" ry="2.5" style="stroke:#000000;stroke-width:1.0;" width="102" x="12" y="201"/><ellipse cx="25" cy="215" fill="#FFFFFF" rx="9" ry="9" style="stroke:#000000;stroke-width:1.0;"/><path d="M27.9688,220.6406 Q27.3906,220.9375 26.75,221.0781 Q26.1094,221.2344 25.4063,221.2344 Q22.9063,221.2344 21.5781,219.5938 Q20.2656,217.9375 20.2656,214.8125 Q20.2656,211.6875 21.5781,210.0313 Q22.9063,208.375 25.4063,208.375 Q26.1094,208.375 26.75,208.5313 Q27.4063,208.6875 27.9688,208.9844 L27.9688,211.7031 Q27.3438,211.125 26.75,210.8594 Q26.1563,210.5781 25.5313,210.5781 Q24.1875,210.5781 23.5,211.6563 Q22.8125,212.7188 22.8125,214.8125 Q22.8125,216.9063 23.5,217.9844 Q24.1875,219.0469 25.5313,219.0469 Q26.1563,219.0469 26.75,218.7813 Q27.3438,218.5 27.9688,217.9219 L27.9688,220.6406 Z " fill="#000000"/><text fill="#000000" font-family="Verdana" font-size="14" lengthAdjust="spacing" textLength="74" x="37" y="220.5679">MallarDuck</text><line style="stroke:#000000;stroke-width:1.0;" x1="13" x2="113" y1="229" y2="229"/><line style="stroke:#000000;stroke-width:1.0;" x1="13" x2="113" y1="237" y2="237"/><text fill="#000000" font-family="Verdana" font-size="14" lengthAdjust="spacing" textLength="60" x="18" y="255.0752">display()</text></g><!--MD5=[8c1b804012081e866bad5a3663c31c62]
+class RedHeadDuck--><g id="elem_RedHeadDuck"><rect codeLine="18" fill="#FFFFFF" height="61.0146" id="RedHeadDuck" rx="2.5" ry="2.5" style="stroke:#000000;stroke-width:1.0;" width="125" x="149.5" y="201"/><ellipse cx="162.5" cy="215" fill="#FFFFFF" rx="9" ry="9" style="stroke:#000000;stroke-width:1.0;"/><path d="M165.4688,220.6406 Q164.8906,220.9375 164.25,221.0781 Q163.6094,221.2344 162.9063,221.2344 Q160.4063,221.2344 159.0781,219.5938 Q157.7656,217.9375 157.7656,214.8125 Q157.7656,211.6875 159.0781,210.0313 Q160.4063,208.375 162.9063,208.375 Q163.6094,208.375 164.25,208.5313 Q164.9063,208.6875 165.4688,208.9844 L165.4688,211.7031 Q164.8438,211.125 164.25,210.8594 Q163.6563,210.5781 163.0313,210.5781 Q161.6875,210.5781 161,211.6563 Q160.3125,212.7188 160.3125,214.8125 Q160.3125,216.9063 161,217.9844 Q161.6875,219.0469 163.0313,219.0469 Q163.6563,219.0469 164.25,218.7813 Q164.8438,218.5 165.4688,217.9219 L165.4688,220.6406 Z " fill="#000000"/><text fill="#000000" font-family="Verdana" font-size="14" lengthAdjust="spacing" textLength="97" x="174.5" y="220.5679">RedHeadDuck</text><line style="stroke:#000000;stroke-width:1.0;" x1="150.5" x2="273.5" y1="229" y2="229"/><line style="stroke:#000000;stroke-width:1.0;" x1="150.5" x2="273.5" y1="237" y2="237"/><text fill="#000000" font-family="Verdana" font-size="14" lengthAdjust="spacing" textLength="60" x="155.5" y="255.0752">dispaly()</text></g><!--MD5=[63d6d3b89924d904df1c14c4e399b513]
+class RubberDuck--><g id="elem_RubberDuck"><rect codeLine="22" fill="#FFFFFF" height="95.0439" id="RubberDuck" rx="2.5" ry="2.5" style="stroke:#000000;stroke-width:1.0;" width="114" x="310" y="184"/><ellipse cx="323" cy="198" fill="#FFFFFF" rx="9" ry="9" style="stroke:#000000;stroke-width:1.0;"/><path d="M325.9688,203.6406 Q325.3906,203.9375 324.75,204.0781 Q324.1094,204.2344 323.4063,204.2344 Q320.9063,204.2344 319.5781,202.5938 Q318.2656,200.9375 318.2656,197.8125 Q318.2656,194.6875 319.5781,193.0313 Q320.9063,191.375 323.4063,191.375 Q324.1094,191.375 324.75,191.5313 Q325.4063,191.6875 325.9688,191.9844 L325.9688,194.7031 Q325.3438,194.125 324.75,193.8594 Q324.1563,193.5781 323.5313,193.5781 Q322.1875,193.5781 321.5,194.6563 Q320.8125,195.7188 320.8125,197.8125 Q320.8125,199.9063 321.5,200.9844 Q322.1875,202.0469 323.5313,202.0469 Q324.1563,202.0469 324.75,201.7813 Q325.3438,201.5 325.9688,200.9219 L325.9688,203.6406 Z " fill="#000000"/><text fill="#000000" font-family="Verdana" font-size="14" lengthAdjust="spacing" textLength="86" x="335" y="203.5679">RubberDuck</text><line style="stroke:#000000;stroke-width:1.0;" x1="311" x2="423" y1="212" y2="212"/><line style="stroke:#000000;stroke-width:1.0;" x1="311" x2="423" y1="220" y2="220"/><text fill="#000000" font-family="Verdana" font-size="14" lengthAdjust="spacing" textLength="53" x="316" y="238.0752">quack()</text><text fill="#000000" font-family="Verdana" font-size="14" lengthAdjust="spacing" textLength="60" x="316" y="255.0898">dispaly()</text><text fill="#000000" font-family="Verdana" font-size="14" lengthAdjust="spacing" textLength="28" x="316" y="272.1045">fly()</text></g><!--MD5=[ef9b5a201887c81df51e991b951971f6]
+class DecoyDuck--><g id="elem_DecoyDuck"><rect codeLine="28" fill="#FFFFFF" height="95.0439" id="DecoyDuck" rx="2.5" ry="2.5" style="stroke:#000000;stroke-width:1.0;" width="106" x="459" y="184"/><ellipse cx="472" cy="198" fill="#FFFFFF" rx="9" ry="9" style="stroke:#000000;stroke-width:1.0;"/><path d="M474.9688,203.6406 Q474.3906,203.9375 473.75,204.0781 Q473.1094,204.2344 472.4063,204.2344 Q469.9063,204.2344 468.5781,202.5938 Q467.2656,200.9375 467.2656,197.8125 Q467.2656,194.6875 468.5781,193.0313 Q469.9063,191.375 472.4063,191.375 Q473.1094,191.375 473.75,191.5313 Q474.4063,191.6875 474.9688,191.9844 L474.9688,194.7031 Q474.3438,194.125 473.75,193.8594 Q473.1563,193.5781 472.5313,193.5781 Q471.1875,193.5781 470.5,194.6563 Q469.8125,195.7188 469.8125,197.8125 Q469.8125,199.9063 470.5,200.9844 Q471.1875,202.0469 472.5313,202.0469 Q473.1563,202.0469 473.75,201.7813 Q474.3438,201.5 474.9688,200.9219 L474.9688,203.6406 Z " fill="#000000"/><text fill="#000000" font-family="Verdana" font-size="14" lengthAdjust="spacing" textLength="78" x="484" y="203.5679">DecoyDuck</text><line style="stroke:#000000;stroke-width:1.0;" x1="460" x2="564" y1="212" y2="212"/><line style="stroke:#000000;stroke-width:1.0;" x1="460" x2="564" y1="220" y2="220"/><text fill="#000000" font-family="Verdana" font-size="14" lengthAdjust="spacing" textLength="53" x="465" y="238.0752">quack()</text><text fill="#000000" font-family="Verdana" font-size="14" lengthAdjust="spacing" textLength="60" x="465" y="255.0898">dispaly()</text><text fill="#000000" font-family="Verdana" font-size="14" lengthAdjust="spacing" textLength="28" x="465" y="272.1045">fly()</text></g><!--MD5=[1775a266fce6dd61e422d78ff7eaf2f9]
+reverse link Duck to MallarDuck--><g id="link_Duck_MallarDuck"><path codeLine="2" d="M235.93,106.93 C195.8,135.6 141.47,174.42 104.5,200.85 " fill="none" id="Duck-backto-MallarDuck" style="stroke:#000000;stroke-width:1.0;"/><polygon fill="none" points="232.1,101.06,252.44,95.13,240.24,112.45,232.1,101.06" style="stroke:#000000;stroke-width:1.0;"/></g><!--MD5=[01da43fa0165d7798d3533e9d981b537]
+reverse link Duck to RedHeadDuck--><g id="link_Duck_RedHeadDuck"><path codeLine="3" d="M254,142.41 C244.12,163.13 233.94,184.49 226.07,200.99 " fill="none" id="Duck-backto-RedHeadDuck" style="stroke:#000000;stroke-width:1.0;"/><polygon fill="none" points="247.79,139.17,262.72,124.13,260.43,145.19,247.79,139.17" style="stroke:#000000;stroke-width:1.0;"/></g><!--MD5=[4fa56e32ebb0bad05c9f28ed45ec70ee]
+reverse link Duck to RubberDuck--><g id="link_Duck_RubberDuck"><path codeLine="4" d="M324.44,142.39 C331.27,156.52 338.24,170.96 344.52,183.95 " fill="none" id="Duck-backto-RubberDuck" style="stroke:#000000;stroke-width:1.0;"/><polygon fill="none" points="318.02,145.18,315.63,124.13,330.63,139.09,318.02,145.18" style="stroke:#000000;stroke-width:1.0;"/></g><!--MD5=[229e783130190a934baefe35706d52a5]
+reverse link Duck to DecoyDuck--><g id="link_Duck_DecoyDuck"><path codeLine="5" d="M342.18,107.51 C377.45,133.06 423.57,166.46 458.85,192.01 " fill="none" id="Duck-backto-DecoyDuck" style="stroke:#000000;stroke-width:1.0;"/><polygon fill="none" points="337.92,113.07,325.82,95.67,346.13,101.73,337.92,113.07" style="stroke:#000000;stroke-width:1.0;"/></g><!--MD5=[e31de0a46c713ebae45a7831944c3ee0]
+@startuml
+!theme plain
+Duck <|- - MallarDuck
+Duck <|- - RedHeadDuck
+Duck <|- - RubberDuck
+Duck <|- - DecoyDuck
+
+Class Duck {
+  quack()
+  swim()
+  {abstract} display()
+  fly()
+}
+
+Class MallarDuck {
+  display()
+}
+
+Class RedHeadDuck {
+  dispaly()
+}
+
+Class RubberDuck {
+  quack()
+  dispaly()
+  fly()
+}
+
+Class DecoyDuck {
+  quack()
+  dispaly()
+  fly()
+}
+@enduml
+
+@startuml
+
+
+
+
+
+
+
+<style>
+  root {
+    BackgroundColor white
+    FontColor black
+    FontName Verdana
+    HyperLinkColor blue
+    LineColor black
+    LineThickness 1
+    Margin 5
+  }
+  caption {
+    LineThickness 0
+  }
+  footer {
+    LineThickness 0
+  }
+  header {
+    LineThickness 0
+  }
+  node {
+    MaximumWidth 300
+  }
+  title {
+    FontSize 22
+    LineThickness 0
+  }
+</style>
+
+skinparam ArrowLollipopColor black
+skinparam BackgroundColor white
+skinparam DefaultFontName Verdana
+skinparam DefaultMonospacedFontName Courier
+skinparam LifelineStrategy nosolid
+skinparam ParticipantPadding 10
+skinparam SequenceLifeLineBorderColor black
+skinparam Shadowing false
+skinparam UseBetaStyle true
+
+skinparam Activity {
+  BackgroundColor white
+  BarColor black
+  BorderColor black
+  FontColor black
+  FontName Verdana
+}
+skinparam Boundary {
+  FontColor black
+}
+skinparam Box {
+  Padding 5
+}
+skinparam CircledCharacter {
+  FontColor black
+  FontName Courier
+  Radius 9
+}
+skinparam Class {
+  BackgroundColor white
+  BorderColor black
+  FontColor black
+  FontName Verdana
+}
+skinparam ClassAttribute {
+  FontColor black
+  FontName Verdana
+}
+skinparam ClassStereotype {
+  FontColor black
+  FontName Verdana
+}
+skinparam Footer {
+  FontColor black
+  FontName Verdana
+}
+skinparam Header {
+  FontColor black
+  FontName Verdana
+}
+skinparam Hyperlink {
+  Color blue
+}
+skinparam IconPackage {
+  Color black
+  BackgroundColor white
+}
+skinparam IconPrivate {
+  Color black
+  BackgroundColor white
+}
+skinparam IconProtected {
+  Color black
+  BackgroundColor white
+}
+skinparam IconPublic {
+  Color black
+  BackgroundColor white
+}
+skinparam Note {
+  FontColor black
+  FontName Verdana
+}
+skinparam Object {
+  BorderColor black
+}
+skinparam Package {
+  BorderColor black
+  FontColor black
+  FontName Verdana
+}
+skinparam State {
+  BackgroundColor white
+  BorderColor black
+}
+skinparam StereotypeA {
+  BackgroundColor white
+  BorderColor black
+}
+skinparam StereotypeC {
+  BackgroundColor white
+  BorderColor black
+}
+skinparam StereotypeE {
+  BackgroundColor white
+  BorderColor black
+}
+skinparam StereotypeI {
+  BackgroundColor white
+  BorderColor black
+}
+skinparam StereotypeN {
+  BackgroundColor white
+  BorderColor black
+}
+skinparam UseCaseStereoType {
+  FontColor black
+  FontName Verdana
+}
+Duck <|- - MallarDuck
+Duck <|- - RedHeadDuck
+Duck <|- - RubberDuck
+Duck <|- - DecoyDuck
+
+Class Duck {
+  quack()
+  swim()
+  {abstract} display()
+  fly()
+}
+
+Class MallarDuck {
+  display()
+}
+
+Class RedHeadDuck {
+  dispaly()
+}
+
+Class RubberDuck {
+  quack()
+  dispaly()
+  fly()
+}
+
+Class DecoyDuck {
+  quack()
+  dispaly()
+  fly()
+}
+@enduml
+
+PlantUML version 1.2022.6(Wed Jun 22 01:34:49 CST 2022)
+(GPL source distribution)
+Java Runtime: OpenJDK Runtime Environment
+JVM: OpenJDK 64-Bit Server VM
+Default Encoding: UTF-8
+Language: en
+Country: US
+--></g></svg>

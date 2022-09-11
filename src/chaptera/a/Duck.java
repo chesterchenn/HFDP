@@ -1,3 +1,5 @@
+package chaptera.a;
+
 public abstract class Duck {
     public abstract void display();
 
