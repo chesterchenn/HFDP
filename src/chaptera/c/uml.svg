@@ -1,0 +1,266 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" contentStyleType="text/css" height="252px" preserveAspectRatio="none" style="width:572px;height:252px;background:#FFFFFF;" version="1.1" viewBox="0 0 572 252" width="572px" zoomAndPan="magnify"><defs/><g><!--MD5=[ee80f128756adf0e95ba2af8ad3ecb8c]
+class Duck--><g id="elem_Duck"><rect codeLine="14" fill="#FFFFFF" height="78.0293" id="Duck" rx="2.5" ry="2.5" style="stroke:#000000;stroke-width:1.0;" width="73" x="313.5" y="12"/><ellipse cx="331" cy="26" fill="#FFFFFF" rx="9" ry="9" style="stroke:#000000;stroke-width:1.0;"/><path d="M333.9688,31.6406 Q333.3906,31.9375 332.75,32.0781 Q332.1094,32.2344 331.4063,32.2344 Q328.9063,32.2344 327.5781,30.5938 Q326.2656,28.9375 326.2656,25.8125 Q326.2656,22.6875 327.5781,21.0313 Q328.9063,19.375 331.4063,19.375 Q332.1094,19.375 332.75,19.5313 Q333.4063,19.6875 333.9688,19.9844 L333.9688,22.7031 Q333.3438,22.125 332.75,21.8594 Q332.1563,21.5781 331.5313,21.5781 Q330.1875,21.5781 329.5,22.6563 Q328.8125,23.7188 328.8125,25.8125 Q328.8125,27.9063 329.5,28.9844 Q330.1875,30.0469 331.5313,30.0469 Q332.1563,30.0469 332.75,29.7813 Q333.3438,29.5 333.9688,28.9219 L333.9688,31.6406 Z " fill="#000000"/><text fill="#000000" font-family="Verdana" font-size="14" lengthAdjust="spacing" textLength="35" x="344" y="31.5679">Duck</text><line style="stroke:#000000;stroke-width:1.0;" x1="314.5" x2="385.5" y1="40" y2="40"/><line style="stroke:#000000;stroke-width:1.0;" x1="314.5" x2="385.5" y1="48" y2="48"/><text fill="#000000" font-family="Verdana" font-size="14" lengthAdjust="spacing" textLength="47" x="319.5" y="66.0752">swim()</text><text fill="#000000" font-family="Verdana" font-size="14" font-style="italic" lengthAdjust="spacing" textLength="61" x="319.5" y="83.0898">display()</text></g><!--MD5=[6b7aa2b48f699f84e43038c6d40cb339]
+class MallarDuck--><g id="elem_MallarDuck"><rect codeLine="19" fill="#FFFFFF" height="61.0146" id="MallarDuck" rx="2.5" ry="2.5" style="stroke:#000000;stroke-width:1.0;" width="102" x="12" y="167"/><ellipse cx="25" cy="181" fill="#FFFFFF" rx="9" ry="9" style="stroke:#000000;stroke-width:1.0;"/><path d="M27.9688,186.6406 Q27.3906,186.9375 26.75,187.0781 Q26.1094,187.2344 25.4063,187.2344 Q22.9063,187.2344 21.5781,185.5938 Q20.2656,183.9375 20.2656,180.8125 Q20.2656,177.6875 21.5781,176.0313 Q22.9063,174.375 25.4063,174.375 Q26.1094,174.375 26.75,174.5313 Q27.4063,174.6875 27.9688,174.9844 L27.9688,177.7031 Q27.3438,177.125 26.75,176.8594 Q26.1563,176.5781 25.5313,176.5781 Q24.1875,176.5781 23.5,177.6563 Q22.8125,178.7188 22.8125,180.8125 Q22.8125,182.9063 23.5,183.9844 Q24.1875,185.0469 25.5313,185.0469 Q26.1563,185.0469 26.75,184.7813 Q27.3438,184.5 27.9688,183.9219 L27.9688,186.6406 Z " fill="#000000"/><text fill="#000000" font-family="Verdana" font-size="14" lengthAdjust="spacing" textLength="74" x="37" y="186.5679">MallarDuck</text><line style="stroke:#000000;stroke-width:1.0;" x1="13" x2="113" y1="195" y2="195"/><line style="stroke:#000000;stroke-width:1.0;" x1="13" x2="113" y1="203" y2="203"/><text fill="#000000" font-family="Verdana" font-size="14" lengthAdjust="spacing" textLength="60" x="18" y="221.0752">display()</text></g><!--MD5=[8c1b804012081e866bad5a3663c31c62]
+class RedHeadDuck--><g id="elem_RedHeadDuck"><rect codeLine="23" fill="#FFFFFF" height="61.0146" id="RedHeadDuck" rx="2.5" ry="2.5" style="stroke:#000000;stroke-width:1.0;" width="125" x="149.5" y="167"/><ellipse cx="162.5" cy="181" fill="#FFFFFF" rx="9" ry="9" style="stroke:#000000;stroke-width:1.0;"/><path d="M165.4688,186.6406 Q164.8906,186.9375 164.25,187.0781 Q163.6094,187.2344 162.9063,187.2344 Q160.4063,187.2344 159.0781,185.5938 Q157.7656,183.9375 157.7656,180.8125 Q157.7656,177.6875 159.0781,176.0313 Q160.4063,174.375 162.9063,174.375 Q163.6094,174.375 164.25,174.5313 Q164.9063,174.6875 165.4688,174.9844 L165.4688,177.7031 Q164.8438,177.125 164.25,176.8594 Q163.6563,176.5781 163.0313,176.5781 Q161.6875,176.5781 161,177.6563 Q160.3125,178.7188 160.3125,180.8125 Q160.3125,182.9063 161,183.9844 Q161.6875,185.0469 163.0313,185.0469 Q163.6563,185.0469 164.25,184.7813 Q164.8438,184.5 165.4688,183.9219 L165.4688,186.6406 Z " fill="#000000"/><text fill="#000000" font-family="Verdana" font-size="14" lengthAdjust="spacing" textLength="97" x="174.5" y="186.5679">RedHeadDuck</text><line style="stroke:#000000;stroke-width:1.0;" x1="150.5" x2="273.5" y1="195" y2="195"/><line style="stroke:#000000;stroke-width:1.0;" x1="150.5" x2="273.5" y1="203" y2="203"/><text fill="#000000" font-family="Verdana" font-size="14" lengthAdjust="spacing" textLength="60" x="155.5" y="221.0752">dispaly()</text></g><!--MD5=[63d6d3b89924d904df1c14c4e399b513]
+class RubberDuck--><g id="elem_RubberDuck"><rect codeLine="27" fill="#FFFFFF" height="95.0439" id="RubberDuck" rx="2.5" ry="2.5" style="stroke:#000000;stroke-width:1.0;" width="114" x="310" y="150"/><ellipse cx="323" cy="164" fill="#FFFFFF" rx="9" ry="9" style="stroke:#000000;stroke-width:1.0;"/><path d="M325.9688,169.6406 Q325.3906,169.9375 324.75,170.0781 Q324.1094,170.2344 323.4063,170.2344 Q320.9063,170.2344 319.5781,168.5938 Q318.2656,166.9375 318.2656,163.8125 Q318.2656,160.6875 319.5781,159.0313 Q320.9063,157.375 323.4063,157.375 Q324.1094,157.375 324.75,157.5313 Q325.4063,157.6875 325.9688,157.9844 L325.9688,160.7031 Q325.3438,160.125 324.75,159.8594 Q324.1563,159.5781 323.5313,159.5781 Q322.1875,159.5781 321.5,160.6563 Q320.8125,161.7188 320.8125,163.8125 Q320.8125,165.9063 321.5,166.9844 Q322.1875,168.0469 323.5313,168.0469 Q324.1563,168.0469 324.75,167.7813 Q325.3438,167.5 325.9688,166.9219 L325.9688,169.6406 Z " fill="#000000"/><text fill="#000000" font-family="Verdana" font-size="14" lengthAdjust="spacing" textLength="86" x="335" y="169.5679">RubberDuck</text><line style="stroke:#000000;stroke-width:1.0;" x1="311" x2="423" y1="178" y2="178"/><line style="stroke:#000000;stroke-width:1.0;" x1="311" x2="423" y1="186" y2="186"/><text fill="#000000" font-family="Verdana" font-size="14" lengthAdjust="spacing" textLength="53" x="316" y="204.0752">quack()</text><text fill="#000000" font-family="Verdana" font-size="14" lengthAdjust="spacing" textLength="60" x="316" y="221.0898">dispaly()</text><text fill="#000000" font-family="Verdana" font-size="14" lengthAdjust="spacing" textLength="28" x="316" y="238.1045">fly()</text></g><!--MD5=[ef9b5a201887c81df51e991b951971f6]
+class DecoyDuck--><g id="elem_DecoyDuck"><rect codeLine="33" fill="#FFFFFF" height="95.0439" id="DecoyDuck" rx="2.5" ry="2.5" style="stroke:#000000;stroke-width:1.0;" width="106" x="459" y="150"/><ellipse cx="472" cy="164" fill="#FFFFFF" rx="9" ry="9" style="stroke:#000000;stroke-width:1.0;"/><path d="M474.9688,169.6406 Q474.3906,169.9375 473.75,170.0781 Q473.1094,170.2344 472.4063,170.2344 Q469.9063,170.2344 468.5781,168.5938 Q467.2656,166.9375 467.2656,163.8125 Q467.2656,160.6875 468.5781,159.0313 Q469.9063,157.375 472.4063,157.375 Q473.1094,157.375 473.75,157.5313 Q474.4063,157.6875 474.9688,157.9844 L474.9688,160.7031 Q474.3438,160.125 473.75,159.8594 Q473.1563,159.5781 472.5313,159.5781 Q471.1875,159.5781 470.5,160.6563 Q469.8125,161.7188 469.8125,163.8125 Q469.8125,165.9063 470.5,166.9844 Q471.1875,168.0469 472.5313,168.0469 Q473.1563,168.0469 473.75,167.7813 Q474.3438,167.5 474.9688,166.9219 L474.9688,169.6406 Z " fill="#000000"/><text fill="#000000" font-family="Verdana" font-size="14" lengthAdjust="spacing" textLength="78" x="484" y="169.5679">DecoyDuck</text><line style="stroke:#000000;stroke-width:1.0;" x1="460" x2="564" y1="178" y2="178"/><line style="stroke:#000000;stroke-width:1.0;" x1="460" x2="564" y1="186" y2="186"/><text fill="#000000" font-family="Verdana" font-size="14" lengthAdjust="spacing" textLength="53" x="465" y="204.0752">quack()</text><text fill="#000000" font-family="Verdana" font-size="14" lengthAdjust="spacing" textLength="60" x="465" y="221.0898">dispaly()</text><text fill="#000000" font-family="Verdana" font-size="14" lengthAdjust="spacing" textLength="28" x="465" y="238.1045">fly()</text></g><!--MD5=[2aedad9cea871c249b4d1ec76ad60340]
+class Flyable--><g id="elem_Flyable"><rect codeLine="39" fill="#FFFFFF" height="61.0146" id="Flyable" rx="2.5" ry="2.5" style="stroke:#000000;stroke-width:1.0;" width="77" x="37.5" y="20.5"/><ellipse cx="50.5" cy="34.5" fill="#FFFFFF" rx="9" ry="9" style="stroke:#000000;stroke-width:1.0;"/><path d="M46.4219,30.2656 L46.4219,28.1094 L53.8125,28.1094 L53.8125,30.2656 L51.3438,30.2656 L51.3438,38.3438 L53.8125,38.3438 L53.8125,40.5 L46.4219,40.5 L46.4219,38.3438 L48.8906,38.3438 L48.8906,30.2656 L46.4219,30.2656 Z " fill="#000000"/><text fill="#000000" font-family="Verdana" font-size="14" font-style="italic" lengthAdjust="spacing" textLength="49" x="62.5" y="40.0679">Flyable</text><line style="stroke:#000000;stroke-width:1.0;" x1="38.5" x2="113.5" y1="48.5" y2="48.5"/><line style="stroke:#000000;stroke-width:1.0;" x1="38.5" x2="113.5" y1="56.5" y2="56.5"/><text fill="#000000" font-family="Verdana" font-size="14" font-style="italic" lengthAdjust="spacing" textLength="29" x="43.5" y="74.5752">fly()</text></g><!--MD5=[f9f9f82c51f6e3e1883b9ad313952a81]
+class Quackable--><g id="elem_Quackable"><rect codeLine="43" fill="#FFFFFF" height="61.0146" id="Quackable" rx="2.5" ry="2.5" style="stroke:#000000;stroke-width:1.0;" width="101" x="161.5" y="20.5"/><ellipse cx="174.5" cy="34.5" fill="#FFFFFF" rx="9" ry="9" style="stroke:#000000;stroke-width:1.0;"/><path d="M170.4219,30.2656 L170.4219,28.1094 L177.8125,28.1094 L177.8125,30.2656 L175.3438,30.2656 L175.3438,38.3438 L177.8125,38.3438 L177.8125,40.5 L170.4219,40.5 L170.4219,38.3438 L172.8906,38.3438 L172.8906,30.2656 L170.4219,30.2656 Z " fill="#000000"/><text fill="#000000" font-family="Verdana" font-size="14" font-style="italic" lengthAdjust="spacing" textLength="73" x="186.5" y="40.0679">Quackable</text><line style="stroke:#000000;stroke-width:1.0;" x1="162.5" x2="261.5" y1="48.5" y2="48.5"/><line style="stroke:#000000;stroke-width:1.0;" x1="162.5" x2="261.5" y1="56.5" y2="56.5"/><text fill="#000000" font-family="Verdana" font-size="14" font-style="italic" lengthAdjust="spacing" textLength="54" x="167.5" y="74.5752">quack()</text></g><!--MD5=[1775a266fce6dd61e422d78ff7eaf2f9]
+reverse link Duck to MallarDuck--><g id="link_Duck_MallarDuck"><path codeLine="2" d="M295.49,82.35 C290.29,85.01 285.07,87.6 280,90 C215.82,120.31 194.66,116.65 132,150 C122.69,154.95 113.08,160.86 104.1,166.78 " fill="none" id="Duck-backto-MallarDuck" style="stroke:#000000;stroke-width:1.0;"/><polygon fill="none" points="292.39,76.07,313.34,72.9,298.94,88.44,292.39,76.07" style="stroke:#000000;stroke-width:1.0;"/></g><!--MD5=[01da43fa0165d7798d3533e9d981b537]
+reverse link Duck to RedHeadDuck--><g id="link_Duck_RedHeadDuck"><path codeLine="3" d="M299.4,104.98 C279.53,125.79 257.46,148.9 240.47,166.69 " fill="none" id="Duck-backto-RedHeadDuck" style="stroke:#000000;stroke-width:1.0;"/><polygon fill="none" points="294.51,99.97,313.38,90.34,304.63,109.64,294.51,99.97" style="stroke:#000000;stroke-width:1.0;"/></g><!--MD5=[4fa56e32ebb0bad05c9f28ed45ec70ee]
+reverse link Duck to RubberDuck--><g id="link_Duck_RubberDuck"><path codeLine="4" d="M356.86,110.29 C358.41,123.5 360.04,137.34 361.53,149.98 " fill="none" id="Duck-backto-RubberDuck" style="stroke:#000000;stroke-width:1.0;"/><polygon fill="none" points="349.9,111.02,354.51,90.34,363.8,109.39,349.9,111.02" style="stroke:#000000;stroke-width:1.0;"/></g><!--MD5=[229e783130190a934baefe35706d52a5]
+reverse link Duck to DecoyDuck--><g id="link_Duck_DecoyDuck"><path codeLine="5" d="M401.95,98.34 C420.43,114.82 441.22,133.37 459.72,149.87 " fill="none" id="Duck-backto-DecoyDuck" style="stroke:#000000;stroke-width:1.0;"/><polygon fill="none" points="397.03,103.33,386.76,84.79,406.35,92.88,397.03,103.33" style="stroke:#000000;stroke-width:1.0;"/></g><!--MD5=[24fc2057b89783d6bad1b860416ea54f]
+reverse link Flyable to MallarDuck--><g id="link_Flyable_MallarDuck"><path codeLine="7" d="M71.54,101.6 C69.58,123.36 67.35,148.16 65.66,166.95 " fill="none" id="Flyable-backto-MallarDuck" style="stroke:#000000;stroke-width:1.0;stroke-dasharray:7.0,7.0;"/><polygon fill="none" points="64.57,100.88,73.34,81.59,78.52,102.14,64.57,100.88" style="stroke:#000000;stroke-width:1.0;"/></g><!--MD5=[f56d6cb6624f7166269abd39ee5cf338]
+reverse link Flyable to RedHeadDuck--><g id="link_Flyable_RedHeadDuck"><path codeLine="8" d="M117.66,96.26 C139.25,119.2 165.04,146.6 184.19,166.95 " fill="none" id="Flyable-backto-RedHeadDuck" style="stroke:#000000;stroke-width:1.0;stroke-dasharray:7.0,7.0;"/><polygon fill="none" points="112.46,100.95,103.85,81.59,122.65,91.36,112.46,100.95" style="stroke:#000000;stroke-width:1.0;"/></g><!--MD5=[4789421f63da805cbac30c1dcffa0b8d]
+reverse link Quackable to MallarDuck--><g id="link_Quackable_MallarDuck"><path codeLine="10" d="M167.04,95.6 C143.24,118.68 114.65,146.41 93.47,166.95 " fill="none" id="Quackable-backto-MallarDuck" style="stroke:#000000;stroke-width:1.0;stroke-dasharray:7.0,7.0;"/><polygon fill="none" points="162.26,90.49,181.49,81.59,172,100.54,162.26,90.49" style="stroke:#000000;stroke-width:1.0;"/></g><!--MD5=[e502123fb228cafe941ebd927461fc64]
+reverse link Quackable to RedHeadDuck--><g id="link_Quackable_RedHeadDuck"><path codeLine="11" d="M212,101.6 C212,123.36 212,148.16 212,166.95 " fill="none" id="Quackable-backto-RedHeadDuck" style="stroke:#000000;stroke-width:1.0;stroke-dasharray:7.0,7.0;"/><polygon fill="none" points="205,101.59,212,81.59,219,101.59,205,101.59" style="stroke:#000000;stroke-width:1.0;"/></g><!--MD5=[cfd7f1e5286a7f2463e9179c32d800bd]
+reverse link Quackable to RubberDuck--><g id="link_Quackable_RubberDuck"><path codeLine="12" d="M258.47,95.32 C276.93,112.53 298.2,132.36 316.99,149.88 " fill="none" id="Quackable-backto-RubberDuck" style="stroke:#000000;stroke-width:1.0;stroke-dasharray:7.0,7.0;"/><polygon fill="none" points="253.6,100.35,243.74,81.59,263.14,90.11,253.6,100.35" style="stroke:#000000;stroke-width:1.0;"/></g><!--MD5=[e3c97a3b4790172b05a8004de8af3a7e]
+@startuml
+!theme plain
+Duck <|- - MallarDuck
+Duck <|- - RedHeadDuck
+Duck <|- - RubberDuck
+Duck <|- - DecoyDuck
+
+Flyable <|.. MallarDuck
+Flyable <|.. RedHeadDuck
+
+Quackable <|.. MallarDuck
+Quackable <|.. RedHeadDuck
+Quackable <|.. RubberDuck
+
+class Duck {
+  swim()
+  {abstract} display()
+}
+
+class MallarDuck {
+  display()
+}
+
+class RedHeadDuck {
+  dispaly()
+}
+
+class RubberDuck {
+  quack()
+  dispaly()
+  fly()
+}
+
+class DecoyDuck {
+  quack()
+  dispaly()
+  fly()
+}
+
+interface Flyable {
+  {abstract} fly()
+}
+
+interface Quackable {
+  {abstract} quack()
+}
+
+@enduml
+
+@startuml
+
+
+
+
+
+
+
+<style>
+  root {
+    BackgroundColor white
+    FontColor black
+    FontName Verdana
+    HyperLinkColor blue
+    LineColor black
+    LineThickness 1
+    Margin 5
+  }
+  caption {
+    LineThickness 0
+  }
+  footer {
+    LineThickness 0
+  }
+  header {
+    LineThickness 0
+  }
+  node {
+    MaximumWidth 300
+  }
+  title {
+    FontSize 22
+    LineThickness 0
+  }
+</style>
+
+skinparam ArrowLollipopColor black
+skinparam BackgroundColor white
+skinparam DefaultFontName Verdana
+skinparam DefaultMonospacedFontName Courier
+skinparam LifelineStrategy nosolid
+skinparam ParticipantPadding 10
+skinparam SequenceLifeLineBorderColor black
+skinparam Shadowing false
+skinparam UseBetaStyle true
+
+skinparam Activity {
+  BackgroundColor white
+  BarColor black
+  BorderColor black
+  FontColor black
+  FontName Verdana
+}
+skinparam Boundary {
+  FontColor black
+}
+skinparam Box {
+  Padding 5
+}
+skinparam CircledCharacter {
+  FontColor black
+  FontName Courier
+  Radius 9
+}
+skinparam Class {
+  BackgroundColor white
+  BorderColor black
+  FontColor black
+  FontName Verdana
+}
+skinparam ClassAttribute {
+  FontColor black
+  FontName Verdana
+}
+skinparam ClassStereotype {
+  FontColor black
+  FontName Verdana
+}
+skinparam Footer {
+  FontColor black
+  FontName Verdana
+}
+skinparam Header {
+  FontColor black
+  FontName Verdana
+}
+skinparam Hyperlink {
+  Color blue
+}
+skinparam IconPackage {
+  Color black
+  BackgroundColor white
+}
+skinparam IconPrivate {
+  Color black
+  BackgroundColor white
+}
+skinparam IconProtected {
+  Color black
+  BackgroundColor white
+}
+skinparam IconPublic {
+  Color black
+  BackgroundColor white
+}
+skinparam Note {
+  FontColor black
+  FontName Verdana
+}
+skinparam Object {
+  BorderColor black
+}
+skinparam Package {
+  BorderColor black
+  FontColor black
+  FontName Verdana
+}
+skinparam State {
+  BackgroundColor white
+  BorderColor black
+}
+skinparam StereotypeA {
+  BackgroundColor white
+  BorderColor black
+}
+skinparam StereotypeC {
+  BackgroundColor white
+  BorderColor black
+}
+skinparam StereotypeE {
+  BackgroundColor white
+  BorderColor black
+}
+skinparam StereotypeI {
+  BackgroundColor white
+  BorderColor black
+}
+skinparam StereotypeN {
+  BackgroundColor white
+  BorderColor black
+}
+skinparam UseCaseStereoType {
+  FontColor black
+  FontName Verdana
+}
+Duck <|- - MallarDuck
+Duck <|- - RedHeadDuck
+Duck <|- - RubberDuck
+Duck <|- - DecoyDuck
+
+Flyable <|.. MallarDuck
+Flyable <|.. RedHeadDuck
+
+Quackable <|.. MallarDuck
+Quackable <|.. RedHeadDuck
+Quackable <|.. RubberDuck
+
+class Duck {
+  swim()
+  {abstract} display()
+}
+
+class MallarDuck {
+  display()
+}
+
+class RedHeadDuck {
+  dispaly()
+}
+
+class RubberDuck {
+  quack()
+  dispaly()
+  fly()
+}
+
+class DecoyDuck {
+  quack()
+  dispaly()
+  fly()
+}
+
+interface Flyable {
+  {abstract} fly()
+}
+
+interface Quackable {
+  {abstract} quack()
+}
+
+@enduml
+
+PlantUML version 1.2022.6(Wed Jun 22 01:34:49 CST 2022)
+(GPL source distribution)
+Java Runtime: OpenJDK Runtime Environment
+JVM: OpenJDK 64-Bit Server VM
+Default Encoding: UTF-8
+Language: en
+Country: US
+--></g></svg>
