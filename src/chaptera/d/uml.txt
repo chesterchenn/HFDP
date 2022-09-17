@@ -9,7 +9,7 @@ FlyBehavior <|.. FlyWithWings
 FlyBehavior <|.. FlyNoWay
 
 QuackBehavior <|.. Quack
-QuackBehavior <|.. Squack
+QuackBehavior <|.. Squeak
 QuackBehavior <|.. MuteQuack
 
 abstract class Duck {
@@ -58,7 +58,7 @@ class Quack {
   quack()
 }
 
-class Squack {
+class Squeak {
   quack()
 }
 
