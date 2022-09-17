@@ -10,11 +10,11 @@ public class RubberDuck extends Duck implements Quackable {
 
   @Override
   public void quack() {
-    System.out.println("Rubber! Rubber!");
+    System.out.println("zhi zhi!");
   }
 
   @Override
   public void display() {
-    System.out.println("This is a Rubber Duck!");
+    System.out.println("I'm a Rubber Duck!");
   }
 }

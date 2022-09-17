@@ -10,16 +10,16 @@ public class RedheadDuck extends Duck implements Flyable, Quackable {
   }
 
   public void display() {
-    System.out.println("I'm a real Redhead Duck!!");
+    System.out.println("I'm a Redhead Duck!!");
   }
 
   @Override
   public void quack() {
-    System.out.println("RedHead! RedHead!");
+    System.out.println("ga ga!");
   }
 
   @Override
   public void fly() {
-    System.out.println("RedHead is flying!");
+    System.out.println("Duck is flying!");
   }
 }
