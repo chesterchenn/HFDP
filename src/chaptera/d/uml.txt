@@ -1,0 +1,69 @@
+@startuml
+!theme plain
+Duck <|-- MallarDuck
+Duck <|-- RedHeadDuck
+Duck <|-- RubberDuck
+Duck <|-- DecoyDuck
+
+FlyBehavior <|.. FlyWithWings
+FlyBehavior <|.. FlyNoWay
+
+QuackBehavior <|.. Quack
+QuackBehavior <|.. Squack
+QuackBehavior <|.. MuteQuack
+
+abstract class Duck {
+  FlyBehavior flyBehavior
+  QuackBehavior quackBehavior
+
+  swim()
+  {abstract} display()
+  performQuack()
+  performFly()
+}
+
+class MallarDuck {
+  display()
+}
+
+class RedHeadDuck {
+  dispaly()
+}
+
+class RubberDuck {
+  dispaly()
+}
+
+class DecoyDuck {
+  dispaly()
+}
+
+interface FlyBehavior {
+  {abstract} fly()
+}
+
+class FlyWithWings {
+  fly()
+}
+
+class FlyNoWay {
+  fly()
+}
+
+interface QuackBehavior {
+  {abstract} quack()
+}
+
+class Quack {
+  quack()
+}
+
+class Squack {
+  quack()
+}
+
+class MuteQuack {
+  quack()
+}
+
+@enduml

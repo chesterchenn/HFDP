@@ -5,7 +5,7 @@ Duck <|-- RedHeadDuck
 Duck <|-- RubberDuck
 Duck <|-- DecoyDuck
 
-Class Duck {
+abstract class Duck {
   quack()
   swim()
   {abstract} display()

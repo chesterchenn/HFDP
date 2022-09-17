@@ -12,7 +12,7 @@ Quackable <|.. MallarDuck
 Quackable <|.. RedHeadDuck
 Quackable <|.. RubberDuck
 
-class Duck {
+abstract class Duck {
   swim()
   {abstract} display()
 }
