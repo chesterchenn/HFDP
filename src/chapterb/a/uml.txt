@@ -1,0 +1,59 @@
+@startuml
+!theme plain
+
+Subject <|.. WeatherData
+Subject -> Observer
+Observer <|.. CurrentConditionsDisplay
+Observer <|.. StatisticsDisplay
+Observer <|.. ForecastDisplay
+Observer <|.. ThirdPartyDisplay
+DisplayElement <|.. CurrentConditionsDisplay
+DisplayElement <|.. StatisticsDisplay
+DisplayElement <|.. ForecastDisplay
+DisplayElement <|.. ThirdPartyDisplay
+
+interface Subject {
+  registerObserver()
+  removeObserver()
+  notifyObserver()
+}
+
+class WeatherData {
+  registerObserver()
+  removeObserver()
+  notifyObserver()
+
+  getTemperature()
+  getHumidity()
+  getPressure()
+  measurementsChanged()
+}
+
+interface Observer {
+  update()
+}
+
+interface DisplayElement {
+  display()
+}
+
+class CurrentConditionsDisplay {
+  update()
+  display()
+}
+
+class StatisticsDisplay {
+  update()
+  display()
+}
+
+class ForecastDisplay {
+  update()
+  display()
+}
+
+class ThirdPartyDisplay {
+  update()
+  display()
+}
+@enduml
