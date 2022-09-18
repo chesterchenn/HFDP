@@ -20,6 +20,8 @@ abstract class Duck {
   {abstract} display()
   performQuack()
   performFly()
+  setFlyBehavior()
+  setQuackBehavior()
 }
 
 class MallarDuck {

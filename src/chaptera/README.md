@@ -33,6 +33,11 @@
 
 <div align="center"><img src="./d/uml.svg"></div>
 <div align="center">图1.4</div>
+<div align="center"><a href="./d">d代码</a></div>
+
+## 总结
+
+策略模式定义了算法族，分别封装起来，让它们之间可以互相替换，此模式让算法的变化独立于使用算法的客户。
 
 ## 个人观点
 
