@@ -1,0 +1,282 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" contentStyleType="text/css" height="333px" preserveAspectRatio="none" style="width:935px;height:333px;background:#FFFFFF;" version="1.1" viewBox="0 0 935 333" width="935px" zoomAndPan="magnify"><defs/><g><!--MD5=[c0bd9f44073f1a51428d87d6a9cf071b]
+class Observable--><g id="elem_Observable"><rect codeLine="14" fill="#FFFFFF" height="112.0586" id="Observable" rx="2.5" ry="2.5" style="stroke:#000000;stroke-width:1.0;" width="130" x="177.5" y="58.2295"/><ellipse cx="201.3" cy="72.2295" fill="#FFFFFF" rx="9" ry="9" style="stroke:#000000;stroke-width:1.0;"/><path d="M204.2688,77.8701 Q203.6906,78.167 203.05,78.3076 Q202.4094,78.4639 201.7063,78.4639 Q199.2063,78.4639 197.8781,76.8232 Q196.5656,75.167 196.5656,72.042 Q196.5656,68.917 197.8781,67.2607 Q199.2063,65.6045 201.7063,65.6045 Q202.4094,65.6045 203.05,65.7607 Q203.7063,65.917 204.2688,66.2139 L204.2688,68.9326 Q203.6438,68.3545 203.05,68.0889 Q202.4563,67.8076 201.8313,67.8076 Q200.4875,67.8076 199.8,68.8857 Q199.1125,69.9482 199.1125,72.042 Q199.1125,74.1357 199.8,75.2139 Q200.4875,76.2764 201.8313,76.2764 Q202.4563,76.2764 203.05,76.0107 Q203.6438,75.7295 204.2688,75.1514 L204.2688,77.8701 Z " fill="#000000"/><text fill="#000000" font-family="Verdana" font-size="14" lengthAdjust="spacing" textLength="78" x="215.7" y="77.7974">Observable</text><line style="stroke:#000000;stroke-width:1.0;" x1="178.5" x2="306.5" y1="86.2295" y2="86.2295"/><line style="stroke:#000000;stroke-width:1.0;" x1="178.5" x2="306.5" y1="94.2295" y2="94.2295"/><text fill="#000000" font-family="Verdana" font-size="14" lengthAdjust="spacing" textLength="102" x="183.5" y="112.3047">addObserver()</text><text fill="#000000" font-family="Verdana" font-size="14" lengthAdjust="spacing" textLength="118" x="183.5" y="129.3193">deleteObserver()</text><text fill="#000000" font-family="Verdana" font-size="14" lengthAdjust="spacing" textLength="116" x="183.5" y="146.334">notifyObserver()</text><text fill="#000000" font-family="Verdana" font-size="14" lengthAdjust="spacing" textLength="96" x="183.5" y="163.3486">setChanged()</text></g><!--MD5=[dd430b671f247037c3d3af64e9fb01da]
+class WeatherData--><g id="elem_WeatherData"><rect codeLine="21" fill="#FFFFFF" height="95.0439" id="WeatherData" rx="2.5" ry="2.5" style="stroke:#000000;stroke-width:1.0;" width="137" x="12" y="231.2295"/><ellipse cx="32.2" cy="245.2295" fill="#FFFFFF" rx="9" ry="9" style="stroke:#000000;stroke-width:1.0;"/><path d="M35.1688,250.8701 Q34.5906,251.167 33.95,251.3076 Q33.3094,251.4639 32.6063,251.4639 Q30.1063,251.4639 28.7781,249.8232 Q27.4656,248.167 27.4656,245.042 Q27.4656,241.917 28.7781,240.2607 Q30.1063,238.6045 32.6063,238.6045 Q33.3094,238.6045 33.95,238.7607 Q34.6063,238.917 35.1688,239.2139 L35.1688,241.9326 Q34.5438,241.3545 33.95,241.0889 Q33.3563,240.8076 32.7313,240.8076 Q31.3875,240.8076 30.7,241.8857 Q30.0125,242.9482 30.0125,245.042 Q30.0125,247.1357 30.7,248.2139 Q31.3875,249.2764 32.7313,249.2764 Q33.3563,249.2764 33.95,249.0107 Q34.5438,248.7295 35.1688,248.1514 L35.1688,250.8701 Z " fill="#000000"/><text fill="#000000" font-family="Verdana" font-size="14" lengthAdjust="spacing" textLength="93" x="45.8" y="250.7974">WeatherData</text><line style="stroke:#000000;stroke-width:1.0;" x1="13" x2="148" y1="259.2295" y2="259.2295"/><line style="stroke:#000000;stroke-width:1.0;" x1="13" x2="148" y1="267.2295" y2="267.2295"/><text fill="#000000" font-family="Verdana" font-size="14" lengthAdjust="spacing" textLength="125" x="18" y="285.3047">getTemperature()</text><text fill="#000000" font-family="Verdana" font-size="14" lengthAdjust="spacing" textLength="96" x="18" y="302.3193">getHumidity()</text><text fill="#000000" font-family="Verdana" font-size="14" lengthAdjust="spacing" textLength="96" x="18" y="319.334">getPressure()</text></g><!--MD5=[d40932010816485ec57b44b6eea2392a]
+class Observer--><g id="elem_Observer"><rect codeLine="27" fill="#FFFFFF" height="61.0146" id="Observer" rx="2.5" ry="2.5" style="stroke:#000000;stroke-width:1.0;" width="91" x="516" y="83.7295"/><ellipse cx="529" cy="97.7295" fill="#FFFFFF" rx="9" ry="9" style="stroke:#000000;stroke-width:1.0;"/><path d="M524.9219,93.4951 L524.9219,91.3389 L532.3125,91.3389 L532.3125,93.4951 L529.8438,93.4951 L529.8438,101.5732 L532.3125,101.5732 L532.3125,103.7295 L524.9219,103.7295 L524.9219,101.5732 L527.3906,101.5732 L527.3906,93.4951 L524.9219,93.4951 Z " fill="#000000"/><text fill="#000000" font-family="Verdana" font-size="14" font-style="italic" lengthAdjust="spacing" textLength="63" x="541" y="103.2974">Observer</text><line style="stroke:#000000;stroke-width:1.0;" x1="517" x2="606" y1="111.7295" y2="111.7295"/><line style="stroke:#000000;stroke-width:1.0;" x1="517" x2="606" y1="119.7295" y2="119.7295"/><text fill="#000000" font-family="Verdana" font-size="14" lengthAdjust="spacing" textLength="61" x="522" y="137.8047">update()</text></g><!--MD5=[21ee70214d070d545642beb8c75f25d8]
+class CurrentConditionsDisplay--><g id="elem_CurrentConditionsDisplay"><rect codeLine="35" fill="#FFFFFF" height="78.0293" id="CurrentConditionsDisplay" rx="2.5" ry="2.5" style="stroke:#000000;stroke-width:1.0;" width="207" x="721" y="239.7295"/><ellipse cx="734" cy="253.7295" fill="#FFFFFF" rx="9" ry="9" style="stroke:#000000;stroke-width:1.0;"/><path d="M736.9688,259.3701 Q736.3906,259.667 735.75,259.8076 Q735.1094,259.9639 734.4063,259.9639 Q731.9063,259.9639 730.5781,258.3232 Q729.2656,256.667 729.2656,253.542 Q729.2656,250.417 730.5781,248.7607 Q731.9063,247.1045 734.4063,247.1045 Q735.1094,247.1045 735.75,247.2607 Q736.4063,247.417 736.9688,247.7139 L736.9688,250.4326 Q736.3438,249.8545 735.75,249.5889 Q735.1563,249.3076 734.5313,249.3076 Q733.1875,249.3076 732.5,250.3857 Q731.8125,251.4482 731.8125,253.542 Q731.8125,255.6357 732.5,256.7139 Q733.1875,257.7764 734.5313,257.7764 Q735.1563,257.7764 735.75,257.5107 Q736.3438,257.2295 736.9688,256.6514 L736.9688,259.3701 Z " fill="#000000"/><text fill="#000000" font-family="Verdana" font-size="14" lengthAdjust="spacing" textLength="179" x="746" y="259.2974">CurrentConditionsDisplay</text><line style="stroke:#000000;stroke-width:1.0;" x1="722" x2="927" y1="267.7295" y2="267.7295"/><line style="stroke:#000000;stroke-width:1.0;" x1="722" x2="927" y1="275.7295" y2="275.7295"/><text fill="#000000" font-family="Verdana" font-size="14" lengthAdjust="spacing" textLength="61" x="727" y="293.8047">update()</text><text fill="#000000" font-family="Verdana" font-size="14" lengthAdjust="spacing" textLength="60" x="727" y="310.8193">display()</text></g><!--MD5=[eec51a66d6ef8c9d6fcb15493d697f85]
+class StatisticsDisplay--><g id="elem_StatisticsDisplay"><rect codeLine="40" fill="#FFFFFF" height="78.0293" id="StatisticsDisplay" rx="2.5" ry="2.5" style="stroke:#000000;stroke-width:1.0;" width="143" x="184" y="239.7295"/><ellipse cx="197" cy="253.7295" fill="#FFFFFF" rx="9" ry="9" style="stroke:#000000;stroke-width:1.0;"/><path d="M199.9688,259.3701 Q199.3906,259.667 198.75,259.8076 Q198.1094,259.9639 197.4063,259.9639 Q194.9063,259.9639 193.5781,258.3232 Q192.2656,256.667 192.2656,253.542 Q192.2656,250.417 193.5781,248.7607 Q194.9063,247.1045 197.4063,247.1045 Q198.1094,247.1045 198.75,247.2607 Q199.4063,247.417 199.9688,247.7139 L199.9688,250.4326 Q199.3438,249.8545 198.75,249.5889 Q198.1563,249.3076 197.5313,249.3076 Q196.1875,249.3076 195.5,250.3857 Q194.8125,251.4482 194.8125,253.542 Q194.8125,255.6357 195.5,256.7139 Q196.1875,257.7764 197.5313,257.7764 Q198.1563,257.7764 198.75,257.5107 Q199.3438,257.2295 199.9688,256.6514 L199.9688,259.3701 Z " fill="#000000"/><text fill="#000000" font-family="Verdana" font-size="14" lengthAdjust="spacing" textLength="115" x="209" y="259.2974">StatisticsDisplay</text><line style="stroke:#000000;stroke-width:1.0;" x1="185" x2="326" y1="267.7295" y2="267.7295"/><line style="stroke:#000000;stroke-width:1.0;" x1="185" x2="326" y1="275.7295" y2="275.7295"/><text fill="#000000" font-family="Verdana" font-size="14" lengthAdjust="spacing" textLength="61" x="190" y="293.8047">update()</text><text fill="#000000" font-family="Verdana" font-size="14" lengthAdjust="spacing" textLength="60" x="190" y="310.8193">display()</text></g><!--MD5=[0c5b86180f045f00e8d5f9a51a584ce2]
+class ForecastDisplay--><g id="elem_ForecastDisplay"><rect codeLine="45" fill="#FFFFFF" height="78.0293" id="ForecastDisplay" rx="2.5" ry="2.5" style="stroke:#000000;stroke-width:1.0;" width="138" x="547.5" y="239.7295"/><ellipse cx="560.5" cy="253.7295" fill="#FFFFFF" rx="9" ry="9" style="stroke:#000000;stroke-width:1.0;"/><path d="M563.4688,259.3701 Q562.8906,259.667 562.25,259.8076 Q561.6094,259.9639 560.9063,259.9639 Q558.4063,259.9639 557.0781,258.3232 Q555.7656,256.667 555.7656,253.542 Q555.7656,250.417 557.0781,248.7607 Q558.4063,247.1045 560.9063,247.1045 Q561.6094,247.1045 562.25,247.2607 Q562.9063,247.417 563.4688,247.7139 L563.4688,250.4326 Q562.8438,249.8545 562.25,249.5889 Q561.6563,249.3076 561.0313,249.3076 Q559.6875,249.3076 559,250.3857 Q558.3125,251.4482 558.3125,253.542 Q558.3125,255.6357 559,256.7139 Q559.6875,257.7764 561.0313,257.7764 Q561.6563,257.7764 562.25,257.5107 Q562.8438,257.2295 563.4688,256.6514 L563.4688,259.3701 Z " fill="#000000"/><text fill="#000000" font-family="Verdana" font-size="14" lengthAdjust="spacing" textLength="110" x="572.5" y="259.2974">ForecastDisplay</text><line style="stroke:#000000;stroke-width:1.0;" x1="548.5" x2="684.5" y1="267.7295" y2="267.7295"/><line style="stroke:#000000;stroke-width:1.0;" x1="548.5" x2="684.5" y1="275.7295" y2="275.7295"/><text fill="#000000" font-family="Verdana" font-size="14" lengthAdjust="spacing" textLength="61" x="553.5" y="293.8047">update()</text><text fill="#000000" font-family="Verdana" font-size="14" lengthAdjust="spacing" textLength="60" x="553.5" y="310.8193">display()</text></g><!--MD5=[bc07ab1af7d1149f6f107f733b75e9b5]
+class ThirdPartyDisplay--><g id="elem_ThirdPartyDisplay"><rect codeLine="50" fill="#FFFFFF" height="78.0293" id="ThirdPartyDisplay" rx="2.5" ry="2.5" style="stroke:#000000;stroke-width:1.0;" width="150" x="362.5" y="239.7295"/><ellipse cx="375.5" cy="253.7295" fill="#FFFFFF" rx="9" ry="9" style="stroke:#000000;stroke-width:1.0;"/><path d="M378.4688,259.3701 Q377.8906,259.667 377.25,259.8076 Q376.6094,259.9639 375.9063,259.9639 Q373.4063,259.9639 372.0781,258.3232 Q370.7656,256.667 370.7656,253.542 Q370.7656,250.417 372.0781,248.7607 Q373.4063,247.1045 375.9063,247.1045 Q376.6094,247.1045 377.25,247.2607 Q377.9063,247.417 378.4688,247.7139 L378.4688,250.4326 Q377.8438,249.8545 377.25,249.5889 Q376.6563,249.3076 376.0313,249.3076 Q374.6875,249.3076 374,250.3857 Q373.3125,251.4482 373.3125,253.542 Q373.3125,255.6357 374,256.7139 Q374.6875,257.7764 376.0313,257.7764 Q376.6563,257.7764 377.25,257.5107 Q377.8438,257.2295 378.4688,256.6514 L378.4688,259.3701 Z " fill="#000000"/><text fill="#000000" font-family="Verdana" font-size="14" lengthAdjust="spacing" textLength="122" x="387.5" y="259.2974">ThirdPartyDisplay</text><line style="stroke:#000000;stroke-width:1.0;" x1="363.5" x2="511.5" y1="267.7295" y2="267.7295"/><line style="stroke:#000000;stroke-width:1.0;" x1="363.5" x2="511.5" y1="275.7295" y2="275.7295"/><text fill="#000000" font-family="Verdana" font-size="14" lengthAdjust="spacing" textLength="61" x="368.5" y="293.8047">update()</text><text fill="#000000" font-family="Verdana" font-size="14" lengthAdjust="spacing" textLength="60" x="368.5" y="310.8193">display()</text></g><!--MD5=[297a0fef87b4e1353b7422f9b4d8cc2e]
+class DisplayElement--><g id="elem_DisplayElement"><rect codeLine="31" fill="#FFFFFF" height="61.0146" id="DisplayElement" rx="2.5" ry="2.5" style="stroke:#000000;stroke-width:1.0;" width="138" x="342.5" y="83.7295"/><ellipse cx="355.5" cy="97.7295" fill="#FFFFFF" rx="9" ry="9" style="stroke:#000000;stroke-width:1.0;"/><path d="M351.4219,93.4951 L351.4219,91.3389 L358.8125,91.3389 L358.8125,93.4951 L356.3438,93.4951 L356.3438,101.5732 L358.8125,101.5732 L358.8125,103.7295 L351.4219,103.7295 L351.4219,101.5732 L353.8906,101.5732 L353.8906,93.4951 L351.4219,93.4951 Z " fill="#000000"/><text fill="#000000" font-family="Verdana" font-size="14" font-style="italic" lengthAdjust="spacing" textLength="110" x="367.5" y="103.2974">DisplayElement</text><line style="stroke:#000000;stroke-width:1.0;" x1="343.5" x2="479.5" y1="111.7295" y2="111.7295"/><line style="stroke:#000000;stroke-width:1.0;" x1="343.5" x2="479.5" y1="119.7295" y2="119.7295"/><text fill="#000000" font-family="Verdana" font-size="14" lengthAdjust="spacing" textLength="60" x="348.5" y="137.8047">display()</text></g><!--MD5=[74d90b4b8aa91389610ddf45f8ebec89]
+reverse link Observable to WeatherData--><g id="link_Observable_WeatherData"><path codeLine="3" d="M173.47,184.4795 C157.75,200.2395 141.42,216.6195 126.92,231.1695 " fill="none" id="Observable-backto-WeatherData" style="stroke:#000000;stroke-width:1.0;stroke-dasharray:7.0,7.0;"/><polygon fill="none" points="168.58,179.4695,187.65,170.2495,178.49,189.3495,168.58,179.4695" style="stroke:#000000;stroke-width:1.0;"/></g><!--MD5=[8e2a9fffec268e9f5174791eb82aa096]
+link Observable to Observer--><g id="link_Observable_Observer"><path codeLine="4" d="M307.83,63.7795 C332.47,48.0295 361.66,33.0095 391,26.2295 C442.15,14.3995 494.93,50.4895 527.96,79.9795 " fill="none" id="Observable-to-Observer" style="stroke:#000000;stroke-width:1.0;"/><polygon fill="#000000" points="531.89,83.5295,527.9126,74.5195,528.1871,80.1697,522.5369,80.4442,531.89,83.5295" style="stroke:#000000;stroke-width:1.0;"/><text fill="#000000" font-family="Verdana" font-size="13" lengthAdjust="spacing" textLength="39" x="392" y="25.2993">观察者</text></g><!--MD5=[71c5a4510c64614cacd0040bacfc7544]
+reverse link Observer to CurrentConditionsDisplay--><g id="link_Observer_CurrentConditionsDisplay"><path codeLine="5" d="M624.12,153.9195 C666.07,179.8395 721.05,213.8095 762.81,239.6095 " fill="none" id="Observer-backto-CurrentConditionsDisplay" style="stroke:#000000;stroke-width:1.0;stroke-dasharray:7.0,7.0;"/><polygon fill="none" points="620.35,159.8195,607.01,143.3495,627.7,147.9095,620.35,159.8195" style="stroke:#000000;stroke-width:1.0;"/></g><!--MD5=[2bcb0a47cf608b713d9071c9a2849b0b]
+reverse link Observer to StatisticsDisplay--><g id="link_Observer_StatisticsDisplay"><path codeLine="6" d="M516.26,157.8295 C510.49,162.3095 504.5,166.5595 498.5,170.2295 C436.03,208.3995 412.1,200.8395 345.5,231.2295 C339.58,233.9295 333.49,236.8195 327.41,239.7895 " fill="none" id="Observer-backto-StatisticsDisplay" style="stroke:#000000;stroke-width:1.0;stroke-dasharray:7.0,7.0;"/><polygon fill="none" points="511.9,152.3395,531.73,144.8795,520.89,163.0795,511.9,152.3395" style="stroke:#000000;stroke-width:1.0;"/></g><!--MD5=[7ecb7c8e0148d76c0abeb0d63a045250]
+reverse link Observer to ForecastDisplay--><g id="link_Observer_ForecastDisplay"><path codeLine="7" d="M578.02,164.0295 C586.2,188.1995 595.93,216.9595 603.56,239.5095 " fill="none" id="Observer-backto-ForecastDisplay" style="stroke:#000000;stroke-width:1.0;stroke-dasharray:7.0,7.0;"/><polygon fill="none" points="571.37,166.2195,571.59,145.0395,584.63,161.7395,571.37,166.2195" style="stroke:#000000;stroke-width:1.0;"/></g><!--MD5=[8c72b0978d3bc940fd66a76d6b2599aa]
+reverse link Observer to ThirdPartyDisplay--><g id="link_Observer_ThirdPartyDisplay"><path codeLine="8" d="M526.46,161.1495 C507.58,185.8895 484.56,216.0595 466.67,239.5095 " fill="none" id="Observer-backto-ThirdPartyDisplay" style="stroke:#000000;stroke-width:1.0;stroke-dasharray:7.0,7.0;"/><polygon fill="none" points="521.06,156.6895,538.76,145.0395,532.19,165.1795,521.06,156.6895" style="stroke:#000000;stroke-width:1.0;"/></g><!--MD5=[b13bdce0f597f37136d2bd8d4a46acc3]
+reverse link DisplayElement to CurrentConditionsDisplay--><g id="link_DisplayElement_CurrentConditionsDisplay"><path codeLine="9" d="M470.24,155.3795 C479.47,160.7895 489.08,165.9495 498.5,170.2295 C585.04,209.5495 613.51,200.5995 703.5,231.2295 C711.28,233.8795 719.29,236.7095 727.33,239.6295 " fill="none" id="DisplayElement-backto-CurrentConditionsDisplay" style="stroke:#000000;stroke-width:1.0;stroke-dasharray:7.0,7.0;"/><polygon fill="none" points="466.45,161.2595,453.11,144.7995,473.81,149.3495,466.45,161.2595" style="stroke:#000000;stroke-width:1.0;"/></g><!--MD5=[d17cc8ea90d6a1d7054f18666455591b]
+reverse link DisplayElement to StatisticsDisplay--><g id="link_DisplayElement_StatisticsDisplay"><path codeLine="10" d="M368.78,159.7295 C344.78,184.7295 315.14,215.6095 292.19,239.5095 " fill="none" id="DisplayElement-backto-StatisticsDisplay" style="stroke:#000000;stroke-width:1.0;stroke-dasharray:7.0,7.0;"/><polygon fill="none" points="363.99,154.6195,382.89,145.0395,374.09,164.3095,363.99,154.6195" style="stroke:#000000;stroke-width:1.0;"/></g><!--MD5=[114179d18ae80a3a67e94fb1923de588]
+reverse link DisplayElement to ForecastDisplay--><g id="link_DisplayElement_ForecastDisplay"><path codeLine="11" d="M464.97,157.6195 C496.96,182.9695 537.28,214.9295 568.28,239.5095 " fill="none" id="DisplayElement-backto-ForecastDisplay" style="stroke:#000000;stroke-width:1.0;stroke-dasharray:7.0,7.0;"/><polygon fill="none" points="460.42,162.9395,449.1,145.0395,469.12,151.9695,460.42,162.9395" style="stroke:#000000;stroke-width:1.0;"/></g><!--MD5=[2bcb0c1489444680d87edc4925d68a71]
+reverse link DisplayElement to ThirdPartyDisplay--><g id="link_DisplayElement_ThirdPartyDisplay"><path codeLine="12" d="M419.48,165.1195 C423.31,189.0595 427.83,217.2995 431.38,239.5095 " fill="none" id="DisplayElement-backto-ThirdPartyDisplay" style="stroke:#000000;stroke-width:1.0;stroke-dasharray:7.0,7.0;"/><polygon fill="none" points="412.52,165.8895,416.27,145.0395,426.34,163.6795,412.52,165.8895" style="stroke:#000000;stroke-width:1.0;"/></g><!--MD5=[dcf98eb6c2ae2f092a235c8491568e9d]
+@startuml
+!theme plain
+
+Observable <|.. WeatherData
+Observable -> Observer : 观察者
+Observer <|.. CurrentConditionsDisplay
+Observer <|.. StatisticsDisplay
+Observer <|.. ForecastDisplay
+Observer <|.. ThirdPartyDisplay
+DisplayElement <|.. CurrentConditionsDisplay
+DisplayElement <|.. StatisticsDisplay
+DisplayElement <|.. ForecastDisplay
+DisplayElement <|.. ThirdPartyDisplay
+
+class Observable {
+  addObserver()
+  deleteObserver()
+  notifyObserver()
+  setChanged()
+}
+
+class WeatherData {
+  getTemperature()
+  getHumidity()
+  getPressure()
+}
+
+interface Observer {
+  update()
+}
+
+interface DisplayElement {
+  display()
+}
+
+class CurrentConditionsDisplay {
+  update()
+  display()
+}
+
+class StatisticsDisplay {
+  update()
+  display()
+}
+
+class ForecastDisplay {
+  update()
+  display()
+}
+
+class ThirdPartyDisplay {
+  update()
+  display()
+}
+@enduml
+
+@startuml
+
+
+
+
+
+
+
+<style>
+  root {
+    BackgroundColor white
+    FontColor black
+    FontName Verdana
+    HyperLinkColor blue
+    LineColor black
+    LineThickness 1
+    Margin 5
+  }
+  caption {
+    LineThickness 0
+  }
+  footer {
+    LineThickness 0
+  }
+  header {
+    LineThickness 0
+  }
+  node {
+    MaximumWidth 300
+  }
+  title {
+    FontSize 22
+    LineThickness 0
+  }
+</style>
+
+skinparam ArrowLollipopColor black
+skinparam BackgroundColor white
+skinparam DefaultFontName Verdana
+skinparam DefaultMonospacedFontName Courier
+skinparam LifelineStrategy nosolid
+skinparam ParticipantPadding 10
+skinparam SequenceLifeLineBorderColor black
+skinparam Shadowing false
+skinparam UseBetaStyle true
+
+skinparam Activity {
+  BackgroundColor white
+  BarColor black
+  BorderColor black
+  FontColor black
+  FontName Verdana
+}
+skinparam Boundary {
+  FontColor black
+}
+skinparam Box {
+  Padding 5
+}
+skinparam CircledCharacter {
+  FontColor black
+  FontName Courier
+  Radius 9
+}
+skinparam Class {
+  BackgroundColor white
+  BorderColor black
+  FontColor black
+  FontName Verdana
+}
+skinparam ClassAttribute {
+  FontColor black
+  FontName Verdana
+}
+skinparam ClassStereotype {
+  FontColor black
+  FontName Verdana
+}
+skinparam Footer {
+  FontColor black
+  FontName Verdana
+}
+skinparam Header {
+  FontColor black
+  FontName Verdana
+}
+skinparam Hyperlink {
+  Color blue
+}
+skinparam IconPackage {
+  Color black
+  BackgroundColor white
+}
+skinparam IconPrivate {
+  Color black
+  BackgroundColor white
+}
+skinparam IconProtected {
+  Color black
+  BackgroundColor white
+}
+skinparam IconPublic {
+  Color black
+  BackgroundColor white
+}
+skinparam Note {
+  FontColor black
+  FontName Verdana
+}
+skinparam Object {
+  BorderColor black
+}
+skinparam Package {
+  BorderColor black
+  FontColor black
+  FontName Verdana
+}
+skinparam State {
+  BackgroundColor white
+  BorderColor black
+}
+skinparam StereotypeA {
+  BackgroundColor white
+  BorderColor black
+}
+skinparam StereotypeC {
+  BackgroundColor white
+  BorderColor black
+}
+skinparam StereotypeE {
+  BackgroundColor white
+  BorderColor black
+}
+skinparam StereotypeI {
+  BackgroundColor white
+  BorderColor black
+}
+skinparam StereotypeN {
+  BackgroundColor white
+  BorderColor black
+}
+skinparam UseCaseStereoType {
+  FontColor black
+  FontName Verdana
+}
+
+Observable <|.. WeatherData
+Observable -> Observer : 观察者
+Observer <|.. CurrentConditionsDisplay
+Observer <|.. StatisticsDisplay
+Observer <|.. ForecastDisplay
+Observer <|.. ThirdPartyDisplay
+DisplayElement <|.. CurrentConditionsDisplay
+DisplayElement <|.. StatisticsDisplay
+DisplayElement <|.. ForecastDisplay
+DisplayElement <|.. ThirdPartyDisplay
+
+class Observable {
+  addObserver()
+  deleteObserver()
+  notifyObserver()
+  setChanged()
+}
+
+class WeatherData {
+  getTemperature()
+  getHumidity()
+  getPressure()
+}
+
+interface Observer {
+  update()
+}
+
+interface DisplayElement {
+  display()
+}
+
+class CurrentConditionsDisplay {
+  update()
+  display()
+}
+
+class StatisticsDisplay {
+  update()
+  display()
+}
+
+class ForecastDisplay {
+  update()
+  display()
+}
+
+class ThirdPartyDisplay {
+  update()
+  display()
+}
+@enduml
+
+PlantUML version 1.2022.6(Wed Jun 22 01:34:49 CST 2022)
+(GPL source distribution)
+Java Runtime: OpenJDK Runtime Environment
+JVM: OpenJDK 64-Bit Server VM
+Default Encoding: UTF-8
+Language: en
+Country: US
+--></g></svg>

@@ -10,7 +10,14 @@
 
 ## UML 和代码
 
+### 实现观察者模式
+
 <div align="center"><img src="./a/uml.svg"></div>
-<div align="center">图1.1</div>
+<div align="center">图a</div>
 <div align="center"><a href="./a">a代码</a></div>
 
+### 使用内置观察者模式
+
+<div align="center"><img src="./b/uml.svg"></div>
+<div align="center">图b</div>
+<div align="center"><a href="./b">b代码</a></div>

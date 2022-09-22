@@ -1,8 +1,8 @@
 @startuml
 !theme plain
 
-Subject <|.. WeatherData
-Subject -> Observer : 观察者
+Observable <|.. WeatherData
+Observable -> Observer : 观察者
 Observer <|.. CurrentConditionsDisplay
 Observer <|.. StatisticsDisplay
 Observer <|.. ForecastDisplay
@@ -12,21 +12,17 @@ DisplayElement <|.. StatisticsDisplay
 DisplayElement <|.. ForecastDisplay
 DisplayElement <|.. ThirdPartyDisplay
 
-interface Subject {
-  registerObserver()
-  removeObserver()
+class Observable {
+  addObserver()
+  deleteObserver()
   notifyObserver()
+  setChanged()
 }
 
 class WeatherData {
-  registerObserver()
-  removeObserver()
-  notifyObserver()
-
   getTemperature()
   getHumidity()
   getPressure()
-  measurementsChanged()
 }
 
 interface Observer {

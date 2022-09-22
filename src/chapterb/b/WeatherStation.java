@@ -1,4 +1,4 @@
-package chapterb.a;
+package chapterb.b;
 
 public class WeatherStation {
   public static void main(String[] args) {
