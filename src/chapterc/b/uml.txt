@@ -1,0 +1,40 @@
+@startuml
+!theme plain
+
+Beverage <|-- HouseBlend
+Beverage <|-- DarkRoast
+Beverage <|-- Espresso
+
+abstract class Beverage {
+  String description
+  Boolean milk
+  Boolean soy
+  Boolean mocha
+  Boolean whip
+
+  String getDescription()
+  Double cost()
+
+  getMilk()
+  setMilk()
+  getSoy()
+  setSoy()
+  getMocha()
+  setMocha()
+  getWhip()
+  setWhip()
+}
+
+class HouseBlend {
+  cost()
+}
+
+class DarkRoast {
+  cost()
+}
+
+class Espresso {
+  cost()
+}
+
+@enduml
