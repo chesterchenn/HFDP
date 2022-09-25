@@ -4,12 +4,19 @@
 Beverage <|-- HouseBlendWithMilk
 Beverage <|-- HouseBlendWithSoy
 Beverage <|-- HouseBlendWithMocha
+Beverage <|-- HouseBlendWithWhip
 Beverage <|-- DarkRoastWithMilk
 Beverage <|-- DarkRoastWithSoy
 Beverage <|-- DarkRoastWithMocha
+Beverage <|-- DarkRoastWithWhip
 Beverage <|-- EspressoWithMilk
 Beverage <|-- EspressoWithSoy
 Beverage <|-- EspressoWithMocha
+Beverage <|-- EspressoWithWhip
+Beverage <|-- DecafWithMilk
+Beverage <|-- DecafWithSoy
+Beverage <|-- DecafWithMocha
+Beverage <|-- DecafWithWhip
 
 abstract class Beverage {
   description
@@ -30,6 +37,10 @@ class HouseBlendWithMocha {
   cost()
 }
 
+class HouseBlendWithWhip {
+  cost()
+}
+
 class DarkRoastWithMilk {
   cost()
 }
@@ -42,6 +53,10 @@ class DarkRoastWithMocha {
   cost()
 }
 
+class DarkRoastWithWhip {
+  cost()
+}
+
 class EspressoWithMilk {
   cost()
 }
@@ -51,6 +66,26 @@ class EspressoWithSoy {
 }
 
 class EspressoWithMocha {
+  cost()
+}
+
+class EspressoWithWhip {
+  cost()
+}
+
+class DecafWithSoy {
+  cost()
+}
+
+class DecafWithMilk {
+  cost()
+}
+
+class DecafWithMilk {
+  cost()
+}
+
+class DecafWithMilk {
   cost()
 }
 @enduml

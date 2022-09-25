@@ -3,6 +3,7 @@
 
 Beverage <|-- HouseBlend
 Beverage <|-- DarkRoast
+Beverage <|-- Decaf
 Beverage <|-- Espresso
 
 abstract class Beverage {
@@ -21,6 +22,10 @@ class DarkRoast {
 }
 
 class Espresso {
+  cost()
+}
+
+class Decaf {
   cost()
 }
 
