@@ -1,0 +1,56 @@
+@startuml
+!theme plain
+
+Beverage <|-- HouseBlendWithMilk
+Beverage <|-- HouseBlendWithSoy
+Beverage <|-- HouseBlendWithMocha
+Beverage <|-- DarkRoastWithMilk
+Beverage <|-- DarkRoastWithSoy
+Beverage <|-- DarkRoastWithMocha
+Beverage <|-- EspressoWithMilk
+Beverage <|-- EspressoWithSoy
+Beverage <|-- EspressoWithMocha
+
+abstract class Beverage {
+  description
+
+  getDescription()
+  {abstract} cost()
+}
+
+class HouseBlendWithMilk {
+  cost()
+}
+
+class HouseBlendWithSoy {
+  cost()
+}
+
+class HouseBlendWithMocha {
+  cost()
+}
+
+class DarkRoastWithMilk {
+  cost()
+}
+
+class DarkRoastWithSoy {
+  cost()
+}
+
+class DarkRoastWithMocha {
+  cost()
+}
+
+class EspressoWithMilk {
+  cost()
+}
+
+class EspressoWithSoy {
+  cost()
+}
+
+class EspressoWithMocha {
+  cost()
+}
+@enduml

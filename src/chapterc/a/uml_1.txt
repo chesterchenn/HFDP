@@ -1,0 +1,27 @@
+@startuml
+!theme plain
+
+Beverage <|-- HouseBlend
+Beverage <|-- DarkRoast
+Beverage <|-- Espresso
+
+abstract class Beverage {
+  description
+
+  getDescription()
+  {abstract} cost()
+}
+
+class HouseBlend {
+  cost()
+}
+
+class DarkRoast {
+  cost()
+}
+
+class Espresso {
+  cost()
+}
+
+@enduml

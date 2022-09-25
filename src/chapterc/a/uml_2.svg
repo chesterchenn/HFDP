@@ -1,0 +1,285 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" contentStyleType="text/css" height="235px" preserveAspectRatio="none" style="width:1803px;height:235px;background:#FFFFFF;" version="1.1" viewBox="0 0 1803 235" width="1803px" zoomAndPan="magnify"><defs/><g><!--MD5=[f45f2220b0b110c1551a8318691639c0]
+class Beverage--><g id="elem_Beverage"><rect codeLine="13" fill="#FFFFFF" height="95.0439" id="Beverage" rx="2.5" ry="2.5" style="stroke:#000000;stroke-width:1.0;" width="126" x="858.5" y="12"/><ellipse cx="886.35" cy="26" fill="#FFFFFF" rx="9" ry="9" style="stroke:#000000;stroke-width:1.0;"/><path d="M886.4594,21.3438 L885.3031,26.4219 L887.6313,26.4219 L886.4594,21.3438 Z M884.975,19.1094 L887.9594,19.1094 L891.3188,31.5 L888.8656,31.5 L888.1,28.4375 L884.8188,28.4375 L884.0688,31.5 L881.6313,31.5 L884.975,19.1094 Z " fill="#000000"/><text fill="#000000" font-family="Verdana" font-size="14" font-style="italic" lengthAdjust="spacing" textLength="65" x="901.65" y="31.5679">Beverage</text><line style="stroke:#000000;stroke-width:1.0;" x1="859.5" x2="983.5" y1="40" y2="40"/><text fill="#000000" font-family="Verdana" font-size="14" lengthAdjust="spacing" textLength="77" x="864.5" y="58.0752">description</text><line style="stroke:#000000;stroke-width:1.0;" x1="859.5" x2="983.5" y1="65.0146" y2="65.0146"/><text fill="#000000" font-family="Verdana" font-size="14" lengthAdjust="spacing" textLength="114" x="864.5" y="83.0898">getDescription()</text><text fill="#000000" font-family="Verdana" font-size="14" font-style="italic" lengthAdjust="spacing" textLength="42" x="864.5" y="100.1045">cost()</text></g><!--MD5=[a87989cdfa55fe89b6206876567125a2]
+class HouseBlendWithMilk--><g id="elem_HouseBlendWithMilk"><rect codeLine="20" fill="#FFFFFF" height="61.0146" id="HouseBlendWithMilk" rx="2.5" ry="2.5" style="stroke:#000000;stroke-width:1.0;" width="169" x="12" y="167"/><ellipse cx="25" cy="181" fill="#FFFFFF" rx="9" ry="9" style="stroke:#000000;stroke-width:1.0;"/><path d="M27.9688,186.6406 Q27.3906,186.9375 26.75,187.0781 Q26.1094,187.2344 25.4063,187.2344 Q22.9063,187.2344 21.5781,185.5938 Q20.2656,183.9375 20.2656,180.8125 Q20.2656,177.6875 21.5781,176.0313 Q22.9063,174.375 25.4063,174.375 Q26.1094,174.375 26.75,174.5313 Q27.4063,174.6875 27.9688,174.9844 L27.9688,177.7031 Q27.3438,177.125 26.75,176.8594 Q26.1563,176.5781 25.5313,176.5781 Q24.1875,176.5781 23.5,177.6563 Q22.8125,178.7188 22.8125,180.8125 Q22.8125,182.9063 23.5,183.9844 Q24.1875,185.0469 25.5313,185.0469 Q26.1563,185.0469 26.75,184.7813 Q27.3438,184.5 27.9688,183.9219 L27.9688,186.6406 Z " fill="#000000"/><text fill="#000000" font-family="Verdana" font-size="14" lengthAdjust="spacing" textLength="141" x="37" y="186.5679">HouseBlendWithMilk</text><line style="stroke:#000000;stroke-width:1.0;" x1="13" x2="180" y1="195" y2="195"/><line style="stroke:#000000;stroke-width:1.0;" x1="13" x2="180" y1="203" y2="203"/><text fill="#000000" font-family="Verdana" font-size="14" lengthAdjust="spacing" textLength="42" x="18" y="221.0752">cost()</text></g><!--MD5=[c7d9442f243c0f191cdb743e3ab2dccb]
+class HouseBlendWithSoy--><g id="elem_HouseBlendWithSoy"><rect codeLine="24" fill="#FFFFFF" height="61.0146" id="HouseBlendWithSoy" rx="2.5" ry="2.5" style="stroke:#000000;stroke-width:1.0;" width="171" x="216" y="167"/><ellipse cx="229" cy="181" fill="#FFFFFF" rx="9" ry="9" style="stroke:#000000;stroke-width:1.0;"/><path d="M231.9688,186.6406 Q231.3906,186.9375 230.75,187.0781 Q230.1094,187.2344 229.4063,187.2344 Q226.9063,187.2344 225.5781,185.5938 Q224.2656,183.9375 224.2656,180.8125 Q224.2656,177.6875 225.5781,176.0313 Q226.9063,174.375 229.4063,174.375 Q230.1094,174.375 230.75,174.5313 Q231.4063,174.6875 231.9688,174.9844 L231.9688,177.7031 Q231.3438,177.125 230.75,176.8594 Q230.1563,176.5781 229.5313,176.5781 Q228.1875,176.5781 227.5,177.6563 Q226.8125,178.7188 226.8125,180.8125 Q226.8125,182.9063 227.5,183.9844 Q228.1875,185.0469 229.5313,185.0469 Q230.1563,185.0469 230.75,184.7813 Q231.3438,184.5 231.9688,183.9219 L231.9688,186.6406 Z " fill="#000000"/><text fill="#000000" font-family="Verdana" font-size="14" lengthAdjust="spacing" textLength="143" x="241" y="186.5679">HouseBlendWithSoy</text><line style="stroke:#000000;stroke-width:1.0;" x1="217" x2="386" y1="195" y2="195"/><line style="stroke:#000000;stroke-width:1.0;" x1="217" x2="386" y1="203" y2="203"/><text fill="#000000" font-family="Verdana" font-size="14" lengthAdjust="spacing" textLength="42" x="222" y="221.0752">cost()</text></g><!--MD5=[24848f3356bd48b2c4e98eb00defbfb3]
+class HouseBlendWithMocha--><g id="elem_HouseBlendWithMocha"><rect codeLine="28" fill="#FFFFFF" height="61.0146" id="HouseBlendWithMocha" rx="2.5" ry="2.5" style="stroke:#000000;stroke-width:1.0;" width="188" x="422.5" y="167"/><ellipse cx="435.5" cy="181" fill="#FFFFFF" rx="9" ry="9" style="stroke:#000000;stroke-width:1.0;"/><path d="M438.4688,186.6406 Q437.8906,186.9375 437.25,187.0781 Q436.6094,187.2344 435.9063,187.2344 Q433.4063,187.2344 432.0781,185.5938 Q430.7656,183.9375 430.7656,180.8125 Q430.7656,177.6875 432.0781,176.0313 Q433.4063,174.375 435.9063,174.375 Q436.6094,174.375 437.25,174.5313 Q437.9063,174.6875 438.4688,174.9844 L438.4688,177.7031 Q437.8438,177.125 437.25,176.8594 Q436.6563,176.5781 436.0313,176.5781 Q434.6875,176.5781 434,177.6563 Q433.3125,178.7188 433.3125,180.8125 Q433.3125,182.9063 434,183.9844 Q434.6875,185.0469 436.0313,185.0469 Q436.6563,185.0469 437.25,184.7813 Q437.8438,184.5 438.4688,183.9219 L438.4688,186.6406 Z " fill="#000000"/><text fill="#000000" font-family="Verdana" font-size="14" lengthAdjust="spacing" textLength="160" x="447.5" y="186.5679">HouseBlendWithMocha</text><line style="stroke:#000000;stroke-width:1.0;" x1="423.5" x2="609.5" y1="195" y2="195"/><line style="stroke:#000000;stroke-width:1.0;" x1="423.5" x2="609.5" y1="203" y2="203"/><text fill="#000000" font-family="Verdana" font-size="14" lengthAdjust="spacing" textLength="42" x="428.5" y="221.0752">cost()</text></g><!--MD5=[08fb7919f4c95ef9f5ea3b153adbbe6a]
+class DarkRoastWithMilk--><g id="elem_DarkRoastWithMilk"><rect codeLine="32" fill="#FFFFFF" height="61.0146" id="DarkRoastWithMilk" rx="2.5" ry="2.5" style="stroke:#000000;stroke-width:1.0;" width="160" x="645.5" y="167"/><ellipse cx="658.5" cy="181" fill="#FFFFFF" rx="9" ry="9" style="stroke:#000000;stroke-width:1.0;"/><path d="M661.4688,186.6406 Q660.8906,186.9375 660.25,187.0781 Q659.6094,187.2344 658.9063,187.2344 Q656.4063,187.2344 655.0781,185.5938 Q653.7656,183.9375 653.7656,180.8125 Q653.7656,177.6875 655.0781,176.0313 Q656.4063,174.375 658.9063,174.375 Q659.6094,174.375 660.25,174.5313 Q660.9063,174.6875 661.4688,174.9844 L661.4688,177.7031 Q660.8438,177.125 660.25,176.8594 Q659.6563,176.5781 659.0313,176.5781 Q657.6875,176.5781 657,177.6563 Q656.3125,178.7188 656.3125,180.8125 Q656.3125,182.9063 657,183.9844 Q657.6875,185.0469 659.0313,185.0469 Q659.6563,185.0469 660.25,184.7813 Q660.8438,184.5 661.4688,183.9219 L661.4688,186.6406 Z " fill="#000000"/><text fill="#000000" font-family="Verdana" font-size="14" lengthAdjust="spacing" textLength="132" x="670.5" y="186.5679">DarkRoastWithMilk</text><line style="stroke:#000000;stroke-width:1.0;" x1="646.5" x2="804.5" y1="195" y2="195"/><line style="stroke:#000000;stroke-width:1.0;" x1="646.5" x2="804.5" y1="203" y2="203"/><text fill="#000000" font-family="Verdana" font-size="14" lengthAdjust="spacing" textLength="42" x="651.5" y="221.0752">cost()</text></g><!--MD5=[a6f4f9db35dc6305a77845cddd97e75e]
+class DarkRoastWithSoy--><g id="elem_DarkRoastWithSoy"><rect codeLine="36" fill="#FFFFFF" height="61.0146" id="DarkRoastWithSoy" rx="2.5" ry="2.5" style="stroke:#000000;stroke-width:1.0;" width="162" x="840.5" y="167"/><ellipse cx="853.5" cy="181" fill="#FFFFFF" rx="9" ry="9" style="stroke:#000000;stroke-width:1.0;"/><path d="M856.4688,186.6406 Q855.8906,186.9375 855.25,187.0781 Q854.6094,187.2344 853.9063,187.2344 Q851.4063,187.2344 850.0781,185.5938 Q848.7656,183.9375 848.7656,180.8125 Q848.7656,177.6875 850.0781,176.0313 Q851.4063,174.375 853.9063,174.375 Q854.6094,174.375 855.25,174.5313 Q855.9063,174.6875 856.4688,174.9844 L856.4688,177.7031 Q855.8438,177.125 855.25,176.8594 Q854.6563,176.5781 854.0313,176.5781 Q852.6875,176.5781 852,177.6563 Q851.3125,178.7188 851.3125,180.8125 Q851.3125,182.9063 852,183.9844 Q852.6875,185.0469 854.0313,185.0469 Q854.6563,185.0469 855.25,184.7813 Q855.8438,184.5 856.4688,183.9219 L856.4688,186.6406 Z " fill="#000000"/><text fill="#000000" font-family="Verdana" font-size="14" lengthAdjust="spacing" textLength="134" x="865.5" y="186.5679">DarkRoastWithSoy</text><line style="stroke:#000000;stroke-width:1.0;" x1="841.5" x2="1001.5" y1="195" y2="195"/><line style="stroke:#000000;stroke-width:1.0;" x1="841.5" x2="1001.5" y1="203" y2="203"/><text fill="#000000" font-family="Verdana" font-size="14" lengthAdjust="spacing" textLength="42" x="846.5" y="221.0752">cost()</text></g><!--MD5=[be006db66ed34659e194cd7bab3d80aa]
+class DarkRoastWithMocha--><g id="elem_DarkRoastWithMocha"><rect codeLine="40" fill="#FFFFFF" height="61.0146" id="DarkRoastWithMocha" rx="2.5" ry="2.5" style="stroke:#000000;stroke-width:1.0;" width="179" x="1038" y="167"/><ellipse cx="1051" cy="181" fill="#FFFFFF" rx="9" ry="9" style="stroke:#000000;stroke-width:1.0;"/><path d="M1053.9688,186.6406 Q1053.3906,186.9375 1052.75,187.0781 Q1052.1094,187.2344 1051.4063,187.2344 Q1048.9063,187.2344 1047.5781,185.5938 Q1046.2656,183.9375 1046.2656,180.8125 Q1046.2656,177.6875 1047.5781,176.0313 Q1048.9063,174.375 1051.4063,174.375 Q1052.1094,174.375 1052.75,174.5313 Q1053.4063,174.6875 1053.9688,174.9844 L1053.9688,177.7031 Q1053.3438,177.125 1052.75,176.8594 Q1052.1563,176.5781 1051.5313,176.5781 Q1050.1875,176.5781 1049.5,177.6563 Q1048.8125,178.7188 1048.8125,180.8125 Q1048.8125,182.9063 1049.5,183.9844 Q1050.1875,185.0469 1051.5313,185.0469 Q1052.1563,185.0469 1052.75,184.7813 Q1053.3438,184.5 1053.9688,183.9219 L1053.9688,186.6406 Z " fill="#000000"/><text fill="#000000" font-family="Verdana" font-size="14" lengthAdjust="spacing" textLength="151" x="1063" y="186.5679">DarkRoastWithMocha</text><line style="stroke:#000000;stroke-width:1.0;" x1="1039" x2="1216" y1="195" y2="195"/><line style="stroke:#000000;stroke-width:1.0;" x1="1039" x2="1216" y1="203" y2="203"/><text fill="#000000" font-family="Verdana" font-size="14" lengthAdjust="spacing" textLength="42" x="1044" y="221.0752">cost()</text></g><!--MD5=[19413a84e69e945b697570218222e547]
+class EspressoWithMilk--><g id="elem_EspressoWithMilk"><rect codeLine="44" fill="#FFFFFF" height="61.0146" id="EspressoWithMilk" rx="2.5" ry="2.5" style="stroke:#000000;stroke-width:1.0;" width="151" x="1252" y="167"/><ellipse cx="1265" cy="181" fill="#FFFFFF" rx="9" ry="9" style="stroke:#000000;stroke-width:1.0;"/><path d="M1267.9688,186.6406 Q1267.3906,186.9375 1266.75,187.0781 Q1266.1094,187.2344 1265.4063,187.2344 Q1262.9063,187.2344 1261.5781,185.5938 Q1260.2656,183.9375 1260.2656,180.8125 Q1260.2656,177.6875 1261.5781,176.0313 Q1262.9063,174.375 1265.4063,174.375 Q1266.1094,174.375 1266.75,174.5313 Q1267.4063,174.6875 1267.9688,174.9844 L1267.9688,177.7031 Q1267.3438,177.125 1266.75,176.8594 Q1266.1563,176.5781 1265.5313,176.5781 Q1264.1875,176.5781 1263.5,177.6563 Q1262.8125,178.7188 1262.8125,180.8125 Q1262.8125,182.9063 1263.5,183.9844 Q1264.1875,185.0469 1265.5313,185.0469 Q1266.1563,185.0469 1266.75,184.7813 Q1267.3438,184.5 1267.9688,183.9219 L1267.9688,186.6406 Z " fill="#000000"/><text fill="#000000" font-family="Verdana" font-size="14" lengthAdjust="spacing" textLength="123" x="1277" y="186.5679">EspressoWithMilk</text><line style="stroke:#000000;stroke-width:1.0;" x1="1253" x2="1402" y1="195" y2="195"/><line style="stroke:#000000;stroke-width:1.0;" x1="1253" x2="1402" y1="203" y2="203"/><text fill="#000000" font-family="Verdana" font-size="14" lengthAdjust="spacing" textLength="42" x="1258" y="221.0752">cost()</text></g><!--MD5=[caea3d694a1ade044af4fbd20478c842]
+class EspressoWithSoy--><g id="elem_EspressoWithSoy"><rect codeLine="48" fill="#FFFFFF" height="61.0146" id="EspressoWithSoy" rx="2.5" ry="2.5" style="stroke:#000000;stroke-width:1.0;" width="153" x="1438" y="167"/><ellipse cx="1451" cy="181" fill="#FFFFFF" rx="9" ry="9" style="stroke:#000000;stroke-width:1.0;"/><path d="M1453.9688,186.6406 Q1453.3906,186.9375 1452.75,187.0781 Q1452.1094,187.2344 1451.4063,187.2344 Q1448.9063,187.2344 1447.5781,185.5938 Q1446.2656,183.9375 1446.2656,180.8125 Q1446.2656,177.6875 1447.5781,176.0313 Q1448.9063,174.375 1451.4063,174.375 Q1452.1094,174.375 1452.75,174.5313 Q1453.4063,174.6875 1453.9688,174.9844 L1453.9688,177.7031 Q1453.3438,177.125 1452.75,176.8594 Q1452.1563,176.5781 1451.5313,176.5781 Q1450.1875,176.5781 1449.5,177.6563 Q1448.8125,178.7188 1448.8125,180.8125 Q1448.8125,182.9063 1449.5,183.9844 Q1450.1875,185.0469 1451.5313,185.0469 Q1452.1563,185.0469 1452.75,184.7813 Q1453.3438,184.5 1453.9688,183.9219 L1453.9688,186.6406 Z " fill="#000000"/><text fill="#000000" font-family="Verdana" font-size="14" lengthAdjust="spacing" textLength="125" x="1463" y="186.5679">EspressoWithSoy</text><line style="stroke:#000000;stroke-width:1.0;" x1="1439" x2="1590" y1="195" y2="195"/><line style="stroke:#000000;stroke-width:1.0;" x1="1439" x2="1590" y1="203" y2="203"/><text fill="#000000" font-family="Verdana" font-size="14" lengthAdjust="spacing" textLength="42" x="1444" y="221.0752">cost()</text></g><!--MD5=[0e0c20e3c3296170dcd423de76eafce1]
+class EspressoWithMocha--><g id="elem_EspressoWithMocha"><rect codeLine="52" fill="#FFFFFF" height="61.0146" id="EspressoWithMocha" rx="2.5" ry="2.5" style="stroke:#000000;stroke-width:1.0;" width="170" x="1626.5" y="167"/><ellipse cx="1639.5" cy="181" fill="#FFFFFF" rx="9" ry="9" style="stroke:#000000;stroke-width:1.0;"/><path d="M1642.4688,186.6406 Q1641.8906,186.9375 1641.25,187.0781 Q1640.6094,187.2344 1639.9063,187.2344 Q1637.4063,187.2344 1636.0781,185.5938 Q1634.7656,183.9375 1634.7656,180.8125 Q1634.7656,177.6875 1636.0781,176.0313 Q1637.4063,174.375 1639.9063,174.375 Q1640.6094,174.375 1641.25,174.5313 Q1641.9063,174.6875 1642.4688,174.9844 L1642.4688,177.7031 Q1641.8438,177.125 1641.25,176.8594 Q1640.6563,176.5781 1640.0313,176.5781 Q1638.6875,176.5781 1638,177.6563 Q1637.3125,178.7188 1637.3125,180.8125 Q1637.3125,182.9063 1638,183.9844 Q1638.6875,185.0469 1640.0313,185.0469 Q1640.6563,185.0469 1641.25,184.7813 Q1641.8438,184.5 1642.4688,183.9219 L1642.4688,186.6406 Z " fill="#000000"/><text fill="#000000" font-family="Verdana" font-size="14" lengthAdjust="spacing" textLength="142" x="1651.5" y="186.5679">EspressoWithMocha</text><line style="stroke:#000000;stroke-width:1.0;" x1="1627.5" x2="1795.5" y1="195" y2="195"/><line style="stroke:#000000;stroke-width:1.0;" x1="1627.5" x2="1795.5" y1="203" y2="203"/><text fill="#000000" font-family="Verdana" font-size="14" lengthAdjust="spacing" textLength="42" x="1632.5" y="221.0752">cost()</text></g><!--MD5=[494d6126ca6b61cefc160fc4a0d03c8e]
+reverse link Beverage to HouseBlendWithMilk--><g id="link_Beverage_HouseBlendWithMilk"><path codeLine="3" d="M838.03,69.08 C702.75,83.81 427.64,117.23 198.5,167 C192.83,168.23 187,169.61 181.16,171.07 " fill="none" id="Beverage-backto-HouseBlendWithMilk" style="stroke:#000000;stroke-width:1.0;"/><polygon fill="none" points="837.49,62.1,858.12,66.92,838.99,76.02,837.49,62.1" style="stroke:#000000;stroke-width:1.0;"/></g><!--MD5=[7c37cd2d38a49756e71237c08d648f8a]
+reverse link Beverage to HouseBlendWithSoy--><g id="link_Beverage_HouseBlendWithSoy"><path codeLine="4" d="M838.54,75.58 C736.05,94.67 556.6,129.61 404.5,167 C398.81,168.4 392.96,169.9 387.08,171.46 " fill="none" id="Beverage-backto-HouseBlendWithSoy" style="stroke:#000000;stroke-width:1.0;"/><polygon fill="none" points="837.34,68.68,858.28,71.92,839.89,82.45,837.34,68.68" style="stroke:#000000;stroke-width:1.0;"/></g><!--MD5=[f70161697a30f8f45ac538f835c9e6f3]
+reverse link Beverage to HouseBlendWithMocha--><g id="link_Beverage_HouseBlendWithMocha"><path codeLine="5" d="M838.9,88.24 C770.71,111.14 674.15,143.56 604.5,166.95 " fill="none" id="Beverage-backto-HouseBlendWithMocha" style="stroke:#000000;stroke-width:1.0;"/><polygon fill="none" points="837.03,81.48,858.22,81.75,841.49,94.75,837.03,81.48" style="stroke:#000000;stroke-width:1.0;"/></g><!--MD5=[7dee1f9f702f9b61a19bd53bfdd467a2]
+reverse link Beverage to DarkRoastWithMilk--><g id="link_Beverage_DarkRoastWithMilk"><path codeLine="6" d="M841.72,115.86 C816.5,133.36 789.6,152.02 768.04,166.98 " fill="none" id="Beverage-backto-DarkRoastWithMilk" style="stroke:#000000;stroke-width:1.0;"/><polygon fill="none" points="837.98,109.93,858.41,104.28,845.96,121.43,837.98,109.93" style="stroke:#000000;stroke-width:1.0;"/></g><!--MD5=[4d0ff962e630642ce43469f7fc11f5c1]
+reverse link Beverage to DarkRoastWithSoy--><g id="link_Beverage_DarkRoastWithSoy"><path codeLine="7" d="M921.5,127.73 C921.5,141.4 921.5,155.11 921.5,166.65 " fill="none" id="Beverage-backto-DarkRoastWithSoy" style="stroke:#000000;stroke-width:1.0;"/><polygon fill="none" points="914.5,127.3,921.5,107.3,928.5,127.3,914.5,127.3" style="stroke:#000000;stroke-width:1.0;"/></g><!--MD5=[3781d86d2fa3e92d07520187e2e11b91]
+reverse link Beverage to DarkRoastWithMocha--><g id="link_Beverage_DarkRoastWithMocha"><path codeLine="8" d="M1001.5,113.32 C1029.08,131.52 1058.97,151.26 1082.72,166.93 " fill="none" id="Beverage-backto-DarkRoastWithMocha" style="stroke:#000000;stroke-width:1.0;"/><polygon fill="none" points="997.54,119.09,984.71,102.23,1005.25,107.41,997.54,119.09" style="stroke:#000000;stroke-width:1.0;"/></g><!--MD5=[55d0efacecb533f849e75e27fbbd367b]
+reverse link Beverage to EspressoWithMilk--><g id="link_Beverage_EspressoWithMilk"><path codeLine="9" d="M1004.03,88.15 C1076.57,112.45 1181.28,147.52 1251.73,171.12 " fill="none" id="Beverage-backto-EspressoWithMilk" style="stroke:#000000;stroke-width:1.0;"/><polygon fill="none" points="1001.68,94.74,984.94,81.75,1006.13,81.47,1001.68,94.74" style="stroke:#000000;stroke-width:1.0;"/></g><!--MD5=[461c1dde86404c4640ae4f5e0f239b7a]
+reverse link Beverage to EspressoWithSoy--><g id="link_Beverage_EspressoWithSoy"><path codeLine="10" d="M1004.37,75.72 C1103.83,94.55 1275.38,128.83 1420.5,167 C1426.21,168.5 1432.08,170.13 1437.98,171.83 " fill="none" id="Beverage-backto-EspressoWithSoy" style="stroke:#000000;stroke-width:1.0;"/><polygon fill="none" points="1002.93,82.57,984.57,71.99,1005.52,68.81,1002.93,82.57" style="stroke:#000000;stroke-width:1.0;"/></g><!--MD5=[887f1b67ed4f384506288ce19de839ab]
+reverse link Beverage to EspressoWithMocha--><g id="link_Beverage_EspressoWithMocha"><path codeLine="11" d="M1004.58,69.97 C1134.38,85.53 1392.76,119.58 1608.5,167 C1614.31,168.28 1620.28,169.7 1626.28,171.2 " fill="none" id="Beverage-backto-EspressoWithMocha" style="stroke:#000000;stroke-width:1.0;"/><polygon fill="none" points="1003.54,76.9,984.5,67.59,1005.19,62.99,1003.54,76.9" style="stroke:#000000;stroke-width:1.0;"/></g><!--MD5=[0f475c4e770e4adce7450071333a7dd5]
+@startuml
+!theme plain
+
+Beverage <|- - HouseBlendWithMilk
+Beverage <|- - HouseBlendWithSoy
+Beverage <|- - HouseBlendWithMocha
+Beverage <|- - DarkRoastWithMilk
+Beverage <|- - DarkRoastWithSoy
+Beverage <|- - DarkRoastWithMocha
+Beverage <|- - EspressoWithMilk
+Beverage <|- - EspressoWithSoy
+Beverage <|- - EspressoWithMocha
+
+abstract class Beverage {
+  description
+
+  getDescription()
+  {abstract} cost()
+}
+
+class HouseBlendWithMilk {
+  cost()
+}
+
+class HouseBlendWithSoy {
+  cost()
+}
+
+class HouseBlendWithMocha {
+  cost()
+}
+
+class DarkRoastWithMilk {
+  cost()
+}
+
+class DarkRoastWithSoy {
+  cost()
+}
+
+class DarkRoastWithMocha {
+  cost()
+}
+
+class EspressoWithMilk {
+  cost()
+}
+
+class EspressoWithSoy {
+  cost()
+}
+
+class EspressoWithMocha {
+  cost()
+}
+@enduml
+
+@startuml
+
+
+
+
+
+
+
+<style>
+  root {
+    BackgroundColor white
+    FontColor black
+    FontName Verdana
+    HyperLinkColor blue
+    LineColor black
+    LineThickness 1
+    Margin 5
+  }
+  caption {
+    LineThickness 0
+  }
+  footer {
+    LineThickness 0
+  }
+  header {
+    LineThickness 0
+  }
+  node {
+    MaximumWidth 300
+  }
+  title {
+    FontSize 22
+    LineThickness 0
+  }
+</style>
+
+skinparam ArrowLollipopColor black
+skinparam BackgroundColor white
+skinparam DefaultFontName Verdana
+skinparam DefaultMonospacedFontName Courier
+skinparam LifelineStrategy nosolid
+skinparam ParticipantPadding 10
+skinparam SequenceLifeLineBorderColor black
+skinparam Shadowing false
+skinparam UseBetaStyle true
+
+skinparam Activity {
+  BackgroundColor white
+  BarColor black
+  BorderColor black
+  FontColor black
+  FontName Verdana
+}
+skinparam Boundary {
+  FontColor black
+}
+skinparam Box {
+  Padding 5
+}
+skinparam CircledCharacter {
+  FontColor black
+  FontName Courier
+  Radius 9
+}
+skinparam Class {
+  BackgroundColor white
+  BorderColor black
+  FontColor black
+  FontName Verdana
+}
+skinparam ClassAttribute {
+  FontColor black
+  FontName Verdana
+}
+skinparam ClassStereotype {
+  FontColor black
+  FontName Verdana
+}
+skinparam Footer {
+  FontColor black
+  FontName Verdana
+}
+skinparam Header {
+  FontColor black
+  FontName Verdana
+}
+skinparam Hyperlink {
+  Color blue
+}
+skinparam IconPackage {
+  Color black
+  BackgroundColor white
+}
+skinparam IconPrivate {
+  Color black
+  BackgroundColor white
+}
+skinparam IconProtected {
+  Color black
+  BackgroundColor white
+}
+skinparam IconPublic {
+  Color black
+  BackgroundColor white
+}
+skinparam Note {
+  FontColor black
+  FontName Verdana
+}
+skinparam Object {
+  BorderColor black
+}
+skinparam Package {
+  BorderColor black
+  FontColor black
+  FontName Verdana
+}
+skinparam State {
+  BackgroundColor white
+  BorderColor black
+}
+skinparam StereotypeA {
+  BackgroundColor white
+  BorderColor black
+}
+skinparam StereotypeC {
+  BackgroundColor white
+  BorderColor black
+}
+skinparam StereotypeE {
+  BackgroundColor white
+  BorderColor black
+}
+skinparam StereotypeI {
+  BackgroundColor white
+  BorderColor black
+}
+skinparam StereotypeN {
+  BackgroundColor white
+  BorderColor black
+}
+skinparam UseCaseStereoType {
+  FontColor black
+  FontName Verdana
+}
+
+Beverage <|- - HouseBlendWithMilk
+Beverage <|- - HouseBlendWithSoy
+Beverage <|- - HouseBlendWithMocha
+Beverage <|- - DarkRoastWithMilk
+Beverage <|- - DarkRoastWithSoy
+Beverage <|- - DarkRoastWithMocha
+Beverage <|- - EspressoWithMilk
+Beverage <|- - EspressoWithSoy
+Beverage <|- - EspressoWithMocha
+
+abstract class Beverage {
+  description
+
+  getDescription()
+  {abstract} cost()
+}
+
+class HouseBlendWithMilk {
+  cost()
+}
+
+class HouseBlendWithSoy {
+  cost()
+}
+
+class HouseBlendWithMocha {
+  cost()
+}
+
+class DarkRoastWithMilk {
+  cost()
+}
+
+class DarkRoastWithSoy {
+  cost()
+}
+
+class DarkRoastWithMocha {
+  cost()
+}
+
+class EspressoWithMilk {
+  cost()
+}
+
+class EspressoWithSoy {
+  cost()
+}
+
+class EspressoWithMocha {
+  cost()
+}
+@enduml
+
+PlantUML version 1.2022.6(Wed Jun 22 01:34:49 CST 2022)
+(GPL source distribution)
+Java Runtime: OpenJDK Runtime Environment
+JVM: OpenJDK 64-Bit Server VM
+Default Encoding: UTF-8
+Language: en
+Country: US
+--></g></svg>
