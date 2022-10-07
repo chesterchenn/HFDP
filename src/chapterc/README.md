@@ -8,7 +8,7 @@
 
 ## UML 和代码
 
-原有的类 UML 设计如下
+原有的类 UML 图如下
 
 <div align="center"><img src="./a/uml_1.svg"></div>
 
@@ -23,3 +23,15 @@
 使用实例变量来设置调料
 
 <div align="center"><img src="./b/uml.svg"></div>
+
+这样子很好解决了类的爆炸增长问题，但是还是有有一些问题。如：
+
+- 调料的价格改变会让我们改写现有的代码。
+- 新的调料增加我们需要修改超类的 cost 方法。
+- 不能添加双份一样的调料。
+
+## 装饰器模式
+
+装饰器模式的 UML 图如下
+
+<div align="center"><img src="./c/uml.svg"></div>

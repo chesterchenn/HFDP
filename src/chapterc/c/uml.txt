@@ -1,0 +1,65 @@
+@startuml
+!theme plain
+
+abstract class Beverage {
+  description
+  getDescription()
+  {abstract} cost()
+}
+
+class HouseBlend {
+  cost()
+}
+
+class DarkRoast {
+  cost()
+}
+
+class Espresso {
+  cost()
+}
+
+class Decaf {
+  cost()
+}
+
+abstract class CondimentDecorator {
+  {abstract} getDescription()
+}
+
+class Milk {
+  Beverage beverage
+  cost()
+  getDescription()
+}
+
+class Mocha {
+  Beverage beverage
+  cost()
+  getDescription()
+}
+
+class Soy {
+  Beverage beverage
+  cost()
+  getDescription()
+}
+
+class Whip {
+  Beverage beverage
+  cost()
+  getDescription()
+}
+
+Beverage <|-- HouseBlend
+Beverage <|-- DarkRoast
+Beverage <|-- Espresso
+Beverage <|-- Decaf
+Beverage <|-- CondimentDecorator
+CondimentDecorator <|-- Milk
+CondimentDecorator <|-- Mocha
+CondimentDecorator <|-- Soy
+CondimentDecorator <|-- Whip
+Beverage <-- CondimentDecorator : component
+
+@enduml

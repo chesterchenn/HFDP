@@ -1,0 +1,304 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" contentStyleType="text/css" height="408px" preserveAspectRatio="none" style="width:967px;height:408px;background:#FFFFFF;" version="1.1" viewBox="0 0 967 408" width="967px" zoomAndPan="magnify"><defs/><g><!--MD5=[f45f2220b0b110c1551a8318691639c0]
+class Beverage--><g id="elem_Beverage"><rect codeLine="3" fill="#FFFFFF" height="95.0439" id="Beverage" rx="2.5" ry="2.5" style="stroke:#000000;stroke-width:1.0;" width="126" x="336.5" y="12"/><ellipse cx="364.35" cy="26" fill="#FFFFFF" rx="9" ry="9" style="stroke:#000000;stroke-width:1.0;"/><path d="M364.4594,21.3438 L363.3031,26.4219 L365.6313,26.4219 L364.4594,21.3438 Z M362.975,19.1094 L365.9594,19.1094 L369.3188,31.5 L366.8656,31.5 L366.1,28.4375 L362.8188,28.4375 L362.0688,31.5 L359.6313,31.5 L362.975,19.1094 Z " fill="#000000"/><text fill="#000000" font-family="Verdana" font-size="14" font-style="italic" lengthAdjust="spacing" textLength="65" x="379.65" y="31.5679">Beverage</text><line style="stroke:#000000;stroke-width:1.0;" x1="337.5" x2="461.5" y1="40" y2="40"/><text fill="#000000" font-family="Verdana" font-size="14" lengthAdjust="spacing" textLength="77" x="342.5" y="58.0752">description</text><line style="stroke:#000000;stroke-width:1.0;" x1="337.5" x2="461.5" y1="65.0146" y2="65.0146"/><text fill="#000000" font-family="Verdana" font-size="14" lengthAdjust="spacing" textLength="114" x="342.5" y="83.0898">getDescription()</text><text fill="#000000" font-family="Verdana" font-size="14" font-style="italic" lengthAdjust="spacing" textLength="42" x="342.5" y="100.1045">cost()</text></g><!--MD5=[bd7e272a4a95bdce642fcc687eddedc1]
+class HouseBlend--><g id="elem_HouseBlend"><rect codeLine="9" fill="#FFFFFF" height="61.0146" id="HouseBlend" rx="2.5" ry="2.5" style="stroke:#000000;stroke-width:1.0;" width="111" x="12" y="184"/><ellipse cx="25" cy="198" fill="#FFFFFF" rx="9" ry="9" style="stroke:#000000;stroke-width:1.0;"/><path d="M27.9688,203.6406 Q27.3906,203.9375 26.75,204.0781 Q26.1094,204.2344 25.4063,204.2344 Q22.9063,204.2344 21.5781,202.5938 Q20.2656,200.9375 20.2656,197.8125 Q20.2656,194.6875 21.5781,193.0313 Q22.9063,191.375 25.4063,191.375 Q26.1094,191.375 26.75,191.5313 Q27.4063,191.6875 27.9688,191.9844 L27.9688,194.7031 Q27.3438,194.125 26.75,193.8594 Q26.1563,193.5781 25.5313,193.5781 Q24.1875,193.5781 23.5,194.6563 Q22.8125,195.7188 22.8125,197.8125 Q22.8125,199.9063 23.5,200.9844 Q24.1875,202.0469 25.5313,202.0469 Q26.1563,202.0469 26.75,201.7813 Q27.3438,201.5 27.9688,200.9219 L27.9688,203.6406 Z " fill="#000000"/><text fill="#000000" font-family="Verdana" font-size="14" lengthAdjust="spacing" textLength="83" x="37" y="203.5679">HouseBlend</text><line style="stroke:#000000;stroke-width:1.0;" x1="13" x2="122" y1="212" y2="212"/><line style="stroke:#000000;stroke-width:1.0;" x1="13" x2="122" y1="220" y2="220"/><text fill="#000000" font-family="Verdana" font-size="14" lengthAdjust="spacing" textLength="42" x="18" y="238.0752">cost()</text></g><!--MD5=[ef2f5c504d6cfaf85f831bdc93bdfcbf]
+class DarkRoast--><g id="elem_DarkRoast"><rect codeLine="13" fill="#FFFFFF" height="61.0146" id="DarkRoast" rx="2.5" ry="2.5" style="stroke:#000000;stroke-width:1.0;" width="102" x="158.5" y="184"/><ellipse cx="171.5" cy="198" fill="#FFFFFF" rx="9" ry="9" style="stroke:#000000;stroke-width:1.0;"/><path d="M174.4688,203.6406 Q173.8906,203.9375 173.25,204.0781 Q172.6094,204.2344 171.9063,204.2344 Q169.4063,204.2344 168.0781,202.5938 Q166.7656,200.9375 166.7656,197.8125 Q166.7656,194.6875 168.0781,193.0313 Q169.4063,191.375 171.9063,191.375 Q172.6094,191.375 173.25,191.5313 Q173.9063,191.6875 174.4688,191.9844 L174.4688,194.7031 Q173.8438,194.125 173.25,193.8594 Q172.6563,193.5781 172.0313,193.5781 Q170.6875,193.5781 170,194.6563 Q169.3125,195.7188 169.3125,197.8125 Q169.3125,199.9063 170,200.9844 Q170.6875,202.0469 172.0313,202.0469 Q172.6563,202.0469 173.25,201.7813 Q173.8438,201.5 174.4688,200.9219 L174.4688,203.6406 Z " fill="#000000"/><text fill="#000000" font-family="Verdana" font-size="14" lengthAdjust="spacing" textLength="74" x="183.5" y="203.5679">DarkRoast</text><line style="stroke:#000000;stroke-width:1.0;" x1="159.5" x2="259.5" y1="212" y2="212"/><line style="stroke:#000000;stroke-width:1.0;" x1="159.5" x2="259.5" y1="220" y2="220"/><text fill="#000000" font-family="Verdana" font-size="14" lengthAdjust="spacing" textLength="42" x="164.5" y="238.0752">cost()</text></g><!--MD5=[f5ea9ff06fc8109cace2c9440d07df67]
+class Espresso--><g id="elem_Espresso"><rect codeLine="17" fill="#FFFFFF" height="61.0146" id="Espresso" rx="2.5" ry="2.5" style="stroke:#000000;stroke-width:1.0;" width="93" x="296" y="184"/><ellipse cx="309" cy="198" fill="#FFFFFF" rx="9" ry="9" style="stroke:#000000;stroke-width:1.0;"/><path d="M311.9688,203.6406 Q311.3906,203.9375 310.75,204.0781 Q310.1094,204.2344 309.4063,204.2344 Q306.9063,204.2344 305.5781,202.5938 Q304.2656,200.9375 304.2656,197.8125 Q304.2656,194.6875 305.5781,193.0313 Q306.9063,191.375 309.4063,191.375 Q310.1094,191.375 310.75,191.5313 Q311.4063,191.6875 311.9688,191.9844 L311.9688,194.7031 Q311.3438,194.125 310.75,193.8594 Q310.1563,193.5781 309.5313,193.5781 Q308.1875,193.5781 307.5,194.6563 Q306.8125,195.7188 306.8125,197.8125 Q306.8125,199.9063 307.5,200.9844 Q308.1875,202.0469 309.5313,202.0469 Q310.1563,202.0469 310.75,201.7813 Q311.3438,201.5 311.9688,200.9219 L311.9688,203.6406 Z " fill="#000000"/><text fill="#000000" font-family="Verdana" font-size="14" lengthAdjust="spacing" textLength="65" x="321" y="203.5679">Espresso</text><line style="stroke:#000000;stroke-width:1.0;" x1="297" x2="388" y1="212" y2="212"/><line style="stroke:#000000;stroke-width:1.0;" x1="297" x2="388" y1="220" y2="220"/><text fill="#000000" font-family="Verdana" font-size="14" lengthAdjust="spacing" textLength="42" x="302" y="238.0752">cost()</text></g><!--MD5=[4188fab1d5603701389174163c352652]
+class Decaf--><g id="elem_Decaf"><rect codeLine="21" fill="#FFFFFF" height="61.0146" id="Decaf" rx="2.5" ry="2.5" style="stroke:#000000;stroke-width:1.0;" width="67" x="424" y="184"/><ellipse cx="437" cy="198" fill="#FFFFFF" rx="9" ry="9" style="stroke:#000000;stroke-width:1.0;"/><path d="M439.9688,203.6406 Q439.3906,203.9375 438.75,204.0781 Q438.1094,204.2344 437.4063,204.2344 Q434.9063,204.2344 433.5781,202.5938 Q432.2656,200.9375 432.2656,197.8125 Q432.2656,194.6875 433.5781,193.0313 Q434.9063,191.375 437.4063,191.375 Q438.1094,191.375 438.75,191.5313 Q439.4063,191.6875 439.9688,191.9844 L439.9688,194.7031 Q439.3438,194.125 438.75,193.8594 Q438.1563,193.5781 437.5313,193.5781 Q436.1875,193.5781 435.5,194.6563 Q434.8125,195.7188 434.8125,197.8125 Q434.8125,199.9063 435.5,200.9844 Q436.1875,202.0469 437.5313,202.0469 Q438.1563,202.0469 438.75,201.7813 Q439.3438,201.5 439.9688,200.9219 L439.9688,203.6406 Z " fill="#000000"/><text fill="#000000" font-family="Verdana" font-size="14" lengthAdjust="spacing" textLength="39" x="449" y="203.5679">Decaf</text><line style="stroke:#000000;stroke-width:1.0;" x1="425" x2="490" y1="212" y2="212"/><line style="stroke:#000000;stroke-width:1.0;" x1="425" x2="490" y1="220" y2="220"/><text fill="#000000" font-family="Verdana" font-size="14" lengthAdjust="spacing" textLength="42" x="430" y="238.0752">cost()</text></g><!--MD5=[8db1e71afe3fc67a239e81af71b3e2c9]
+class CondimentDecorator--><g id="elem_CondimentDecorator"><rect codeLine="25" fill="#FFFFFF" height="61.0146" id="CondimentDecorator" rx="2.5" ry="2.5" style="stroke:#000000;stroke-width:1.0;" width="178" x="526.5" y="184"/><ellipse cx="539.5" cy="198" fill="#FFFFFF" rx="9" ry="9" style="stroke:#000000;stroke-width:1.0;"/><path d="M539.6094,193.3438 L538.4531,198.4219 L540.7813,198.4219 L539.6094,193.3438 Z M538.125,191.1094 L541.1094,191.1094 L544.4688,203.5 L542.0156,203.5 L541.25,200.4375 L537.9688,200.4375 L537.2188,203.5 L534.7813,203.5 L538.125,191.1094 Z " fill="#000000"/><text fill="#000000" font-family="Verdana" font-size="14" font-style="italic" lengthAdjust="spacing" textLength="150" x="551.5" y="203.5679">CondimentDecorator</text><line style="stroke:#000000;stroke-width:1.0;" x1="527.5" x2="703.5" y1="212" y2="212"/><line style="stroke:#000000;stroke-width:1.0;" x1="527.5" x2="703.5" y1="220" y2="220"/><text fill="#000000" font-family="Verdana" font-size="14" font-style="italic" lengthAdjust="spacing" textLength="116" x="532.5" y="238.0752">getDescription()</text></g><!--MD5=[100525086f0e815ee31f4f59acfdddec]
+class Milk--><g id="elem_Milk"><rect codeLine="29" fill="#FFFFFF" height="95.0439" id="Milk" rx="2.5" ry="2.5" style="stroke:#000000;stroke-width:1.0;" width="146" x="271.5" y="306"/><ellipse cx="328.25" cy="320" fill="#FFFFFF" rx="9" ry="9" style="stroke:#000000;stroke-width:1.0;"/><path d="M331.2188,325.6406 Q330.6406,325.9375 330,326.0781 Q329.3594,326.2344 328.6563,326.2344 Q326.1563,326.2344 324.8281,324.5938 Q323.5156,322.9375 323.5156,319.8125 Q323.5156,316.6875 324.8281,315.0313 Q326.1563,313.375 328.6563,313.375 Q329.3594,313.375 330,313.5313 Q330.6563,313.6875 331.2188,313.9844 L331.2188,316.7031 Q330.5938,316.125 330,315.8594 Q329.4063,315.5781 328.7813,315.5781 Q327.4375,315.5781 326.75,316.6563 Q326.0625,317.7188 326.0625,319.8125 Q326.0625,321.9063 326.75,322.9844 Q327.4375,324.0469 328.7813,324.0469 Q329.4063,324.0469 330,323.7813 Q330.5938,323.5 331.2188,322.9219 L331.2188,325.6406 Z " fill="#000000"/><text fill="#000000" font-family="Verdana" font-size="14" lengthAdjust="spacing" textLength="25" x="345.75" y="325.5679">Milk</text><line style="stroke:#000000;stroke-width:1.0;" x1="272.5" x2="416.5" y1="334" y2="334"/><text fill="#000000" font-family="Verdana" font-size="14" lengthAdjust="spacing" textLength="134" x="277.5" y="352.0752">Beverage beverage</text><line style="stroke:#000000;stroke-width:1.0;" x1="272.5" x2="416.5" y1="359.0146" y2="359.0146"/><text fill="#000000" font-family="Verdana" font-size="14" lengthAdjust="spacing" textLength="42" x="277.5" y="377.0898">cost()</text><text fill="#000000" font-family="Verdana" font-size="14" lengthAdjust="spacing" textLength="114" x="277.5" y="394.1045">getDescription()</text></g><!--MD5=[826a7f68534f7bc14c11c5eacbfd79df]
+class Mocha--><g id="elem_Mocha"><rect codeLine="35" fill="#FFFFFF" height="95.0439" id="Mocha" rx="2.5" ry="2.5" style="stroke:#000000;stroke-width:1.0;" width="146" x="452.5" y="306"/><ellipse cx="499.75" cy="320" fill="#FFFFFF" rx="9" ry="9" style="stroke:#000000;stroke-width:1.0;"/><path d="M502.7188,325.6406 Q502.1406,325.9375 501.5,326.0781 Q500.8594,326.2344 500.1563,326.2344 Q497.6563,326.2344 496.3281,324.5938 Q495.0156,322.9375 495.0156,319.8125 Q495.0156,316.6875 496.3281,315.0313 Q497.6563,313.375 500.1563,313.375 Q500.8594,313.375 501.5,313.5313 Q502.1563,313.6875 502.7188,313.9844 L502.7188,316.7031 Q502.0938,316.125 501.5,315.8594 Q500.9063,315.5781 500.2813,315.5781 Q498.9375,315.5781 498.25,316.6563 Q497.5625,317.7188 497.5625,319.8125 Q497.5625,321.9063 498.25,322.9844 Q498.9375,324.0469 500.2813,324.0469 Q500.9063,324.0469 501.5,323.7813 Q502.0938,323.5 502.7188,322.9219 L502.7188,325.6406 Z " fill="#000000"/><text fill="#000000" font-family="Verdana" font-size="14" lengthAdjust="spacing" textLength="44" x="517.25" y="325.5679">Mocha</text><line style="stroke:#000000;stroke-width:1.0;" x1="453.5" x2="597.5" y1="334" y2="334"/><text fill="#000000" font-family="Verdana" font-size="14" lengthAdjust="spacing" textLength="134" x="458.5" y="352.0752">Beverage beverage</text><line style="stroke:#000000;stroke-width:1.0;" x1="453.5" x2="597.5" y1="359.0146" y2="359.0146"/><text fill="#000000" font-family="Verdana" font-size="14" lengthAdjust="spacing" textLength="42" x="458.5" y="377.0898">cost()</text><text fill="#000000" font-family="Verdana" font-size="14" lengthAdjust="spacing" textLength="114" x="458.5" y="394.1045">getDescription()</text></g><!--MD5=[1d657684344ca27a012d5cb815ad43ed]
+class Soy--><g id="elem_Soy"><rect codeLine="41" fill="#FFFFFF" height="95.0439" id="Soy" rx="2.5" ry="2.5" style="stroke:#000000;stroke-width:1.0;" width="146" x="633.5" y="306"/><ellipse cx="689.25" cy="320" fill="#FFFFFF" rx="9" ry="9" style="stroke:#000000;stroke-width:1.0;"/><path d="M692.2188,325.6406 Q691.6406,325.9375 691,326.0781 Q690.3594,326.2344 689.6563,326.2344 Q687.1563,326.2344 685.8281,324.5938 Q684.5156,322.9375 684.5156,319.8125 Q684.5156,316.6875 685.8281,315.0313 Q687.1563,313.375 689.6563,313.375 Q690.3594,313.375 691,313.5313 Q691.6563,313.6875 692.2188,313.9844 L692.2188,316.7031 Q691.5938,316.125 691,315.8594 Q690.4063,315.5781 689.7813,315.5781 Q688.4375,315.5781 687.75,316.6563 Q687.0625,317.7188 687.0625,319.8125 Q687.0625,321.9063 687.75,322.9844 Q688.4375,324.0469 689.7813,324.0469 Q690.4063,324.0469 691,323.7813 Q691.5938,323.5 692.2188,322.9219 L692.2188,325.6406 Z " fill="#000000"/><text fill="#000000" font-family="Verdana" font-size="14" lengthAdjust="spacing" textLength="27" x="706.75" y="325.5679">Soy</text><line style="stroke:#000000;stroke-width:1.0;" x1="634.5" x2="778.5" y1="334" y2="334"/><text fill="#000000" font-family="Verdana" font-size="14" lengthAdjust="spacing" textLength="134" x="639.5" y="352.0752">Beverage beverage</text><line style="stroke:#000000;stroke-width:1.0;" x1="634.5" x2="778.5" y1="359.0146" y2="359.0146"/><text fill="#000000" font-family="Verdana" font-size="14" lengthAdjust="spacing" textLength="42" x="639.5" y="377.0898">cost()</text><text fill="#000000" font-family="Verdana" font-size="14" lengthAdjust="spacing" textLength="114" x="639.5" y="394.1045">getDescription()</text></g><!--MD5=[855bfe7603ce1fa68f47ee6242167d19]
+class Whip--><g id="elem_Whip"><rect codeLine="47" fill="#FFFFFF" height="95.0439" id="Whip" rx="2.5" ry="2.5" style="stroke:#000000;stroke-width:1.0;" width="146" x="814.5" y="306"/><ellipse cx="865.75" cy="320" fill="#FFFFFF" rx="9" ry="9" style="stroke:#000000;stroke-width:1.0;"/><path d="M868.7188,325.6406 Q868.1406,325.9375 867.5,326.0781 Q866.8594,326.2344 866.1563,326.2344 Q863.6563,326.2344 862.3281,324.5938 Q861.0156,322.9375 861.0156,319.8125 Q861.0156,316.6875 862.3281,315.0313 Q863.6563,313.375 866.1563,313.375 Q866.8594,313.375 867.5,313.5313 Q868.1563,313.6875 868.7188,313.9844 L868.7188,316.7031 Q868.0938,316.125 867.5,315.8594 Q866.9063,315.5781 866.2813,315.5781 Q864.9375,315.5781 864.25,316.6563 Q863.5625,317.7188 863.5625,319.8125 Q863.5625,321.9063 864.25,322.9844 Q864.9375,324.0469 866.2813,324.0469 Q866.9063,324.0469 867.5,323.7813 Q868.0938,323.5 868.7188,322.9219 L868.7188,325.6406 Z " fill="#000000"/><text fill="#000000" font-family="Verdana" font-size="14" lengthAdjust="spacing" textLength="36" x="883.25" y="325.5679">Whip</text><line style="stroke:#000000;stroke-width:1.0;" x1="815.5" x2="959.5" y1="334" y2="334"/><text fill="#000000" font-family="Verdana" font-size="14" lengthAdjust="spacing" textLength="134" x="820.5" y="352.0752">Beverage beverage</text><line style="stroke:#000000;stroke-width:1.0;" x1="815.5" x2="959.5" y1="359.0146" y2="359.0146"/><text fill="#000000" font-family="Verdana" font-size="14" lengthAdjust="spacing" textLength="42" x="820.5" y="377.0898">cost()</text><text fill="#000000" font-family="Verdana" font-size="14" lengthAdjust="spacing" textLength="114" x="820.5" y="394.1045">getDescription()</text></g><!--MD5=[45d306746d61aae6853d584fda6d9989]
+reverse link Beverage to HouseBlend--><g id="link_Beverage_HouseBlend"><path codeLine="53" d="M317.78,98.16 C257.21,126.07 176.27,163.38 123.05,187.9 " fill="none" id="Beverage-backto-HouseBlend" style="stroke:#000000;stroke-width:1.0;"/><polygon fill="none" points="315.18,91.65,336.27,89.64,321.04,104.37,315.18,91.65" style="stroke:#000000;stroke-width:1.0;"/></g><!--MD5=[07a2fcabb36df965a4c7bf35e4d074c0]
+reverse link Beverage to DarkRoast--><g id="link_Beverage_DarkRoast"><path codeLine="54" d="M326.02,119.67 C298.75,141.63 268.98,165.6 246.36,183.82 " fill="none" id="Beverage-backto-DarkRoast" style="stroke:#000000;stroke-width:1.0;"/><polygon fill="none" points="321.75,114.12,341.72,107.03,330.53,125.02,321.75,114.12" style="stroke:#000000;stroke-width:1.0;"/></g><!--MD5=[9ab9d4bf547d7982b0339bff1cafba9c]
+reverse link Beverage to Espresso--><g id="link_Beverage_Espresso"><path codeLine="55" d="M375.07,126.06 C367.56,146.23 359.67,167.42 353.53,183.9 " fill="none" id="Beverage-backto-Espresso" style="stroke:#000000;stroke-width:1.0;"/><polygon fill="none" points="368.55,123.53,382.09,107.24,381.67,128.42,368.55,123.53" style="stroke:#000000;stroke-width:1.0;"/></g><!--MD5=[2043822e86ab2b7f3d53c168bf142118]
+reverse link Beverage to Decaf--><g id="link_Beverage_Decaf"><path codeLine="56" d="M424.35,126.06 C432,146.23 440.03,167.42 446.28,183.9 " fill="none" id="Beverage-backto-Decaf" style="stroke:#000000;stroke-width:1.0;"/><polygon fill="none" points="417.76,128.42,417.22,107.24,430.85,123.46,417.76,128.42" style="stroke:#000000;stroke-width:1.0;"/></g><!--MD5=[520e3a59fb10c3c044ab0f1ed697dfb8]
+reverse link Beverage to CondimentDecorator--><g id="link_Beverage_CondimentDecorator"><path codeLine="57" d="M478.93,116.77 C511.01,139.48 546.7,164.77 573.56,183.79 " fill="none" id="Beverage-backto-CondimentDecorator" style="stroke:#000000;stroke-width:1.0;"/><polygon fill="none" points="474.83,122.44,462.56,105.17,482.92,111.01,474.83,122.44" style="stroke:#000000;stroke-width:1.0;"/></g><!--MD5=[520e3a59fb10c3c044ab0f1ed697dfb8]
+reverse link Beverage to CondimentDecorator--><g id="link_Beverage_CondimentDecorator"><path codeLine="62" d="M467.43,90.82 C492.44,103.44 520.3,119.29 543.5,137 C561.19,150.5 578.37,168.51 591.51,183.66 " fill="none" id="Beverage-backto-CondimentDecorator-1" style="stroke:#000000;stroke-width:1.0;"/><polygon fill="#000000" points="462.79,88.51,469.0413,96.1206,467.2593,90.7518,472.6281,88.9698,462.79,88.51" style="stroke:#000000;stroke-width:1.0;"/><text fill="#000000" font-family="Verdana" font-size="13" lengthAdjust="spacing" textLength="73" x="564.5" y="151.0698">component</text></g><!--MD5=[e0b40310d863662c60be0a585fc86e22]
+reverse link CondimentDecorator to Milk--><g id="link_CondimentDecorator_Milk"><path codeLine="58" d="M537.73,254.1 C505.71,270.07 468.27,288.83 434.5,306 C429.01,308.79 423.34,311.68 417.64,314.61 " fill="none" id="CondimentDecorator-backto-Milk" style="stroke:#000000;stroke-width:1.0;"/><polygon fill="none" points="534.87,247.71,555.89,245.06,541.11,260.24,534.87,247.71" style="stroke:#000000;stroke-width:1.0;"/></g><!--MD5=[a8ddc1e494c296992a933b761d3c2a93]
+reverse link CondimentDecorator to Mocha--><g id="link_CondimentDecorator_Mocha"><path codeLine="59" d="M584.85,262.15 C575.58,276.26 565.41,291.75 556.14,305.86 " fill="none" id="CondimentDecorator-backto-Mocha" style="stroke:#000000;stroke-width:1.0;"/><polygon fill="none" points="579.14,258.1,595.97,245.23,590.84,265.79,579.14,258.1" style="stroke:#000000;stroke-width:1.0;"/></g><!--MD5=[b2f35954bc03414be1fa3899b002b144]
+reverse link CondimentDecorator to Soy--><g id="link_CondimentDecorator_Soy"><path codeLine="60" d="M646.49,262.15 C655.86,276.26 666.15,291.75 675.52,305.86 " fill="none" id="CondimentDecorator-backto-Soy" style="stroke:#000000;stroke-width:1.0;"/><polygon fill="none" points="640.48,265.76,635.25,245.23,652.14,258.01,640.48,265.76" style="stroke:#000000;stroke-width:1.0;"/></g><!--MD5=[4f2329419c5f4da4a439c67d0b584d15]
+reverse link CondimentDecorator to Whip--><g id="link_CondimentDecorator_Whip"><path codeLine="61" d="M693.23,254.18 C725.25,270.16 762.69,288.91 796.5,306 C802.2,308.88 808.1,311.87 814.02,314.88 " fill="none" id="CondimentDecorator-backto-Whip" style="stroke:#000000;stroke-width:1.0;"/><polygon fill="none" points="689.85,260.31,675.08,245.12,696.1,247.79,689.85,260.31" style="stroke:#000000;stroke-width:1.0;"/></g><!--MD5=[889e8d92358b896e7557f1d028ba5687]
+@startuml
+!theme plain
+
+abstract class Beverage {
+  description
+  getDescription()
+  {abstract} cost()
+}
+
+class HouseBlend {
+  cost()
+}
+
+class DarkRoast {
+  cost()
+}
+
+class Espresso {
+  cost()
+}
+
+class Decaf {
+  cost()
+}
+
+abstract class CondimentDecorator {
+  {abstract} getDescription()
+}
+
+class Milk {
+  Beverage beverage
+  cost()
+  getDescription()
+}
+
+class Mocha {
+  Beverage beverage
+  cost()
+  getDescription()
+}
+
+class Soy {
+  Beverage beverage
+  cost()
+  getDescription()
+}
+
+class Whip {
+  Beverage beverage
+  cost()
+  getDescription()
+}
+
+Beverage <|- - HouseBlend
+Beverage <|- - DarkRoast
+Beverage <|- - Espresso
+Beverage <|- - Decaf
+Beverage <|- - CondimentDecorator
+CondimentDecorator <|- - Milk
+CondimentDecorator <|- - Mocha
+CondimentDecorator <|- - Soy
+CondimentDecorator <|- - Whip
+Beverage <- - CondimentDecorator : component
+
+@enduml
+
+@startuml
+
+
+
+
+
+
+
+<style>
+  root {
+    BackgroundColor white
+    FontColor black
+    FontName Verdana
+    HyperLinkColor blue
+    LineColor black
+    LineThickness 1
+    Margin 5
+  }
+  caption {
+    LineThickness 0
+  }
+  footer {
+    LineThickness 0
+  }
+  header {
+    LineThickness 0
+  }
+  node {
+    MaximumWidth 300
+  }
+  title {
+    FontSize 22
+    LineThickness 0
+  }
+</style>
+
+skinparam ArrowLollipopColor black
+skinparam BackgroundColor white
+skinparam DefaultFontName Verdana
+skinparam DefaultMonospacedFontName Courier
+skinparam LifelineStrategy nosolid
+skinparam ParticipantPadding 10
+skinparam SequenceLifeLineBorderColor black
+skinparam Shadowing false
+skinparam UseBetaStyle true
+
+skinparam Activity {
+  BackgroundColor white
+  BarColor black
+  BorderColor black
+  FontColor black
+  FontName Verdana
+}
+skinparam Boundary {
+  FontColor black
+}
+skinparam Box {
+  Padding 5
+}
+skinparam CircledCharacter {
+  FontColor black
+  FontName Courier
+  Radius 9
+}
+skinparam Class {
+  BackgroundColor white
+  BorderColor black
+  FontColor black
+  FontName Verdana
+}
+skinparam ClassAttribute {
+  FontColor black
+  FontName Verdana
+}
+skinparam ClassStereotype {
+  FontColor black
+  FontName Verdana
+}
+skinparam Footer {
+  FontColor black
+  FontName Verdana
+}
+skinparam Header {
+  FontColor black
+  FontName Verdana
+}
+skinparam Hyperlink {
+  Color blue
+}
+skinparam IconPackage {
+  Color black
+  BackgroundColor white
+}
+skinparam IconPrivate {
+  Color black
+  BackgroundColor white
+}
+skinparam IconProtected {
+  Color black
+  BackgroundColor white
+}
+skinparam IconPublic {
+  Color black
+  BackgroundColor white
+}
+skinparam Note {
+  FontColor black
+  FontName Verdana
+}
+skinparam Object {
+  BorderColor black
+}
+skinparam Package {
+  BorderColor black
+  FontColor black
+  FontName Verdana
+}
+skinparam State {
+  BackgroundColor white
+  BorderColor black
+}
+skinparam StereotypeA {
+  BackgroundColor white
+  BorderColor black
+}
+skinparam StereotypeC {
+  BackgroundColor white
+  BorderColor black
+}
+skinparam StereotypeE {
+  BackgroundColor white
+  BorderColor black
+}
+skinparam StereotypeI {
+  BackgroundColor white
+  BorderColor black
+}
+skinparam StereotypeN {
+  BackgroundColor white
+  BorderColor black
+}
+skinparam UseCaseStereoType {
+  FontColor black
+  FontName Verdana
+}
+
+abstract class Beverage {
+  description
+  getDescription()
+  {abstract} cost()
+}
+
+class HouseBlend {
+  cost()
+}
+
+class DarkRoast {
+  cost()
+}
+
+class Espresso {
+  cost()
+}
+
+class Decaf {
+  cost()
+}
+
+abstract class CondimentDecorator {
+  {abstract} getDescription()
+}
+
+class Milk {
+  Beverage beverage
+  cost()
+  getDescription()
+}
+
+class Mocha {
+  Beverage beverage
+  cost()
+  getDescription()
+}
+
+class Soy {
+  Beverage beverage
+  cost()
+  getDescription()
+}
+
+class Whip {
+  Beverage beverage
+  cost()
+  getDescription()
+}
+
+Beverage <|- - HouseBlend
+Beverage <|- - DarkRoast
+Beverage <|- - Espresso
+Beverage <|- - Decaf
+Beverage <|- - CondimentDecorator
+CondimentDecorator <|- - Milk
+CondimentDecorator <|- - Mocha
+CondimentDecorator <|- - Soy
+CondimentDecorator <|- - Whip
+Beverage <- - CondimentDecorator : component
+
+@enduml
+
+PlantUML version 1.2022.7(Tue Aug 23 01:01:30 CST 2022)
+(GPL source distribution)
+Java Runtime: OpenJDK Runtime Environment
+JVM: OpenJDK 64-Bit Server VM
+Default Encoding: UTF-8
+Language: en
+Country: US
+--></g></svg>
