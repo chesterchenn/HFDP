@@ -1,0 +1,237 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" contentStyleType="text/css" height="235px" preserveAspectRatio="none" style="width:673px;height:235px;background:#FFFFFF;" version="1.1" viewBox="0 0 673 235" width="673px" zoomAndPan="magnify"><defs/><g><!--MD5=[26f5c61a402468dcc7e4daedc2568d01]
+class PizzaStore--><g id="elem_PizzaStore"><rect codeLine="3" fill="#FFFFFF" height="61.0146" id="PizzaStore" rx="2.5" ry="2.5" style="stroke:#000000;stroke-width:1.0;" width="102" x="12" y="37.5"/><ellipse cx="25" cy="51.5" fill="#FFFFFF" rx="9" ry="9" style="stroke:#000000;stroke-width:1.0;"/><path d="M27.9688,57.1406 Q27.3906,57.4375 26.75,57.5781 Q26.1094,57.7344 25.4063,57.7344 Q22.9063,57.7344 21.5781,56.0938 Q20.2656,54.4375 20.2656,51.3125 Q20.2656,48.1875 21.5781,46.5313 Q22.9063,44.875 25.4063,44.875 Q26.1094,44.875 26.75,45.0313 Q27.4063,45.1875 27.9688,45.4844 L27.9688,48.2031 Q27.3438,47.625 26.75,47.3594 Q26.1563,47.0781 25.5313,47.0781 Q24.1875,47.0781 23.5,48.1563 Q22.8125,49.2188 22.8125,51.3125 Q22.8125,53.4063 23.5,54.4844 Q24.1875,55.5469 25.5313,55.5469 Q26.1563,55.5469 26.75,55.2813 Q27.3438,55 27.9688,54.4219 L27.9688,57.1406 Z " fill="#000000"/><text fill="#000000" font-family="Verdana" font-size="14" lengthAdjust="spacing" textLength="74" x="37" y="57.0679">PizzaStore</text><line style="stroke:#000000;stroke-width:1.0;" x1="13" x2="113" y1="65.5" y2="65.5"/><line style="stroke:#000000;stroke-width:1.0;" x1="13" x2="113" y1="73.5" y2="73.5"/><text fill="#000000" font-family="Verdana" font-size="14" lengthAdjust="spacing" textLength="85" x="18" y="91.5752">orderPizza()</text></g><!--MD5=[6f714cf0e5b4f5c2e18537b397a39437]
+class SimplePizzaFactory--><g id="elem_SimplePizzaFactory"><rect codeLine="7" fill="#FFFFFF" height="61.0146" id="SimplePizzaFactory" rx="2.5" ry="2.5" style="stroke:#000000;stroke-width:1.0;" width="161" x="149.5" y="37.5"/><ellipse cx="162.5" cy="51.5" fill="#FFFFFF" rx="9" ry="9" style="stroke:#000000;stroke-width:1.0;"/><path d="M165.4688,57.1406 Q164.8906,57.4375 164.25,57.5781 Q163.6094,57.7344 162.9063,57.7344 Q160.4063,57.7344 159.0781,56.0938 Q157.7656,54.4375 157.7656,51.3125 Q157.7656,48.1875 159.0781,46.5313 Q160.4063,44.875 162.9063,44.875 Q163.6094,44.875 164.25,45.0313 Q164.9063,45.1875 165.4688,45.4844 L165.4688,48.2031 Q164.8438,47.625 164.25,47.3594 Q163.6563,47.0781 163.0313,47.0781 Q161.6875,47.0781 161,48.1563 Q160.3125,49.2188 160.3125,51.3125 Q160.3125,53.4063 161,54.4844 Q161.6875,55.5469 163.0313,55.5469 Q163.6563,55.5469 164.25,55.2813 Q164.8438,55 165.4688,54.4219 L165.4688,57.1406 Z " fill="#000000"/><text fill="#000000" font-family="Verdana" font-size="14" lengthAdjust="spacing" textLength="133" x="174.5" y="57.0679">SimplePizzaFactory</text><line style="stroke:#000000;stroke-width:1.0;" x1="150.5" x2="309.5" y1="65.5" y2="65.5"/><line style="stroke:#000000;stroke-width:1.0;" x1="150.5" x2="309.5" y1="73.5" y2="73.5"/><text fill="#000000" font-family="Verdana" font-size="14" lengthAdjust="spacing" textLength="90" x="155.5" y="91.5752">createPizza()</text></g><!--MD5=[5c5a2dd8ed299478ae091ad6bda6d6bd]
+class Pizza--><g id="elem_Pizza"><rect codeLine="11" fill="#FFFFFF" height="112.0586" id="Pizza" rx="2.5" ry="2.5" style="stroke:#000000;stroke-width:1.0;" width="78" x="346" y="12"/><ellipse cx="366.2" cy="26" fill="#FFFFFF" rx="9" ry="9" style="stroke:#000000;stroke-width:1.0;"/><path d="M366.3094,21.3438 L365.1531,26.4219 L367.4813,26.4219 L366.3094,21.3438 Z M364.825,19.1094 L367.8094,19.1094 L371.1688,31.5 L368.7156,31.5 L367.95,28.4375 L364.6688,28.4375 L363.9188,31.5 L361.4813,31.5 L364.825,19.1094 Z " fill="#000000"/><text fill="#000000" font-family="Verdana" font-size="14" font-style="italic" lengthAdjust="spacing" textLength="34" x="379.8" y="31.5679">Pizza</text><line style="stroke:#000000;stroke-width:1.0;" x1="347" x2="423" y1="40" y2="40"/><line style="stroke:#000000;stroke-width:1.0;" x1="347" x2="423" y1="48" y2="48"/><text fill="#000000" font-family="Verdana" font-size="14" lengthAdjust="spacing" textLength="66" x="352" y="66.0752">prepare()</text><text fill="#000000" font-family="Verdana" font-size="14" lengthAdjust="spacing" textLength="45" x="352" y="83.0898">bake()</text><text fill="#000000" font-family="Verdana" font-size="14" lengthAdjust="spacing" textLength="34" x="352" y="100.1045">cut()</text><text fill="#000000" font-family="Verdana" font-size="14" lengthAdjust="spacing" textLength="39" x="352" y="117.1191">box()</text></g><!--MD5=[bb7b7b7f24e149315272ca99cc15d0b2]
+class CheesePizza--><g id="elem_CheesePizza"><rect codeLine="18" fill="#FFFFFF" height="44" id="CheesePizza" rx="2.5" ry="2.5" style="stroke:#000000;stroke-width:1.0;" width="114" x="111" y="184"/><ellipse cx="124" cy="198" fill="#FFFFFF" rx="9" ry="9" style="stroke:#000000;stroke-width:1.0;"/><path d="M126.9688,203.6406 Q126.3906,203.9375 125.75,204.0781 Q125.1094,204.2344 124.4063,204.2344 Q121.9063,204.2344 120.5781,202.5938 Q119.2656,200.9375 119.2656,197.8125 Q119.2656,194.6875 120.5781,193.0313 Q121.9063,191.375 124.4063,191.375 Q125.1094,191.375 125.75,191.5313 Q126.4063,191.6875 126.9688,191.9844 L126.9688,194.7031 Q126.3438,194.125 125.75,193.8594 Q125.1563,193.5781 124.5313,193.5781 Q123.1875,193.5781 122.5,194.6563 Q121.8125,195.7188 121.8125,197.8125 Q121.8125,199.9063 122.5,200.9844 Q123.1875,202.0469 124.5313,202.0469 Q125.1563,202.0469 125.75,201.7813 Q126.3438,201.5 126.9688,200.9219 L126.9688,203.6406 Z " fill="#000000"/><text fill="#000000" font-family="Verdana" font-size="14" lengthAdjust="spacing" textLength="86" x="136" y="203.5679">CheesePizza</text><line style="stroke:#000000;stroke-width:1.0;" x1="112" x2="224" y1="212" y2="212"/><line style="stroke:#000000;stroke-width:1.0;" x1="112" x2="224" y1="220" y2="220"/></g><!--MD5=[070f15b98e5787cc17ac7c8c0dee7fda]
+class VegglePizza--><g id="elem_VegglePizza"><rect codeLine="20" fill="#FFFFFF" height="44" id="VegglePizza" rx="2.5" ry="2.5" style="stroke:#000000;stroke-width:1.0;" width="110" x="260" y="184"/><ellipse cx="273" cy="198" fill="#FFFFFF" rx="9" ry="9" style="stroke:#000000;stroke-width:1.0;"/><path d="M275.9688,203.6406 Q275.3906,203.9375 274.75,204.0781 Q274.1094,204.2344 273.4063,204.2344 Q270.9063,204.2344 269.5781,202.5938 Q268.2656,200.9375 268.2656,197.8125 Q268.2656,194.6875 269.5781,193.0313 Q270.9063,191.375 273.4063,191.375 Q274.1094,191.375 274.75,191.5313 Q275.4063,191.6875 275.9688,191.9844 L275.9688,194.7031 Q275.3438,194.125 274.75,193.8594 Q274.1563,193.5781 273.5313,193.5781 Q272.1875,193.5781 271.5,194.6563 Q270.8125,195.7188 270.8125,197.8125 Q270.8125,199.9063 271.5,200.9844 Q272.1875,202.0469 273.5313,202.0469 Q274.1563,202.0469 274.75,201.7813 Q275.3438,201.5 275.9688,200.9219 L275.9688,203.6406 Z " fill="#000000"/><text fill="#000000" font-family="Verdana" font-size="14" lengthAdjust="spacing" textLength="82" x="285" y="203.5679">VegglePizza</text><line style="stroke:#000000;stroke-width:1.0;" x1="261" x2="369" y1="212" y2="212"/><line style="stroke:#000000;stroke-width:1.0;" x1="261" x2="369" y1="220" y2="220"/></g><!--MD5=[69adf9b590f774b46f34e6be464a3b7a]
+class ClamPizza--><g id="elem_ClamPizza"><rect codeLine="22" fill="#FFFFFF" height="44" id="ClamPizza" rx="2.5" ry="2.5" style="stroke:#000000;stroke-width:1.0;" width="97" x="405.5" y="184"/><ellipse cx="418.5" cy="198" fill="#FFFFFF" rx="9" ry="9" style="stroke:#000000;stroke-width:1.0;"/><path d="M421.4688,203.6406 Q420.8906,203.9375 420.25,204.0781 Q419.6094,204.2344 418.9063,204.2344 Q416.4063,204.2344 415.0781,202.5938 Q413.7656,200.9375 413.7656,197.8125 Q413.7656,194.6875 415.0781,193.0313 Q416.4063,191.375 418.9063,191.375 Q419.6094,191.375 420.25,191.5313 Q420.9063,191.6875 421.4688,191.9844 L421.4688,194.7031 Q420.8438,194.125 420.25,193.8594 Q419.6563,193.5781 419.0313,193.5781 Q417.6875,193.5781 417,194.6563 Q416.3125,195.7188 416.3125,197.8125 Q416.3125,199.9063 417,200.9844 Q417.6875,202.0469 419.0313,202.0469 Q419.6563,202.0469 420.25,201.7813 Q420.8438,201.5 421.4688,200.9219 L421.4688,203.6406 Z " fill="#000000"/><text fill="#000000" font-family="Verdana" font-size="14" lengthAdjust="spacing" textLength="69" x="430.5" y="203.5679">ClamPizza</text><line style="stroke:#000000;stroke-width:1.0;" x1="406.5" x2="501.5" y1="212" y2="212"/><line style="stroke:#000000;stroke-width:1.0;" x1="406.5" x2="501.5" y1="220" y2="220"/></g><!--MD5=[4724bc0e7d989975be0ea9a723d406b4]
+class PepperonPizza--><g id="elem_PepperonPizza"><rect codeLine="24" fill="#FFFFFF" height="44" id="PepperonPizza" rx="2.5" ry="2.5" style="stroke:#000000;stroke-width:1.0;" width="129" x="537.5" y="184"/><ellipse cx="550.5" cy="198" fill="#FFFFFF" rx="9" ry="9" style="stroke:#000000;stroke-width:1.0;"/><path d="M553.4688,203.6406 Q552.8906,203.9375 552.25,204.0781 Q551.6094,204.2344 550.9063,204.2344 Q548.4063,204.2344 547.0781,202.5938 Q545.7656,200.9375 545.7656,197.8125 Q545.7656,194.6875 547.0781,193.0313 Q548.4063,191.375 550.9063,191.375 Q551.6094,191.375 552.25,191.5313 Q552.9063,191.6875 553.4688,191.9844 L553.4688,194.7031 Q552.8438,194.125 552.25,193.8594 Q551.6563,193.5781 551.0313,193.5781 Q549.6875,193.5781 549,194.6563 Q548.3125,195.7188 548.3125,197.8125 Q548.3125,199.9063 549,200.9844 Q549.6875,202.0469 551.0313,202.0469 Q551.6563,202.0469 552.25,201.7813 Q552.8438,201.5 553.4688,200.9219 L553.4688,203.6406 Z " fill="#000000"/><text fill="#000000" font-family="Verdana" font-size="14" lengthAdjust="spacing" textLength="101" x="562.5" y="203.5679">PepperonPizza</text><line style="stroke:#000000;stroke-width:1.0;" x1="538.5" x2="665.5" y1="212" y2="212"/><line style="stroke:#000000;stroke-width:1.0;" x1="538.5" x2="665.5" y1="220" y2="220"/></g><!--MD5=[29f54a91dfd491862ff1e2d128acc962]
+link PizzaStore to SimplePizzaFactory--><g id="link_PizzaStore_SimplePizzaFactory"><path codeLine="26" d="M114.21,68 C124.22,68 134.24,68 144.25,68 " fill="none" id="PizzaStore-to-SimplePizzaFactory" style="stroke:#000000;stroke-width:1.0;"/><polygon fill="#000000" points="149.49,68,140.49,64,144.49,68,140.49,72,149.49,68" style="stroke:#000000;stroke-width:1.0;"/></g><!--MD5=[3525af9570d3abb86c26bf42a2a255ad]
+link SimplePizzaFactory to Pizza--><g id="link_SimplePizzaFactory_Pizza"><path codeLine="27" d="M310.53,68 C320.52,68 330.51,68 340.5,68 " fill="none" id="SimplePizzaFactory-to-Pizza" style="stroke:#000000;stroke-width:1.0;"/><polygon fill="#000000" points="345.73,68,336.73,64,340.73,68,336.73,72,345.73,68" style="stroke:#000000;stroke-width:1.0;"/></g><!--MD5=[8f574cacc568233a59984bc8b8889b74]
+reverse link Pizza to CheesePizza--><g id="link_Pizza_CheesePizza"><path codeLine="29" d="M330.27,122.36 C329.51,122.91 328.76,123.46 328,124 C293.87,148.27 251.44,169.39 218.85,183.98 " fill="none" id="Pizza-backto-CheesePizza" style="stroke:#000000;stroke-width:1.0;"/><polygon fill="none" points="325.92,116.87,345.84,109.65,334.77,127.72,325.92,116.87" style="stroke:#000000;stroke-width:1.0;"/></g><!--MD5=[6ba6bb0eae113b61aa7f41c176bba7a8]
+reverse link Pizza to VegglePizza--><g id="link_Pizza_VegglePizza"><path codeLine="30" d="M347.35,142.15 C339.52,157.36 331.87,172.22 325.98,183.68 " fill="none" id="Pizza-backto-VegglePizza" style="stroke:#000000;stroke-width:1.0;"/><polygon fill="none" points="341.15,138.9,356.53,124.32,353.6,145.3,341.15,138.9" style="stroke:#000000;stroke-width:1.0;"/></g><!--MD5=[f33c29a64ee839b900ba1cf234ca1f13]
+reverse link Pizza to ClamPizza--><g id="link_Pizza_ClamPizza"><path codeLine="31" d="M422.36,142.64 C429.99,157.68 437.43,172.35 443.18,183.68 " fill="none" id="Pizza-backto-ClamPizza" style="stroke:#000000;stroke-width:1.0;"/><polygon fill="none" points="415.87,145.32,413.06,124.32,428.36,138.99,415.87,145.32" style="stroke:#000000;stroke-width:1.0;"/></g><!--MD5=[66636567fdfb6234b755c1a2cc518aaf]
+reverse link Pizza to PepperonPizza--><g id="link_Pizza_PepperonPizza"><path codeLine="32" d="M441.26,104.26 C481.51,129.49 534.36,162.61 568.26,183.85 " fill="none" id="Pizza-backto-PepperonPizza" style="stroke:#000000;stroke-width:1.0;"/><polygon fill="none" points="437.28,110.02,424.05,93.47,444.71,98.16,437.28,110.02" style="stroke:#000000;stroke-width:1.0;"/></g><!--MD5=[c67b9ffd10506be5d2cb4a82acfd5fca]
+@startuml
+!theme plain
+
+class PizzaStore {
+  orderPizza()
+}
+
+class SimplePizzaFactory {
+  createPizza()
+}
+
+abstract class Pizza {
+  prepare()
+  bake()
+  cut()
+  box()
+}
+
+class CheesePizza {}
+
+class VegglePizza {}
+
+class ClamPizza {}
+
+class PepperonPizza {}
+
+PizzaStore -right- -> SimplePizzaFactory
+SimplePizzaFactory -right- -> Pizza 
+
+Pizza <|- - CheesePizza
+Pizza <|- - VegglePizza
+Pizza <|- - ClamPizza
+Pizza <|- - PepperonPizza
+
+@enduml
+
+@startuml
+
+
+
+
+
+
+
+<style>
+  root {
+    BackgroundColor white
+    FontColor black
+    FontName Verdana
+    HyperLinkColor blue
+    LineColor black
+    LineThickness 1
+    Margin 5
+  }
+  caption {
+    LineThickness 0
+  }
+  footer {
+    LineThickness 0
+  }
+  header {
+    LineThickness 0
+  }
+  node {
+    MaximumWidth 300
+  }
+  title {
+    FontSize 22
+    LineThickness 0
+  }
+</style>
+
+skinparam ArrowLollipopColor black
+skinparam BackgroundColor white
+skinparam DefaultFontName Verdana
+skinparam DefaultMonospacedFontName Courier
+skinparam LifelineStrategy nosolid
+skinparam ParticipantPadding 10
+skinparam SequenceLifeLineBorderColor black
+skinparam Shadowing false
+skinparam UseBetaStyle true
+
+skinparam Activity {
+  BackgroundColor white
+  BarColor black
+  BorderColor black
+  FontColor black
+  FontName Verdana
+}
+skinparam Boundary {
+  FontColor black
+}
+skinparam Box {
+  Padding 5
+}
+skinparam CircledCharacter {
+  FontColor black
+  FontName Courier
+  Radius 9
+}
+skinparam Class {
+  BackgroundColor white
+  BorderColor black
+  FontColor black
+  FontName Verdana
+}
+skinparam ClassAttribute {
+  FontColor black
+  FontName Verdana
+}
+skinparam ClassStereotype {
+  FontColor black
+  FontName Verdana
+}
+skinparam Footer {
+  FontColor black
+  FontName Verdana
+}
+skinparam Header {
+  FontColor black
+  FontName Verdana
+}
+skinparam Hyperlink {
+  Color blue
+}
+skinparam IconPackage {
+  Color black
+  BackgroundColor white
+}
+skinparam IconPrivate {
+  Color black
+  BackgroundColor white
+}
+skinparam IconProtected {
+  Color black
+  BackgroundColor white
+}
+skinparam IconPublic {
+  Color black
+  BackgroundColor white
+}
+skinparam Note {
+  FontColor black
+  FontName Verdana
+}
+skinparam Object {
+  BorderColor black
+}
+skinparam Package {
+  BorderColor black
+  FontColor black
+  FontName Verdana
+}
+skinparam State {
+  BackgroundColor white
+  BorderColor black
+}
+skinparam StereotypeA {
+  BackgroundColor white
+  BorderColor black
+}
+skinparam StereotypeC {
+  BackgroundColor white
+  BorderColor black
+}
+skinparam StereotypeE {
+  BackgroundColor white
+  BorderColor black
+}
+skinparam StereotypeI {
+  BackgroundColor white
+  BorderColor black
+}
+skinparam StereotypeN {
+  BackgroundColor white
+  BorderColor black
+}
+skinparam UseCaseStereoType {
+  FontColor black
+  FontName Verdana
+}
+
+class PizzaStore {
+  orderPizza()
+}
+
+class SimplePizzaFactory {
+  createPizza()
+}
+
+abstract class Pizza {
+  prepare()
+  bake()
+  cut()
+  box()
+}
+
+class CheesePizza {}
+
+class VegglePizza {}
+
+class ClamPizza {}
+
+class PepperonPizza {}
+
+PizzaStore -right- -> SimplePizzaFactory
+SimplePizzaFactory -right- -> Pizza 
+
+Pizza <|- - CheesePizza
+Pizza <|- - VegglePizza
+Pizza <|- - ClamPizza
+Pizza <|- - PepperonPizza
+
+@enduml
+
+PlantUML version 1.2022.7(Tue Aug 23 01:01:30 CST 2022)
+(GPL source distribution)
+Java Runtime: OpenJDK Runtime Environment
+JVM: OpenJDK 64-Bit Server VM
+Default Encoding: UTF-8
+Language: en
+Country: US
+--></g></svg>

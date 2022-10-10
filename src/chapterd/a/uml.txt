@@ -1,0 +1,35 @@
+@startuml
+!theme plain
+
+class PizzaStore {
+  orderPizza()
+}
+
+class SimplePizzaFactory {
+  createPizza()
+}
+
+abstract class Pizza {
+  prepare()
+  bake()
+  cut()
+  box()
+}
+
+class CheesePizza {}
+
+class VegglePizza {}
+
+class ClamPizza {}
+
+class PepperonPizza {}
+
+PizzaStore -right--> SimplePizzaFactory
+SimplePizzaFactory -right--> Pizza 
+
+Pizza <|-- CheesePizza
+Pizza <|-- VegglePizza
+Pizza <|-- ClamPizza
+Pizza <|-- PepperonPizza
+
+@enduml
