@@ -1,0 +1,40 @@
+@startuml
+!theme plain
+abstract class PizzaStore {
+  {abstract} createPizza()
+  orderPizza()
+}
+
+class NYPizzaStore {
+  createPizza()
+}
+
+class ChicagoPizzaStore {
+  createPizza()
+}
+
+PizzaStore <|-- NYPizzaStore
+PizzaStore <|-- ChicagoPizzaStore
+
+abstract class Pizza {}
+class NYStyleCheesePizza {}
+class NYStylePepperoniPizza {}
+class NYStyleClamPizza {}
+class NYStyleVeggiePizza {}
+
+class ChicagoStyleCheesePizza {}
+class ChicagoStylePepperoniPizza {}
+class ChicagoStyleClamPizza {}
+class ChicagoStyleVeggiePizza {}
+
+
+Pizza <|-- NYStyleCheesePizza
+Pizza <|-- NYStylePepperoniPizza
+Pizza <|-- NYStyleClamPizza
+Pizza <|-- NYStyleVeggiePizza
+Pizza <|-- ChicagoStyleCheesePizza
+Pizza <|-- ChicagoStylePepperoniPizza
+Pizza <|-- ChicagoStyleClamPizza
+Pizza <|-- ChicagoStyleVeggiePizza
+
+@enduml
