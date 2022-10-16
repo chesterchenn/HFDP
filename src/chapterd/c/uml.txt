@@ -1,0 +1,77 @@
+@startuml
+!theme plain
+
+interface PizzaIngredientFactory {
+  createDough()
+  createSauce()
+  createCheese()
+  createVeggies()
+  createPepperoni()
+  createClam()
+}
+
+class NYPizzaIngredientFactory {
+  createDough()
+  createSauce()
+  createCheese()
+  createVeggies()
+  createPepperoni()
+  createClam()
+}
+
+class ChicagoPizzaIngredientFactory {
+  createDough
+  createSauce()
+  createCheese()
+  createVeggies()
+  createPepperoni()
+  createClam()
+}
+
+class NYPizzaStore {
+  createPizza()
+}
+
+interface Dough
+interface Sauce
+interface Cheese
+interface Clams
+
+class ThickCustDough
+class ThinCustDough
+class PlumTomatoSauce
+class MarinaraSauce
+class MozzarellaCheese
+class ReggianoCheese
+class FreshClams
+class FrozenClams
+
+PizzaIngredientFactory <|.. NYPizzaIngredientFactory
+PizzaIngredientFactory <|.. ChicagoPizzaIngredientFactory
+
+PizzaIngredientFactory <-- NYPizzaStore
+NYPizzaStore --> Dough
+NYPizzaStore --> Sauce
+NYPizzaStore --> Cheese
+NYPizzaStore --> Clams
+
+Dough <|.. ThinCustDough
+Dough <|.. ThickCustDough
+Sauce <|.. PlumTomatoSauce
+Sauce <|.. MarinaraSauce
+Cheese <|.. MozzarellaCheese
+Cheese <|.. ReggianoCheese
+Clams <|.. FreshClams
+Clams <|.. FrozenClams
+
+ThinCustDough <-- NYPizzaIngredientFactory
+MarinaraSauce <-- NYPizzaIngredientFactory
+ReggianoCheese <-- NYPizzaIngredientFactory
+FreshClams <-- NYPizzaIngredientFactory
+
+ThickCustDough <-- ChicagoPizzaIngredientFactory
+PlumTomatoSauce <-- ChicagoPizzaIngredientFactory
+MozzarellaCheese <-- ChicagoPizzaIngredientFactory
+FrozenClams <-- ChicagoPizzaIngredientFactory
+
+@enduml

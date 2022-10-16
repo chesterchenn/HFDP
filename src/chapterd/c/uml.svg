@@ -1,0 +1,347 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" contentStyleType="text/css" height="700px" preserveAspectRatio="none" style="width:1499px;height:700px;background:#FFFFFF;" version="1.1" viewBox="0 0 1499 700" width="1499px" zoomAndPan="magnify"><defs/><g><!--MD5=[5a798e536cf83977330101a857841566]
+class PizzaIngredientFactory--><g id="elem_PizzaIngredientFactory"><rect codeLine="3" fill="#FFFFFF" height="146.0879" id="PizzaIngredientFactory" rx="2.5" ry="2.5" style="stroke:#000000;stroke-width:1.0;" width="190" x="770.66" y="12"/><ellipse cx="783.66" cy="26" fill="#FFFFFF" rx="9" ry="9" style="stroke:#000000;stroke-width:1.0;"/><path d="M779.5819,21.7656 L779.5819,19.6094 L786.9725,19.6094 L786.9725,21.7656 L784.5038,21.7656 L784.5038,29.8438 L786.9725,29.8438 L786.9725,32 L779.5819,32 L779.5819,29.8438 L782.0506,29.8438 L782.0506,21.7656 L779.5819,21.7656 Z " fill="#000000"/><text fill="#000000" font-family="Verdana" font-size="14" font-style="italic" lengthAdjust="spacing" textLength="162" x="795.66" y="31.5679">PizzaIngredientFactory</text><line style="stroke:#000000;stroke-width:1.0;" x1="771.66" x2="959.66" y1="40" y2="40"/><line style="stroke:#000000;stroke-width:1.0;" x1="771.66" x2="959.66" y1="48" y2="48"/><text fill="#000000" font-family="Verdana" font-size="14" lengthAdjust="spacing" textLength="102" x="776.66" y="66.0752">createDough()</text><text fill="#000000" font-family="Verdana" font-size="14" lengthAdjust="spacing" textLength="97" x="776.66" y="83.0898">createSauce()</text><text fill="#000000" font-family="Verdana" font-size="14" lengthAdjust="spacing" textLength="106" x="776.66" y="100.1045">createCheese()</text><text fill="#000000" font-family="Verdana" font-size="14" lengthAdjust="spacing" textLength="110" x="776.66" y="117.1191">createVeggies()</text><text fill="#000000" font-family="Verdana" font-size="14" lengthAdjust="spacing" textLength="124" x="776.66" y="134.1338">createPepperoni()</text><text fill="#000000" font-family="Verdana" font-size="14" lengthAdjust="spacing" textLength="89" x="776.66" y="151.1484">createClam()</text></g><!--MD5=[d46dbb17319537bc288f9ff6e2044a10]
+class NYPizzaIngredientFactory--><g id="elem_NYPizzaIngredientFactory"><rect codeLine="12" fill="#FFFFFF" height="146.0879" id="NYPizzaIngredientFactory" rx="2.5" ry="2.5" style="stroke:#000000;stroke-width:1.0;" width="206" x="210.66" y="547"/><ellipse cx="223.66" cy="561" fill="#FFFFFF" rx="9" ry="9" style="stroke:#000000;stroke-width:1.0;"/><path d="M226.6288,566.6406 Q226.0506,566.9375 225.41,567.0781 Q224.7694,567.2344 224.0663,567.2344 Q221.5663,567.2344 220.2381,565.5938 Q218.9256,563.9375 218.9256,560.8125 Q218.9256,557.6875 220.2381,556.0313 Q221.5663,554.375 224.0663,554.375 Q224.7694,554.375 225.41,554.5313 Q226.0663,554.6875 226.6288,554.9844 L226.6288,557.7031 Q226.0038,557.125 225.41,556.8594 Q224.8163,556.5781 224.1913,556.5781 Q222.8475,556.5781 222.16,557.6563 Q221.4725,558.7188 221.4725,560.8125 Q221.4725,562.9063 222.16,563.9844 Q222.8475,565.0469 224.1913,565.0469 Q224.8163,565.0469 225.41,564.7813 Q226.0038,564.5 226.6288,563.9219 L226.6288,566.6406 Z " fill="#000000"/><text fill="#000000" font-family="Verdana" font-size="14" lengthAdjust="spacing" textLength="178" x="235.66" y="566.5679">NYPizzaIngredientFactory</text><line style="stroke:#000000;stroke-width:1.0;" x1="211.66" x2="415.66" y1="575" y2="575"/><line style="stroke:#000000;stroke-width:1.0;" x1="211.66" x2="415.66" y1="583" y2="583"/><text fill="#000000" font-family="Verdana" font-size="14" lengthAdjust="spacing" textLength="102" x="216.66" y="601.0752">createDough()</text><text fill="#000000" font-family="Verdana" font-size="14" lengthAdjust="spacing" textLength="97" x="216.66" y="618.0898">createSauce()</text><text fill="#000000" font-family="Verdana" font-size="14" lengthAdjust="spacing" textLength="106" x="216.66" y="635.1045">createCheese()</text><text fill="#000000" font-family="Verdana" font-size="14" lengthAdjust="spacing" textLength="110" x="216.66" y="652.1191">createVeggies()</text><text fill="#000000" font-family="Verdana" font-size="14" lengthAdjust="spacing" textLength="124" x="216.66" y="669.1338">createPepperoni()</text><text fill="#000000" font-family="Verdana" font-size="14" lengthAdjust="spacing" textLength="89" x="216.66" y="686.1484">createClam()</text></g><!--MD5=[7acccdd0f6cab1ecf7570f6c3ed17756]
+class ChicagoPizzaIngredientFactory--><g id="elem_ChicagoPizzaIngredientFactory"><rect codeLine="21" fill="#FFFFFF" height="146.0879" id="ChicagoPizzaIngredientFactory" rx="2.5" ry="2.5" style="stroke:#000000;stroke-width:1.0;" width="242" x="918.66" y="547"/><ellipse cx="931.66" cy="561" fill="#FFFFFF" rx="9" ry="9" style="stroke:#000000;stroke-width:1.0;"/><path d="M934.6288,566.6406 Q934.0506,566.9375 933.41,567.0781 Q932.7694,567.2344 932.0663,567.2344 Q929.5663,567.2344 928.2381,565.5938 Q926.9256,563.9375 926.9256,560.8125 Q926.9256,557.6875 928.2381,556.0313 Q929.5663,554.375 932.0663,554.375 Q932.7694,554.375 933.41,554.5313 Q934.0663,554.6875 934.6288,554.9844 L934.6288,557.7031 Q934.0038,557.125 933.41,556.8594 Q932.8163,556.5781 932.1913,556.5781 Q930.8475,556.5781 930.16,557.6563 Q929.4725,558.7188 929.4725,560.8125 Q929.4725,562.9063 930.16,563.9844 Q930.8475,565.0469 932.1913,565.0469 Q932.8163,565.0469 933.41,564.7813 Q934.0038,564.5 934.6288,563.9219 L934.6288,566.6406 Z " fill="#000000"/><text fill="#000000" font-family="Verdana" font-size="14" lengthAdjust="spacing" textLength="214" x="943.66" y="566.5679">ChicagoPizzaIngredientFactory</text><line style="stroke:#000000;stroke-width:1.0;" x1="919.66" x2="1159.66" y1="575" y2="575"/><text fill="#000000" font-family="Verdana" font-size="14" lengthAdjust="spacing" textLength="90" x="924.66" y="593.0752">createDough</text><line style="stroke:#000000;stroke-width:1.0;" x1="919.66" x2="1159.66" y1="600.0146" y2="600.0146"/><text fill="#000000" font-family="Verdana" font-size="14" lengthAdjust="spacing" textLength="97" x="924.66" y="618.0898">createSauce()</text><text fill="#000000" font-family="Verdana" font-size="14" lengthAdjust="spacing" textLength="106" x="924.66" y="635.1045">createCheese()</text><text fill="#000000" font-family="Verdana" font-size="14" lengthAdjust="spacing" textLength="110" x="924.66" y="652.1191">createVeggies()</text><text fill="#000000" font-family="Verdana" font-size="14" lengthAdjust="spacing" textLength="124" x="924.66" y="669.1338">createPepperoni()</text><text fill="#000000" font-family="Verdana" font-size="14" lengthAdjust="spacing" textLength="89" x="924.66" y="686.1484">createClam()</text></g><!--MD5=[8c04977af96283d87084f008fe3725f3]
+class NYPizzaStore--><g id="elem_NYPizzaStore"><rect codeLine="30" fill="#FFFFFF" height="61.0146" id="NYPizzaStore" rx="2.5" ry="2.5" style="stroke:#000000;stroke-width:1.0;" width="121" x="805.16" y="218"/><ellipse cx="818.16" cy="232" fill="#FFFFFF" rx="9" ry="9" style="stroke:#000000;stroke-width:1.0;"/><path d="M821.1288,237.6406 Q820.5506,237.9375 819.91,238.0781 Q819.2694,238.2344 818.5663,238.2344 Q816.0663,238.2344 814.7381,236.5938 Q813.4256,234.9375 813.4256,231.8125 Q813.4256,228.6875 814.7381,227.0313 Q816.0663,225.375 818.5663,225.375 Q819.2694,225.375 819.91,225.5313 Q820.5663,225.6875 821.1288,225.9844 L821.1288,228.7031 Q820.5038,228.125 819.91,227.8594 Q819.3163,227.5781 818.6913,227.5781 Q817.3475,227.5781 816.66,228.6563 Q815.9725,229.7188 815.9725,231.8125 Q815.9725,233.9063 816.66,234.9844 Q817.3475,236.0469 818.6913,236.0469 Q819.3163,236.0469 819.91,235.7813 Q820.5038,235.5 821.1288,234.9219 L821.1288,237.6406 Z " fill="#000000"/><text fill="#000000" font-family="Verdana" font-size="14" lengthAdjust="spacing" textLength="93" x="830.16" y="237.5679">NYPizzaStore</text><line style="stroke:#000000;stroke-width:1.0;" x1="806.16" x2="925.16" y1="246" y2="246"/><line style="stroke:#000000;stroke-width:1.0;" x1="806.16" x2="925.16" y1="254" y2="254"/><text fill="#000000" font-family="Verdana" font-size="14" lengthAdjust="spacing" textLength="90" x="811.16" y="272.0752">createPizza()</text></g><!--MD5=[919adf279038e080f59aa8594646240a]
+class Dough--><g id="elem_Dough"><rect codeLine="34" fill="#FFFFFF" height="44" id="Dough" rx="2.5" ry="2.5" style="stroke:#000000;stroke-width:1.0;" width="75" x="627.16" y="339"/><ellipse cx="640.16" cy="353" fill="#FFFFFF" rx="9" ry="9" style="stroke:#000000;stroke-width:1.0;"/><path d="M636.0819,348.7656 L636.0819,346.6094 L643.4725,346.6094 L643.4725,348.7656 L641.0038,348.7656 L641.0038,356.8438 L643.4725,356.8438 L643.4725,359 L636.0819,359 L636.0819,356.8438 L638.5506,356.8438 L638.5506,348.7656 L636.0819,348.7656 Z " fill="#000000"/><text fill="#000000" font-family="Verdana" font-size="14" font-style="italic" lengthAdjust="spacing" textLength="47" x="652.16" y="358.5679">Dough</text><line style="stroke:#000000;stroke-width:1.0;" x1="628.16" x2="701.16" y1="367" y2="367"/><line style="stroke:#000000;stroke-width:1.0;" x1="628.16" x2="701.16" y1="375" y2="375"/></g><!--MD5=[3d2d9012ebc99b12a467e2a114f0ed0c]
+class Sauce--><g id="elem_Sauce"><rect codeLine="35" fill="#FFFFFF" height="44" id="Sauce" rx="2.5" ry="2.5" style="stroke:#000000;stroke-width:1.0;" width="70" x="776.66" y="339"/><ellipse cx="789.66" cy="353" fill="#FFFFFF" rx="9" ry="9" style="stroke:#000000;stroke-width:1.0;"/><path d="M785.5819,348.7656 L785.5819,346.6094 L792.9725,346.6094 L792.9725,348.7656 L790.5038,348.7656 L790.5038,356.8438 L792.9725,356.8438 L792.9725,359 L785.5819,359 L785.5819,356.8438 L788.0506,356.8438 L788.0506,348.7656 L785.5819,348.7656 Z " fill="#000000"/><text fill="#000000" font-family="Verdana" font-size="14" font-style="italic" lengthAdjust="spacing" textLength="42" x="801.66" y="358.5679">Sauce</text><line style="stroke:#000000;stroke-width:1.0;" x1="777.66" x2="845.66" y1="367" y2="367"/><line style="stroke:#000000;stroke-width:1.0;" x1="777.66" x2="845.66" y1="375" y2="375"/></g><!--MD5=[6a2897fb52bc57835b526dc756c6e029]
+class Cheese--><g id="elem_Cheese"><rect codeLine="36" fill="#FFFFFF" height="44" id="Cheese" rx="2.5" ry="2.5" style="stroke:#000000;stroke-width:1.0;" width="78" x="881.66" y="339"/><ellipse cx="894.66" cy="353" fill="#FFFFFF" rx="9" ry="9" style="stroke:#000000;stroke-width:1.0;"/><path d="M890.5819,348.7656 L890.5819,346.6094 L897.9725,346.6094 L897.9725,348.7656 L895.5038,348.7656 L895.5038,356.8438 L897.9725,356.8438 L897.9725,359 L890.5819,359 L890.5819,356.8438 L893.0506,356.8438 L893.0506,348.7656 L890.5819,348.7656 Z " fill="#000000"/><text fill="#000000" font-family="Verdana" font-size="14" font-style="italic" lengthAdjust="spacing" textLength="50" x="906.66" y="358.5679">Cheese</text><line style="stroke:#000000;stroke-width:1.0;" x1="882.66" x2="958.66" y1="367" y2="367"/><line style="stroke:#000000;stroke-width:1.0;" x1="882.66" x2="958.66" y1="375" y2="375"/></g><!--MD5=[d4f5c934a45c7d32af8281ce63f9ab33]
+class Clams--><g id="elem_Clams"><rect codeLine="37" fill="#FFFFFF" height="44" id="Clams" rx="2.5" ry="2.5" style="stroke:#000000;stroke-width:1.0;" width="72" x="1168.66" y="339"/><ellipse cx="1181.66" cy="353" fill="#FFFFFF" rx="9" ry="9" style="stroke:#000000;stroke-width:1.0;"/><path d="M1177.5819,348.7656 L1177.5819,346.6094 L1184.9725,346.6094 L1184.9725,348.7656 L1182.5037,348.7656 L1182.5037,356.8438 L1184.9725,356.8438 L1184.9725,359 L1177.5819,359 L1177.5819,356.8438 L1180.0506,356.8438 L1180.0506,348.7656 L1177.5819,348.7656 Z " fill="#000000"/><text fill="#000000" font-family="Verdana" font-size="14" font-style="italic" lengthAdjust="spacing" textLength="44" x="1193.66" y="358.5679">Clams</text><line style="stroke:#000000;stroke-width:1.0;" x1="1169.66" x2="1239.66" y1="367" y2="367"/><line style="stroke:#000000;stroke-width:1.0;" x1="1169.66" x2="1239.66" y1="375" y2="375"/></g><!--MD5=[737d75fcb58841b88f35c29c6b7c9a91]
+class ThickCustDough--><g id="elem_ThickCustDough"><rect codeLine="39" fill="#FFFFFF" height="44" id="ThickCustDough" rx="2.5" ry="2.5" style="stroke:#000000;stroke-width:1.0;" width="144" x="592.66" y="443"/><ellipse cx="605.66" cy="457" fill="#FFFFFF" rx="9" ry="9" style="stroke:#000000;stroke-width:1.0;"/><path d="M608.6288,462.6406 Q608.0506,462.9375 607.41,463.0781 Q606.7694,463.2344 606.0663,463.2344 Q603.5663,463.2344 602.2381,461.5938 Q600.9256,459.9375 600.9256,456.8125 Q600.9256,453.6875 602.2381,452.0313 Q603.5663,450.375 606.0663,450.375 Q606.7694,450.375 607.41,450.5313 Q608.0663,450.6875 608.6288,450.9844 L608.6288,453.7031 Q608.0038,453.125 607.41,452.8594 Q606.8163,452.5781 606.1913,452.5781 Q604.8475,452.5781 604.16,453.6563 Q603.4725,454.7188 603.4725,456.8125 Q603.4725,458.9063 604.16,459.9844 Q604.8475,461.0469 606.1913,461.0469 Q606.8163,461.0469 607.41,460.7813 Q608.0038,460.5 608.6288,459.9219 L608.6288,462.6406 Z " fill="#000000"/><text fill="#000000" font-family="Verdana" font-size="14" lengthAdjust="spacing" textLength="116" x="617.66" y="462.5679">ThickCustDough</text><line style="stroke:#000000;stroke-width:1.0;" x1="593.66" x2="735.66" y1="471" y2="471"/><line style="stroke:#000000;stroke-width:1.0;" x1="593.66" x2="735.66" y1="479" y2="479"/></g><!--MD5=[ea176dbe27c5cee2cdadfc05d315e7f5]
+class ThinCustDough--><g id="elem_ThinCustDough"><rect codeLine="40" fill="#FFFFFF" height="44" id="ThinCustDough" rx="2.5" ry="2.5" style="stroke:#000000;stroke-width:1.0;" width="138" x="75.66" y="443"/><ellipse cx="88.66" cy="457" fill="#FFFFFF" rx="9" ry="9" style="stroke:#000000;stroke-width:1.0;"/><path d="M91.6288,462.6406 Q91.0506,462.9375 90.41,463.0781 Q89.7694,463.2344 89.0663,463.2344 Q86.5663,463.2344 85.2381,461.5938 Q83.9256,459.9375 83.9256,456.8125 Q83.9256,453.6875 85.2381,452.0313 Q86.5663,450.375 89.0663,450.375 Q89.7694,450.375 90.41,450.5313 Q91.0663,450.6875 91.6288,450.9844 L91.6288,453.7031 Q91.0038,453.125 90.41,452.8594 Q89.8163,452.5781 89.1913,452.5781 Q87.8475,452.5781 87.16,453.6563 Q86.4725,454.7188 86.4725,456.8125 Q86.4725,458.9063 87.16,459.9844 Q87.8475,461.0469 89.1913,461.0469 Q89.8163,461.0469 90.41,460.7813 Q91.0038,460.5 91.6288,459.9219 L91.6288,462.6406 Z " fill="#000000"/><text fill="#000000" font-family="Verdana" font-size="14" lengthAdjust="spacing" textLength="110" x="100.66" y="462.5679">ThinCustDough</text><line style="stroke:#000000;stroke-width:1.0;" x1="76.66" x2="212.66" y1="471" y2="471"/><line style="stroke:#000000;stroke-width:1.0;" x1="76.66" x2="212.66" y1="479" y2="479"/></g><!--MD5=[ae4e9d06700cdca3f6e160a4741c6852]
+class PlumTomatoSauce--><g id="elem_PlumTomatoSauce"><rect codeLine="41" fill="#FFFFFF" height="44" id="PlumTomatoSauce" rx="2.5" ry="2.5" style="stroke:#000000;stroke-width:1.0;" width="157" x="772.16" y="443"/><ellipse cx="785.16" cy="457" fill="#FFFFFF" rx="9" ry="9" style="stroke:#000000;stroke-width:1.0;"/><path d="M788.1288,462.6406 Q787.5506,462.9375 786.91,463.0781 Q786.2694,463.2344 785.5663,463.2344 Q783.0663,463.2344 781.7381,461.5938 Q780.4256,459.9375 780.4256,456.8125 Q780.4256,453.6875 781.7381,452.0313 Q783.0663,450.375 785.5663,450.375 Q786.2694,450.375 786.91,450.5313 Q787.5663,450.6875 788.1288,450.9844 L788.1288,453.7031 Q787.5038,453.125 786.91,452.8594 Q786.3163,452.5781 785.6913,452.5781 Q784.3475,452.5781 783.66,453.6563 Q782.9725,454.7188 782.9725,456.8125 Q782.9725,458.9063 783.66,459.9844 Q784.3475,461.0469 785.6913,461.0469 Q786.3163,461.0469 786.91,460.7813 Q787.5038,460.5 788.1288,459.9219 L788.1288,462.6406 Z " fill="#000000"/><text fill="#000000" font-family="Verdana" font-size="14" lengthAdjust="spacing" textLength="129" x="797.16" y="462.5679">PlumTomatoSauce</text><line style="stroke:#000000;stroke-width:1.0;" x1="773.16" x2="928.16" y1="471" y2="471"/><line style="stroke:#000000;stroke-width:1.0;" x1="773.16" x2="928.16" y1="479" y2="479"/></g><!--MD5=[6cb3f9640c352667b7c113933fba302a]
+class MarinaraSauce--><g id="elem_MarinaraSauce"><rect codeLine="42" fill="#FFFFFF" height="44" id="MarinaraSauce" rx="2.5" ry="2.5" style="stroke:#000000;stroke-width:1.0;" width="129" x="249.16" y="443"/><ellipse cx="262.16" cy="457" fill="#FFFFFF" rx="9" ry="9" style="stroke:#000000;stroke-width:1.0;"/><path d="M265.1287,462.6406 Q264.5506,462.9375 263.91,463.0781 Q263.2694,463.2344 262.5662,463.2344 Q260.0662,463.2344 258.7381,461.5938 Q257.4256,459.9375 257.4256,456.8125 Q257.4256,453.6875 258.7381,452.0313 Q260.0662,450.375 262.5662,450.375 Q263.2694,450.375 263.91,450.5313 Q264.5662,450.6875 265.1287,450.9844 L265.1287,453.7031 Q264.5037,453.125 263.91,452.8594 Q263.3162,452.5781 262.6912,452.5781 Q261.3475,452.5781 260.66,453.6563 Q259.9725,454.7188 259.9725,456.8125 Q259.9725,458.9063 260.66,459.9844 Q261.3475,461.0469 262.6912,461.0469 Q263.3162,461.0469 263.91,460.7813 Q264.5037,460.5 265.1287,459.9219 L265.1287,462.6406 Z " fill="#000000"/><text fill="#000000" font-family="Verdana" font-size="14" lengthAdjust="spacing" textLength="101" x="274.16" y="462.5679">MarinaraSauce</text><line style="stroke:#000000;stroke-width:1.0;" x1="250.16" x2="377.16" y1="471" y2="471"/><line style="stroke:#000000;stroke-width:1.0;" x1="250.16" x2="377.16" y1="479" y2="479"/></g><!--MD5=[f1234f42f3d0fcc6eaca57e0b5b20ae7]
+class MozzarellaCheese--><g id="elem_MozzarellaCheese"><rect codeLine="43" fill="#FFFFFF" height="44" id="MozzarellaCheese" rx="2.5" ry="2.5" style="stroke:#000000;stroke-width:1.0;" width="151" x="964.16" y="443"/><ellipse cx="977.16" cy="457" fill="#FFFFFF" rx="9" ry="9" style="stroke:#000000;stroke-width:1.0;"/><path d="M980.1288,462.6406 Q979.5506,462.9375 978.91,463.0781 Q978.2694,463.2344 977.5663,463.2344 Q975.0663,463.2344 973.7381,461.5938 Q972.4256,459.9375 972.4256,456.8125 Q972.4256,453.6875 973.7381,452.0313 Q975.0663,450.375 977.5663,450.375 Q978.2694,450.375 978.91,450.5313 Q979.5663,450.6875 980.1288,450.9844 L980.1288,453.7031 Q979.5038,453.125 978.91,452.8594 Q978.3163,452.5781 977.6913,452.5781 Q976.3475,452.5781 975.66,453.6563 Q974.9725,454.7188 974.9725,456.8125 Q974.9725,458.9063 975.66,459.9844 Q976.3475,461.0469 977.6913,461.0469 Q978.3163,461.0469 978.91,460.7813 Q979.5038,460.5 980.1288,459.9219 L980.1288,462.6406 Z " fill="#000000"/><text fill="#000000" font-family="Verdana" font-size="14" lengthAdjust="spacing" textLength="123" x="989.16" y="462.5679">MozzarellaCheese</text><line style="stroke:#000000;stroke-width:1.0;" x1="965.16" x2="1114.16" y1="471" y2="471"/><line style="stroke:#000000;stroke-width:1.0;" x1="965.16" x2="1114.16" y1="479" y2="479"/></g><!--MD5=[980d22949a9d1f4083bb07bb07252507]
+class ReggianoCheese--><g id="elem_ReggianoCheese"><rect codeLine="44" fill="#FFFFFF" height="44" id="ReggianoCheese" rx="2.5" ry="2.5" style="stroke:#000000;stroke-width:1.0;" width="144" x="413.66" y="443"/><ellipse cx="426.66" cy="457" fill="#FFFFFF" rx="9" ry="9" style="stroke:#000000;stroke-width:1.0;"/><path d="M429.6288,462.6406 Q429.0506,462.9375 428.41,463.0781 Q427.7694,463.2344 427.0663,463.2344 Q424.5663,463.2344 423.2381,461.5938 Q421.9256,459.9375 421.9256,456.8125 Q421.9256,453.6875 423.2381,452.0313 Q424.5663,450.375 427.0663,450.375 Q427.7694,450.375 428.41,450.5313 Q429.0663,450.6875 429.6288,450.9844 L429.6288,453.7031 Q429.0038,453.125 428.41,452.8594 Q427.8163,452.5781 427.1913,452.5781 Q425.8475,452.5781 425.16,453.6563 Q424.4725,454.7188 424.4725,456.8125 Q424.4725,458.9063 425.16,459.9844 Q425.8475,461.0469 427.1913,461.0469 Q427.8163,461.0469 428.41,460.7813 Q429.0038,460.5 429.6288,459.9219 L429.6288,462.6406 Z " fill="#000000"/><text fill="#000000" font-family="Verdana" font-size="14" lengthAdjust="spacing" textLength="116" x="438.66" y="462.5679">ReggianoCheese</text><line style="stroke:#000000;stroke-width:1.0;" x1="414.66" x2="556.66" y1="471" y2="471"/><line style="stroke:#000000;stroke-width:1.0;" x1="414.66" x2="556.66" y1="479" y2="479"/></g><!--MD5=[fab355d3817c57bf6aad30552214c707]
+class FreshClams--><g id="elem_FreshClams"><rect codeLine="45" fill="#FFFFFF" height="44" id="FreshClams" rx="2.5" ry="2.5" style="stroke:#000000;stroke-width:1.0;" width="109" x="1150.16" y="443"/><ellipse cx="1163.16" cy="457" fill="#FFFFFF" rx="9" ry="9" style="stroke:#000000;stroke-width:1.0;"/><path d="M1166.1287,462.6406 Q1165.5506,462.9375 1164.91,463.0781 Q1164.2694,463.2344 1163.5662,463.2344 Q1161.0662,463.2344 1159.7381,461.5938 Q1158.4256,459.9375 1158.4256,456.8125 Q1158.4256,453.6875 1159.7381,452.0313 Q1161.0662,450.375 1163.5662,450.375 Q1164.2694,450.375 1164.91,450.5313 Q1165.5662,450.6875 1166.1287,450.9844 L1166.1287,453.7031 Q1165.5037,453.125 1164.91,452.8594 Q1164.3162,452.5781 1163.6912,452.5781 Q1162.3475,452.5781 1161.66,453.6563 Q1160.9725,454.7188 1160.9725,456.8125 Q1160.9725,458.9063 1161.66,459.9844 Q1162.3475,461.0469 1163.6912,461.0469 Q1164.3162,461.0469 1164.91,460.7813 Q1165.5037,460.5 1166.1287,459.9219 L1166.1287,462.6406 Z " fill="#000000"/><text fill="#000000" font-family="Verdana" font-size="14" lengthAdjust="spacing" textLength="81" x="1175.16" y="462.5679">FreshClams</text><line style="stroke:#000000;stroke-width:1.0;" x1="1151.16" x2="1258.16" y1="471" y2="471"/><line style="stroke:#000000;stroke-width:1.0;" x1="1151.16" x2="1258.16" y1="479" y2="479"/></g><!--MD5=[bf9aed0a88b8d487485b29202b65602a]
+class FrozenClams--><g id="elem_FrozenClams"><rect codeLine="46" fill="#FFFFFF" height="44" id="FrozenClams" rx="2.5" ry="2.5" style="stroke:#000000;stroke-width:1.0;" width="118" x="1294.66" y="443"/><ellipse cx="1307.66" cy="457" fill="#FFFFFF" rx="9" ry="9" style="stroke:#000000;stroke-width:1.0;"/><path d="M1310.6287,462.6406 Q1310.0506,462.9375 1309.41,463.0781 Q1308.7694,463.2344 1308.0662,463.2344 Q1305.5662,463.2344 1304.2381,461.5938 Q1302.9256,459.9375 1302.9256,456.8125 Q1302.9256,453.6875 1304.2381,452.0313 Q1305.5662,450.375 1308.0662,450.375 Q1308.7694,450.375 1309.41,450.5313 Q1310.0662,450.6875 1310.6287,450.9844 L1310.6287,453.7031 Q1310.0037,453.125 1309.41,452.8594 Q1308.8162,452.5781 1308.1912,452.5781 Q1306.8475,452.5781 1306.16,453.6563 Q1305.4725,454.7188 1305.4725,456.8125 Q1305.4725,458.9063 1306.16,459.9844 Q1306.8475,461.0469 1308.1912,461.0469 Q1308.8162,461.0469 1309.41,460.7813 Q1310.0037,460.5 1310.6287,459.9219 L1310.6287,462.6406 Z " fill="#000000"/><text fill="#000000" font-family="Verdana" font-size="14" lengthAdjust="spacing" textLength="90" x="1319.66" y="462.5679">FrozenClams</text><line style="stroke:#000000;stroke-width:1.0;" x1="1295.66" x2="1411.66" y1="471" y2="471"/><line style="stroke:#000000;stroke-width:1.0;" x1="1295.66" x2="1411.66" y1="479" y2="479"/></g><!--MD5=[71b3633098fcee8ab790e4d6c3f8474f]
+reverse link PizzaIngredientFactory to NYPizzaIngredientFactory--><g id="link_PizzaIngredientFactory_NYPizzaIngredientFactory"><path codeLine="48" d="M750.68,98.11 C567.14,124.33 212.88,204.73 57.66,443 C11,514.63 120.25,565.03 210.24,593.03 " fill="none" id="PizzaIngredientFactory-backto-NYPizzaIngredientFactory" style="stroke:#000000;stroke-width:1.0;stroke-dasharray:7.0,7.0;"/><polygon fill="none" points="749.82,91.16,770.58,95.39,751.72,105.03,749.82,91.16" style="stroke:#000000;stroke-width:1.0;"/></g><!--MD5=[5f803d5544983d6d5146812ddd0f5a09]
+reverse link PizzaIngredientFactory to ChicagoPizzaIngredientFactory--><g id="link_PizzaIngredientFactory_ChicagoPizzaIngredientFactory"><path codeLine="49" d="M979.72,120.54 C1115.23,168.43 1334.96,269.32 1430.66,443 C1492.1,554.49 1297,595.56 1160.67,610.55 " fill="none" id="PizzaIngredientFactory-backto-ChicagoPizzaIngredientFactory" style="stroke:#000000;stroke-width:1.0;stroke-dasharray:7.0,7.0;"/><polygon fill="none" points="977.39,127.15,960.77,114,981.96,113.91,977.39,127.15" style="stroke:#000000;stroke-width:1.0;"/></g><!--MD5=[eee43febb90b40564f9dbfa290b84777]
+reverse link PizzaIngredientFactory to NYPizzaStore--><g id="link_PizzaIngredientFactory_NYPizzaStore"><path codeLine="51" d="M865.66,163.67 C865.66,182.95 865.66,202.46 865.66,217.8 " fill="none" id="PizzaIngredientFactory-backto-NYPizzaStore" style="stroke:#000000;stroke-width:1.0;"/><polygon fill="#000000" points="865.66,158.25,861.66,167.25,865.66,163.25,869.66,167.25,865.66,158.25" style="stroke:#000000;stroke-width:1.0;"/></g><!--MD5=[a5778adc5fbf73a691648d8d36ba8ae5]
+link NYPizzaStore to Dough--><g id="link_NYPizzaStore_Dough"><path codeLine="52" d="M811.8,279.11 C778.88,297.21 737.38,320.02 706.86,336.8 " fill="none" id="NYPizzaStore-to-Dough" style="stroke:#000000;stroke-width:1.0;"/><polygon fill="#000000" points="702.44,339.23,712.2533,338.3939,706.8202,336.8188,708.3953,331.3856,702.44,339.23" style="stroke:#000000;stroke-width:1.0;"/></g><!--MD5=[2ef8fc1a95cdc903cdbe647f9188b7c6]
+link NYPizzaStore to Sauce--><g id="link_NYPizzaStore_Sauce"><path codeLine="53" d="M851.19,279.11 C842.79,296.29 832.32,317.72 824.27,334.21 " fill="none" id="NYPizzaStore-to-Sauce" style="stroke:#000000;stroke-width:1.0;"/><polygon fill="#000000" points="822.06,338.72,829.5902,332.372,824.2445,334.2225,822.3941,328.8768,822.06,338.72" style="stroke:#000000;stroke-width:1.0;"/></g><!--MD5=[2f62a837e6360a1027ce19dc8a414427]
+link NYPizzaStore to Cheese--><g id="link_NYPizzaStore_Cheese"><path codeLine="54" d="M880.4,279.11 C888.95,296.29 899.62,317.72 907.82,334.21 " fill="none" id="NYPizzaStore-to-Cheese" style="stroke:#000000;stroke-width:1.0;"/><polygon fill="#000000" points="910.07,338.72,909.6479,328.8802,907.8453,334.2422,902.4834,332.4396,910.07,338.72" style="stroke:#000000;stroke-width:1.0;"/></g><!--MD5=[dc86292221c052b7ccce1bdb8147cc91]
+link NYPizzaStore to Clams--><g id="link_NYPizzaStore_Clams"><path codeLine="55" d="M926.27,269.26 C994.81,291.6 1104.54,327.36 1163.69,346.65 " fill="none" id="NYPizzaStore-to-Clams" style="stroke:#000000;stroke-width:1.0;"/><polygon fill="#000000" points="1168.56,348.23,1161.2509,341.6287,1163.8081,346.6746,1158.7622,349.2318,1168.56,348.23" style="stroke:#000000;stroke-width:1.0;"/></g><!--MD5=[d92be718af7d413ca9e7f013097ae35e]
+reverse link Dough to ThinCustDough--><g id="link_Dough_ThinCustDough"><path codeLine="57" d="M606.93,371.82 C523.75,386.18 365.47,414.36 231.66,443 C225.89,444.24 219.91,445.57 213.92,446.94 " fill="none" id="Dough-backto-ThinCustDough" style="stroke:#000000;stroke-width:1.0;stroke-dasharray:7.0,7.0;"/><polygon fill="none" points="605.99,364.88,626.88,368.39,608.36,378.67,605.99,364.88" style="stroke:#000000;stroke-width:1.0;"/></g><!--MD5=[1cb0f8783fa1daf3091c4b7e657d1271]
+reverse link Dough to ThickCustDough--><g id="link_Dough_ThickCustDough"><path codeLine="58" d="M664.66,403.17 C664.66,416.8 664.66,431.41 664.66,442.89 " fill="none" id="Dough-backto-ThickCustDough" style="stroke:#000000;stroke-width:1.0;stroke-dasharray:7.0,7.0;"/><polygon fill="none" points="657.66,403.13,664.66,383.13,671.66,403.13,657.66,403.13" style="stroke:#000000;stroke-width:1.0;"/></g><!--MD5=[f00454874297d99ad2538f8febbe2db9]
+reverse link Sauce to PlumTomatoSauce--><g id="link_Sauce_PlumTomatoSauce"><path codeLine="59" d="M827.03,402.2 C832.35,416.1 838.09,431.14 842.59,442.89 " fill="none" id="Sauce-backto-PlumTomatoSauce" style="stroke:#000000;stroke-width:1.0;stroke-dasharray:7.0,7.0;"/><polygon fill="none" points="820.35,404.32,819.74,383.13,833.42,399.32,820.35,404.32" style="stroke:#000000;stroke-width:1.0;"/></g><!--MD5=[1ada547d24c4828409c791350c7c001d]
+reverse link Sauce to MarinaraSauce--><g id="link_Sauce_MarinaraSauce"><path codeLine="60" d="M756.75,374.93 C744.56,377.69 731.69,380.52 719.66,383 C576.24,412.63 538.68,411.48 395.66,443 C390.06,444.23 384.27,445.58 378.47,446.97 " fill="none" id="Sauce-backto-MarinaraSauce" style="stroke:#000000;stroke-width:1.0;stroke-dasharray:7.0,7.0;"/><polygon fill="none" points="755.29,368.08,776.35,370.42,758.42,381.72,755.29,368.08" style="stroke:#000000;stroke-width:1.0;"/></g><!--MD5=[f83c5b02a74b39bfacdd4979d841b08a]
+reverse link Cheese to MozzarellaCheese--><g id="link_Cheese_MozzarellaCheese"><path codeLine="61" d="M960.58,396.22 C978.6,411.66 999.33,429.43 1015.04,442.89 " fill="none" id="Cheese-backto-MozzarellaCheese" style="stroke:#000000;stroke-width:1.0;stroke-dasharray:7.0,7.0;"/><polygon fill="none" points="955.95,401.47,945.32,383.13,965.06,390.84,955.95,401.47" style="stroke:#000000;stroke-width:1.0;"/></g><!--MD5=[dc64a02796e18d588ea013fc920a3609]
+reverse link Cheese to ReggianoCheese--><g id="link_Cheese_ReggianoCheese"><path codeLine="62" d="M862,383.18 C734.73,419.15 697.14,415.88 574.66,443 C569.24,444.2 563.63,445.47 558,446.76 " fill="none" id="Cheese-backto-ReggianoCheese" style="stroke:#000000;stroke-width:1.0;stroke-dasharray:7.0,7.0;"/><polygon fill="none" points="860.29,376.38,881.45,377.58,864.17,389.84,860.29,376.38" style="stroke:#000000;stroke-width:1.0;"/></g><!--MD5=[787a18cbed5f208f193f61c7264219a0]
+reverse link Clams to FreshClams--><g id="link_Clams_FreshClams"><path codeLine="63" d="M1204.66,403.17 C1204.66,416.8 1204.66,431.41 1204.66,442.89 " fill="none" id="Clams-backto-FreshClams" style="stroke:#000000;stroke-width:1.0;stroke-dasharray:7.0,7.0;"/><polygon fill="none" points="1197.66,403.13,1204.66,383.13,1211.66,403.13,1197.66,403.13" style="stroke:#000000;stroke-width:1.0;"/></g><!--MD5=[b6102e3d39f3dfee23f1f977a9d6b0dc]
+reverse link Clams to FrozenClams--><g id="link_Clams_FrozenClams"><path codeLine="64" d="M1252.25,394.58 C1275.36,410.4 1302.46,428.95 1322.83,442.89 " fill="none" id="Clams-backto-FrozenClams" style="stroke:#000000;stroke-width:1.0;stroke-dasharray:7.0,7.0;"/><polygon fill="none" points="1248.08,400.21,1235.53,383.13,1255.99,388.66,1248.08,400.21" style="stroke:#000000;stroke-width:1.0;"/></g><!--MD5=[21287966b984df45e30926ec6b2ce943]
+reverse link ThinCustDough to NYPizzaIngredientFactory--><g id="link_ThinCustDough_NYPizzaIngredientFactory"><path codeLine="66" d="M171.9,490.66 C188.83,505.99 211.56,526.56 233.85,546.74 " fill="none" id="ThinCustDough-backto-NYPizzaIngredientFactory" style="stroke:#000000;stroke-width:1.0;"/><polygon fill="#000000" points="168.16,487.27,172.1547,496.2724,171.8694,490.6227,177.519,490.3374,168.16,487.27" style="stroke:#000000;stroke-width:1.0;"/></g><!--MD5=[b5135db70999ad51087b264095c8a11d]
+reverse link MarinaraSauce to NYPizzaIngredientFactory--><g id="link_MarinaraSauce_NYPizzaIngredientFactory"><path codeLine="67" d="M313.66,492.62 C313.66,507.72 313.66,527.41 313.66,546.74 " fill="none" id="MarinaraSauce-backto-NYPizzaIngredientFactory" style="stroke:#000000;stroke-width:1.0;"/><polygon fill="#000000" points="313.66,487.27,309.66,496.27,313.66,492.27,317.66,496.27,313.66,487.27" style="stroke:#000000;stroke-width:1.0;"/></g><!--MD5=[236f292e14b3878b2048e78c0e52cb89]
+reverse link ReggianoCheese to NYPizzaIngredientFactory--><g id="link_ReggianoCheese_NYPizzaIngredientFactory"><path codeLine="68" d="M457.94,490.66 C440.71,505.99 417.58,526.56 394.89,546.74 " fill="none" id="ReggianoCheese-backto-NYPizzaIngredientFactory" style="stroke:#000000;stroke-width:1.0;"/><polygon fill="#000000" points="461.74,487.27,452.3559,490.2596,458.003,490.5918,457.6708,496.2389,461.74,487.27" style="stroke:#000000;stroke-width:1.0;"/></g><!--MD5=[a32f4fc311eaf831369b543ffad4e3e8]
+reverse link FreshClams to NYPizzaIngredientFactory--><g id="link_FreshClams_NYPizzaIngredientFactory"><path codeLine="69" d="M1144.94,484.03 C1140.8,485.09 1136.68,486.09 1132.66,487 C877.84,544.46 572.99,586.76 416.91,606.54 " fill="none" id="FreshClams-backto-NYPizzaIngredientFactory" style="stroke:#000000;stroke-width:1.0;"/><polygon fill="#000000" points="1149.81,482.76,1140.0937,481.1497,1144.9704,484.0163,1142.1038,488.893,1149.81,482.76" style="stroke:#000000;stroke-width:1.0;"/></g><!--MD5=[71a7ee66b887a76e66142da6f77d31fa]
+reverse link ThickCustDough to ChicagoPizzaIngredientFactory--><g id="link_ThickCustDough_ChicagoPizzaIngredientFactory"><path codeLine="71" d="M721.05,489.01 C773.13,510.26 852.24,542.53 918.6,569.61 " fill="none" id="ThickCustDough-backto-ChicagoPizzaIngredientFactory" style="stroke:#000000;stroke-width:1.0;"/><polygon fill="#000000" points="716.41,487.11,723.2356,494.21,721.0405,488.9965,726.254,486.8013,716.41,487.11" style="stroke:#000000;stroke-width:1.0;"/></g><!--MD5=[7e07212c01a6b54c612bff5029824a35]
+reverse link PlumTomatoSauce to ChicagoPizzaIngredientFactory--><g id="link_PlumTomatoSauce_ChicagoPizzaIngredientFactory"><path codeLine="72" d="M881.12,490.66 C900.06,505.99 925.47,526.56 950.4,546.74 " fill="none" id="PlumTomatoSauce-backto-ChicagoPizzaIngredientFactory" style="stroke:#000000;stroke-width:1.0;"/><polygon fill="#000000" points="876.94,487.27,881.4221,496.0399,880.8276,490.4143,886.4531,489.8198,876.94,487.27" style="stroke:#000000;stroke-width:1.0;"/></g><!--MD5=[026e2a2e606cea970f64e8e510cb42cf]
+reverse link MozzarellaCheese to ChicagoPizzaIngredientFactory--><g id="link_MozzarellaCheese_ChicagoPizzaIngredientFactory"><path codeLine="73" d="M1039.66,492.62 C1039.66,507.72 1039.66,527.41 1039.66,546.74 " fill="none" id="MozzarellaCheese-backto-ChicagoPizzaIngredientFactory" style="stroke:#000000;stroke-width:1.0;"/><polygon fill="#000000" points="1039.66,487.27,1035.66,496.27,1039.66,492.27,1043.66,496.27,1039.66,487.27" style="stroke:#000000;stroke-width:1.0;"/></g><!--MD5=[0404b2efac036ad1b5b256f95e32beaa]
+reverse link FrozenClams to ChicagoPizzaIngredientFactory--><g id="link_FrozenClams_ChicagoPizzaIngredientFactory"><path codeLine="74" d="M1305.72,489.36 C1267.17,508.15 1211.28,535.38 1160.67,560.04 " fill="none" id="FrozenClams-backto-ChicagoPizzaIngredientFactory" style="stroke:#000000;stroke-width:1.0;"/><polygon fill="#000000" points="1310.33,487.11,1300.4868,487.4441,1305.8325,489.2945,1303.982,494.6402,1310.33,487.11" style="stroke:#000000;stroke-width:1.0;"/></g><!--MD5=[519560a17dc840e8133216848efdd0bc]
+@startuml
+!theme plain
+
+interface PizzaIngredientFactory {
+  createDough()
+  createSauce()
+  createCheese()
+  createVeggies()
+  createPepperoni()
+  createClam()
+}
+
+class NYPizzaIngredientFactory {
+  createDough()
+  createSauce()
+  createCheese()
+  createVeggies()
+  createPepperoni()
+  createClam()
+}
+
+class ChicagoPizzaIngredientFactory {
+  createDough
+  createSauce()
+  createCheese()
+  createVeggies()
+  createPepperoni()
+  createClam()
+}
+
+class NYPizzaStore {
+  createPizza()
+}
+
+interface Dough
+interface Sauce
+interface Cheese
+interface Clams
+
+class ThickCustDough
+class ThinCustDough
+class PlumTomatoSauce
+class MarinaraSauce
+class MozzarellaCheese
+class ReggianoCheese
+class FreshClams
+class FrozenClams
+
+PizzaIngredientFactory <|.. NYPizzaIngredientFactory
+PizzaIngredientFactory <|.. ChicagoPizzaIngredientFactory
+
+PizzaIngredientFactory <- - NYPizzaStore
+NYPizzaStore - -> Dough
+NYPizzaStore - -> Sauce
+NYPizzaStore - -> Cheese
+NYPizzaStore - -> Clams
+
+Dough <|.. ThinCustDough
+Dough <|.. ThickCustDough
+Sauce <|.. PlumTomatoSauce
+Sauce <|.. MarinaraSauce
+Cheese <|.. MozzarellaCheese
+Cheese <|.. ReggianoCheese
+Clams <|.. FreshClams
+Clams <|.. FrozenClams
+
+ThinCustDough <- - NYPizzaIngredientFactory
+MarinaraSauce <- - NYPizzaIngredientFactory
+ReggianoCheese <- - NYPizzaIngredientFactory
+FreshClams <- - NYPizzaIngredientFactory
+
+ThickCustDough <- - ChicagoPizzaIngredientFactory
+PlumTomatoSauce <- - ChicagoPizzaIngredientFactory
+MozzarellaCheese <- - ChicagoPizzaIngredientFactory
+FrozenClams <- - ChicagoPizzaIngredientFactory
+
+@enduml
+
+@startuml
+
+
+
+
+
+
+
+<style>
+  root {
+    BackgroundColor white
+    FontColor black
+    FontName Verdana
+    HyperLinkColor blue
+    LineColor black
+    LineThickness 1
+    Margin 5
+  }
+  caption {
+    LineThickness 0
+  }
+  footer {
+    LineThickness 0
+  }
+  header {
+    LineThickness 0
+  }
+  node {
+    MaximumWidth 300
+  }
+  title {
+    FontSize 22
+    LineThickness 0
+  }
+</style>
+
+skinparam ArrowLollipopColor black
+skinparam BackgroundColor white
+skinparam DefaultFontName Verdana
+skinparam DefaultMonospacedFontName Courier
+skinparam LifelineStrategy nosolid
+skinparam ParticipantPadding 10
+skinparam SequenceLifeLineBorderColor black
+skinparam Shadowing false
+skinparam UseBetaStyle true
+
+skinparam Activity {
+  BackgroundColor white
+  BarColor black
+  BorderColor black
+  FontColor black
+  FontName Verdana
+}
+skinparam Boundary {
+  FontColor black
+}
+skinparam Box {
+  Padding 5
+}
+skinparam CircledCharacter {
+  FontColor black
+  FontName Courier
+  Radius 9
+}
+skinparam Class {
+  BackgroundColor white
+  BorderColor black
+  FontColor black
+  FontName Verdana
+}
+skinparam ClassAttribute {
+  FontColor black
+  FontName Verdana
+}
+skinparam ClassStereotype {
+  FontColor black
+  FontName Verdana
+}
+skinparam Footer {
+  FontColor black
+  FontName Verdana
+}
+skinparam Header {
+  FontColor black
+  FontName Verdana
+}
+skinparam Hyperlink {
+  Color blue
+}
+skinparam IconPackage {
+  Color black
+  BackgroundColor white
+}
+skinparam IconPrivate {
+  Color black
+  BackgroundColor white
+}
+skinparam IconProtected {
+  Color black
+  BackgroundColor white
+}
+skinparam IconPublic {
+  Color black
+  BackgroundColor white
+}
+skinparam Note {
+  FontColor black
+  FontName Verdana
+}
+skinparam Object {
+  BorderColor black
+}
+skinparam Package {
+  BorderColor black
+  FontColor black
+  FontName Verdana
+}
+skinparam State {
+  BackgroundColor white
+  BorderColor black
+}
+skinparam StereotypeA {
+  BackgroundColor white
+  BorderColor black
+}
+skinparam StereotypeC {
+  BackgroundColor white
+  BorderColor black
+}
+skinparam StereotypeE {
+  BackgroundColor white
+  BorderColor black
+}
+skinparam StereotypeI {
+  BackgroundColor white
+  BorderColor black
+}
+skinparam StereotypeN {
+  BackgroundColor white
+  BorderColor black
+}
+skinparam UseCaseStereoType {
+  FontColor black
+  FontName Verdana
+}
+
+interface PizzaIngredientFactory {
+  createDough()
+  createSauce()
+  createCheese()
+  createVeggies()
+  createPepperoni()
+  createClam()
+}
+
+class NYPizzaIngredientFactory {
+  createDough()
+  createSauce()
+  createCheese()
+  createVeggies()
+  createPepperoni()
+  createClam()
+}
+
+class ChicagoPizzaIngredientFactory {
+  createDough
+  createSauce()
+  createCheese()
+  createVeggies()
+  createPepperoni()
+  createClam()
+}
+
+class NYPizzaStore {
+  createPizza()
+}
+
+interface Dough
+interface Sauce
+interface Cheese
+interface Clams
+
+class ThickCustDough
+class ThinCustDough
+class PlumTomatoSauce
+class MarinaraSauce
+class MozzarellaCheese
+class ReggianoCheese
+class FreshClams
+class FrozenClams
+
+PizzaIngredientFactory <|.. NYPizzaIngredientFactory
+PizzaIngredientFactory <|.. ChicagoPizzaIngredientFactory
+
+PizzaIngredientFactory <- - NYPizzaStore
+NYPizzaStore - -> Dough
+NYPizzaStore - -> Sauce
+NYPizzaStore - -> Cheese
+NYPizzaStore - -> Clams
+
+Dough <|.. ThinCustDough
+Dough <|.. ThickCustDough
+Sauce <|.. PlumTomatoSauce
+Sauce <|.. MarinaraSauce
+Cheese <|.. MozzarellaCheese
+Cheese <|.. ReggianoCheese
+Clams <|.. FreshClams
+Clams <|.. FrozenClams
+
+ThinCustDough <- - NYPizzaIngredientFactory
+MarinaraSauce <- - NYPizzaIngredientFactory
+ReggianoCheese <- - NYPizzaIngredientFactory
+FreshClams <- - NYPizzaIngredientFactory
+
+ThickCustDough <- - ChicagoPizzaIngredientFactory
+PlumTomatoSauce <- - ChicagoPizzaIngredientFactory
+MozzarellaCheese <- - ChicagoPizzaIngredientFactory
+FrozenClams <- - ChicagoPizzaIngredientFactory
+
+@enduml
+
+PlantUML version 1.2022.7(Tue Aug 23 01:01:30 CST 2022)
+(GPL source distribution)
+Java Runtime: OpenJDK Runtime Environment
+JVM: OpenJDK 64-Bit Server VM
+Default Encoding: UTF-8
+Language: en
+Country: US
+--></g></svg>

@@ -1,4 +1,4 @@
-工厂模式
+### 工厂模式
 
 ## 简单工厂
 
@@ -15,3 +15,8 @@
 
 <div align="center"><img src="./b/uml.svg"></div>
 <div align="center"><a href="./b">代码示例</a></div>
+
+## 抽象工厂
+
+<div align="center"><img src="./c/uml.svg"></div>
+<div align="center"><a href="./c">代码示例</a></div>
