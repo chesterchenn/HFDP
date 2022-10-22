@@ -1,4 +1,4 @@
-package chapterf.a;
+package chapterf.command;
 
 import chapterf.electricity.GarageDoor;
 

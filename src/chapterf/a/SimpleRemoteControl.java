@@ -1,5 +1,7 @@
 package chapterf.a;
 
+import chapterf.command.Command;
+
 public class SimpleRemoteControl {
   Command slot;
 

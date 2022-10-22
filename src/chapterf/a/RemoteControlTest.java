@@ -1,5 +1,8 @@
 package chapterf.a;
 
+import chapterf.command.GarageDoorOpenCommand;
+import chapterf.command.LightOffCommand;
+import chapterf.command.LightOnCommand;
 import chapterf.electricity.GarageDoor;
 import chapterf.electricity.Light;
 
