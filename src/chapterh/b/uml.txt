@@ -1,0 +1,24 @@
+@startuml
+!theme plain
+title 抽象咖啡和茶
+
+abstract class CaffeineBeverage {
+  prepareRecipe()
+  boilWater()
+  pourInCup()
+  {abstract} brew()
+  {abstract} addCondiments()
+}
+class Coffee {
+  brew()
+  addCondiments()
+}
+class Tea {
+  brew()
+  addCondiments()
+}
+
+CaffeineBeverage <|-- Coffee
+CaffeineBeverage <|-- Tea
+
+@enduml
