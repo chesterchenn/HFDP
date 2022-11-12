@@ -1,5 +1,7 @@
 《Head Fisrt Design Patterns》代码笔记，结合书籍观看。
 
+[https://wickedlysmart.com/head-first-design-patterns](https://wickedlysmart.com/head-first-design-patterns)
+
 ## UML
 
 UML 使用 [https://github.com/plantuml/plantuml](https://github.com/plantuml/plantuml) 工具
