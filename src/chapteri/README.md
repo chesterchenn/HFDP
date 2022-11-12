@@ -10,3 +10,8 @@
 
 <div align="center"><img src="./a/uml.svg"></div>
 <div align="center"><a href="./a">代码示例</a></div>
+
+使用内置的 Iterator
+
+<div align="center"><img src="./b/uml.svg"></div>
+<div align="center"><a href="./b">代码示例</a></div>

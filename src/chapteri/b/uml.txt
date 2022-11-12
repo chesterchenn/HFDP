@@ -1,0 +1,43 @@
+@startuml
+!theme plain
+title 内置的迭代器
+
+interface Menu {
+  createIterator()
+}
+
+class PancakeHouseMenu {
+  menuItems
+  createIterator()
+}
+
+class DinerMenu {
+  menuItems
+  createIterator()
+}
+
+class Waitress {
+  printMenu()
+}
+
+interface Iterator {
+  hasNext()
+  next()
+  remove()
+}
+
+class DinerMenuIterator {
+  hasNext()
+  next()
+  remove()
+}
+
+Waitress -L-> Menu
+Waitress -R-> Iterator
+
+Menu <|-- PancakeHouseMenu
+Menu <|-- DinerMenu
+
+Iterator <|-- DinerMenuIterator
+
+@enduml

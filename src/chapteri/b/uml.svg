@@ -1,0 +1,251 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" contentStyleType="text/css" height="316px" preserveAspectRatio="none" style="width:577px;height:316px;background:#FFFFFF;" version="1.1" viewBox="0 0 577 316" width="577px" zoomAndPan="magnify"><defs/><g><rect fill="#FFFFFF" height="36.7373" id="_title" style="stroke:#FFFFFF;stroke-width:0.0;" width="142" x="213.25" y="10"/><text fill="#000000" font-family="Verdana" font-size="22" font-weight="bold" lengthAdjust="spacing" textLength="132" x="218.25" y="37.1182">内置的迭代器</text><!--MD5=[f0268dd29ee89052933f031546cb1cab]
+class Menu--><g id="elem_Menu"><rect codeLine="4" fill="#FFFFFF" height="61.0146" id="Menu" rx="2.5" ry="2.5" style="stroke:#000000;stroke-width:1.0;" width="121" x="165" y="76.7373"/><ellipse cx="202.75" cy="90.7373" fill="#FFFFFF" rx="9" ry="9" style="stroke:#000000;stroke-width:1.0;"/><path d="M198.6719,86.5029 L198.6719,84.3467 L206.0625,84.3467 L206.0625,86.5029 L203.5938,86.5029 L203.5938,94.5811 L206.0625,94.5811 L206.0625,96.7373 L198.6719,96.7373 L198.6719,94.5811 L201.1406,94.5811 L201.1406,86.5029 L198.6719,86.5029 Z " fill="#000000"/><text fill="#000000" font-family="Verdana" font-size="14" font-style="italic" lengthAdjust="spacing" textLength="38" x="220.25" y="96.3052">Menu</text><line style="stroke:#000000;stroke-width:1.0;" x1="166" x2="285" y1="104.7373" y2="104.7373"/><line style="stroke:#000000;stroke-width:1.0;" x1="166" x2="285" y1="112.7373" y2="112.7373"/><text fill="#000000" font-family="Verdana" font-size="14" lengthAdjust="spacing" textLength="109" x="171" y="130.8125">createIterator()</text></g><!--MD5=[2b5bf27e2bd79edb2813bef399e67858]
+class PancakeHouseMenu--><g id="elem_PancakeHouseMenu"><rect codeLine="8" fill="#FFFFFF" height="78.0293" id="PancakeHouseMenu" rx="2.5" ry="2.5" style="stroke:#000000;stroke-width:1.0;" width="165" x="12" y="223.2373"/><ellipse cx="25" cy="237.2373" fill="#FFFFFF" rx="9" ry="9" style="stroke:#000000;stroke-width:1.0;"/><path d="M27.9688,242.8779 Q27.3906,243.1748 26.75,243.3154 Q26.1094,243.4717 25.4063,243.4717 Q22.9063,243.4717 21.5781,241.8311 Q20.2656,240.1748 20.2656,237.0498 Q20.2656,233.9248 21.5781,232.2686 Q22.9063,230.6123 25.4063,230.6123 Q26.1094,230.6123 26.75,230.7686 Q27.4063,230.9248 27.9688,231.2217 L27.9688,233.9404 Q27.3438,233.3623 26.75,233.0967 Q26.1563,232.8154 25.5313,232.8154 Q24.1875,232.8154 23.5,233.8936 Q22.8125,234.9561 22.8125,237.0498 Q22.8125,239.1436 23.5,240.2217 Q24.1875,241.2842 25.5313,241.2842 Q26.1563,241.2842 26.75,241.0186 Q27.3438,240.7373 27.9688,240.1592 L27.9688,242.8779 Z " fill="#000000"/><text fill="#000000" font-family="Verdana" font-size="14" lengthAdjust="spacing" textLength="137" x="37" y="242.8052">PancakeHouseMenu</text><line style="stroke:#000000;stroke-width:1.0;" x1="13" x2="176" y1="251.2373" y2="251.2373"/><text fill="#000000" font-family="Verdana" font-size="14" lengthAdjust="spacing" textLength="79" x="18" y="269.3125">menuItems</text><line style="stroke:#000000;stroke-width:1.0;" x1="13" x2="176" y1="276.252" y2="276.252"/><text fill="#000000" font-family="Verdana" font-size="14" lengthAdjust="spacing" textLength="109" x="18" y="294.3271">createIterator()</text></g><!--MD5=[0321b0ee8154714e00d0c54547efbb35]
+class DinerMenu--><g id="elem_DinerMenu"><rect codeLine="13" fill="#FFFFFF" height="78.0293" id="DinerMenu" rx="2.5" ry="2.5" style="stroke:#000000;stroke-width:1.0;" width="121" x="212" y="223.2373"/><ellipse cx="233.55" cy="237.2373" fill="#FFFFFF" rx="9" ry="9" style="stroke:#000000;stroke-width:1.0;"/><path d="M236.5188,242.8779 Q235.9406,243.1748 235.3,243.3154 Q234.6594,243.4717 233.9563,243.4717 Q231.4563,243.4717 230.1281,241.8311 Q228.8156,240.1748 228.8156,237.0498 Q228.8156,233.9248 230.1281,232.2686 Q231.4563,230.6123 233.9563,230.6123 Q234.6594,230.6123 235.3,230.7686 Q235.9563,230.9248 236.5188,231.2217 L236.5188,233.9404 Q235.8938,233.3623 235.3,233.0967 Q234.7063,232.8154 234.0813,232.8154 Q232.7375,232.8154 232.05,233.8936 Q231.3625,234.9561 231.3625,237.0498 Q231.3625,239.1436 232.05,240.2217 Q232.7375,241.2842 234.0813,241.2842 Q234.7063,241.2842 235.3,241.0186 Q235.8938,240.7373 236.5188,240.1592 L236.5188,242.8779 Z " fill="#000000"/><text fill="#000000" font-family="Verdana" font-size="14" lengthAdjust="spacing" textLength="74" x="247.45" y="242.8052">DinerMenu</text><line style="stroke:#000000;stroke-width:1.0;" x1="213" x2="332" y1="251.2373" y2="251.2373"/><text fill="#000000" font-family="Verdana" font-size="14" lengthAdjust="spacing" textLength="79" x="218" y="269.3125">menuItems</text><line style="stroke:#000000;stroke-width:1.0;" x1="213" x2="332" y1="276.252" y2="276.252"/><text fill="#000000" font-family="Verdana" font-size="14" lengthAdjust="spacing" textLength="109" x="218" y="294.3271">createIterator()</text></g><!--MD5=[f4e843451c33ab6738cd05e6a39b4d42]
+class Waitress--><g id="elem_Waitress"><rect codeLine="18" fill="#FFFFFF" height="61.0146" id="Waitress" rx="2.5" ry="2.5" style="stroke:#000000;stroke-width:1.0;" width="94" x="321.5" y="76.7373"/><ellipse cx="336.3" cy="90.7373" fill="#FFFFFF" rx="9" ry="9" style="stroke:#000000;stroke-width:1.0;"/><path d="M339.2688,96.3779 Q338.6906,96.6748 338.05,96.8154 Q337.4094,96.9717 336.7063,96.9717 Q334.2063,96.9717 332.8781,95.3311 Q331.5656,93.6748 331.5656,90.5498 Q331.5656,87.4248 332.8781,85.7686 Q334.2063,84.1123 336.7063,84.1123 Q337.4094,84.1123 338.05,84.2686 Q338.7063,84.4248 339.2688,84.7217 L339.2688,87.4404 Q338.6438,86.8623 338.05,86.5967 Q337.4563,86.3154 336.8313,86.3154 Q335.4875,86.3154 334.8,87.3936 Q334.1125,88.4561 334.1125,90.5498 Q334.1125,92.6436 334.8,93.7217 Q335.4875,94.7842 336.8313,94.7842 Q337.4563,94.7842 338.05,94.5186 Q338.6438,94.2373 339.2688,93.6592 L339.2688,96.3779 Z " fill="#000000"/><text fill="#000000" font-family="Verdana" font-size="14" lengthAdjust="spacing" textLength="62" x="348.7" y="96.3052">Waitress</text><line style="stroke:#000000;stroke-width:1.0;" x1="322.5" x2="414.5" y1="104.7373" y2="104.7373"/><line style="stroke:#000000;stroke-width:1.0;" x1="322.5" x2="414.5" y1="112.7373" y2="112.7373"/><text fill="#000000" font-family="Verdana" font-size="14" lengthAdjust="spacing" textLength="82" x="327.5" y="130.8125">printMenu()</text></g><!--MD5=[023ecf6702e3ca2ce47ae747eafb20f1]
+class Iterator--><g id="elem_Iterator"><rect codeLine="22" fill="#FFFFFF" height="95.0439" id="Iterator" rx="2.5" ry="2.5" style="stroke:#000000;stroke-width:1.0;" width="84" x="450.5" y="59.7373"/><ellipse cx="463.5" cy="73.7373" fill="#FFFFFF" rx="9" ry="9" style="stroke:#000000;stroke-width:1.0;"/><path d="M459.4219,69.5029 L459.4219,67.3467 L466.8125,67.3467 L466.8125,69.5029 L464.3438,69.5029 L464.3438,77.5811 L466.8125,77.5811 L466.8125,79.7373 L459.4219,79.7373 L459.4219,77.5811 L461.8906,77.5811 L461.8906,69.5029 L459.4219,69.5029 Z " fill="#000000"/><text fill="#000000" font-family="Verdana" font-size="14" font-style="italic" lengthAdjust="spacing" textLength="56" x="475.5" y="79.3052">Iterator</text><line style="stroke:#000000;stroke-width:1.0;" x1="451.5" x2="533.5" y1="87.7373" y2="87.7373"/><line style="stroke:#000000;stroke-width:1.0;" x1="451.5" x2="533.5" y1="95.7373" y2="95.7373"/><text fill="#000000" font-family="Verdana" font-size="14" lengthAdjust="spacing" textLength="70" x="456.5" y="113.8125">hasNext()</text><text fill="#000000" font-family="Verdana" font-size="14" lengthAdjust="spacing" textLength="44" x="456.5" y="130.8271">next()</text><text fill="#000000" font-family="Verdana" font-size="14" lengthAdjust="spacing" textLength="64" x="456.5" y="147.8418">remove()</text></g><!--MD5=[77053efc788c0778d05a4d27be908146]
+class DinerMenuIterator--><g id="elem_DinerMenuIterator"><rect codeLine="28" fill="#FFFFFF" height="95.0439" id="DinerMenuIterator" rx="2.5" ry="2.5" style="stroke:#000000;stroke-width:1.0;" width="156" x="414.5" y="214.7373"/><ellipse cx="427.5" cy="228.7373" fill="#FFFFFF" rx="9" ry="9" style="stroke:#000000;stroke-width:1.0;"/><path d="M430.4688,234.3779 Q429.8906,234.6748 429.25,234.8154 Q428.6094,234.9717 427.9063,234.9717 Q425.4063,234.9717 424.0781,233.3311 Q422.7656,231.6748 422.7656,228.5498 Q422.7656,225.4248 424.0781,223.7686 Q425.4063,222.1123 427.9063,222.1123 Q428.6094,222.1123 429.25,222.2686 Q429.9063,222.4248 430.4688,222.7217 L430.4688,225.4404 Q429.8438,224.8623 429.25,224.5967 Q428.6563,224.3154 428.0313,224.3154 Q426.6875,224.3154 426,225.3936 Q425.3125,226.4561 425.3125,228.5498 Q425.3125,230.6436 426,231.7217 Q426.6875,232.7842 428.0313,232.7842 Q428.6563,232.7842 429.25,232.5186 Q429.8438,232.2373 430.4688,231.6592 L430.4688,234.3779 Z " fill="#000000"/><text fill="#000000" font-family="Verdana" font-size="14" lengthAdjust="spacing" textLength="128" x="439.5" y="234.3052">DinerMenuIterator</text><line style="stroke:#000000;stroke-width:1.0;" x1="415.5" x2="569.5" y1="242.7373" y2="242.7373"/><line style="stroke:#000000;stroke-width:1.0;" x1="415.5" x2="569.5" y1="250.7373" y2="250.7373"/><text fill="#000000" font-family="Verdana" font-size="14" lengthAdjust="spacing" textLength="70" x="420.5" y="268.8125">hasNext()</text><text fill="#000000" font-family="Verdana" font-size="14" lengthAdjust="spacing" textLength="44" x="420.5" y="285.8271">next()</text><text fill="#000000" font-family="Verdana" font-size="14" lengthAdjust="spacing" textLength="64" x="420.5" y="302.8418">remove()</text></g><!--MD5=[1dc2c00a160b0f795dc054bce23b98ed]
+reverse link Menu to Waitress--><g id="link_Menu_Waitress"><path codeLine="34" d="M292.88,107.2373 C302.26,107.2373 311.65,107.2373 321.03,107.2373 " fill="none" id="Menu-backto-Waitress" style="stroke:#000000;stroke-width:1.0;"/><polygon fill="#000000" points="287.9,107.2373,296.9,111.2373,292.9,107.2373,296.9,103.2373,287.9,107.2373" style="stroke:#000000;stroke-width:1.0;"/></g><!--MD5=[a6e1bd66cfa96a19601040fce52e6335]
+link Waitress to Iterator--><g id="link_Waitress_Iterator"><path codeLine="35" d="M415.97,107.2373 C425.2,107.2373 434.43,107.2373 443.66,107.2373 " fill="none" id="Waitress-to-Iterator" style="stroke:#000000;stroke-width:1.0;"/><polygon fill="#000000" points="448.54,107.2373,439.54,103.2373,443.54,107.2373,439.54,111.2373,448.54,107.2373" style="stroke:#000000;stroke-width:1.0;"/></g><!--MD5=[310e11accb0824f07868dcbc4eecdb3d]
+reverse link Menu to PancakeHouseMenu--><g id="link_Menu_PancakeHouseMenu"><path codeLine="37" d="M186.05,154.3073 C167.26,176.2573 145.06,202.1873 127.22,223.0173 " fill="none" id="Menu-backto-PancakeHouseMenu" style="stroke:#000000;stroke-width:1.0;"/><polygon fill="none" points="180.62,149.8873,198.95,139.2473,191.26,158.9973,180.62,149.8873" style="stroke:#000000;stroke-width:1.0;"/></g><!--MD5=[2e42d48cd23ee8a7cf8a6023784e9f64]
+reverse link Menu to DinerMenu--><g id="link_Menu_DinerMenu"><path codeLine="38" d="M240.96,158.5673 C247.41,179.5573 254.77,203.5173 260.76,223.0173 " fill="none" id="Menu-backto-DinerMenu" style="stroke:#000000;stroke-width:1.0;"/><polygon fill="none" points="234.3,160.7173,235.12,139.5473,247.68,156.6073,234.3,160.7173" style="stroke:#000000;stroke-width:1.0;"/></g><!--MD5=[ab5bb8a73804a35b54dcd34254292dd9]
+reverse link Iterator to DinerMenuIterator--><g id="link_Iterator_DinerMenuIterator"><path codeLine="40" d="M492.5,176.0873 C492.5,188.9773 492.5,202.1973 492.5,214.2573 " fill="none" id="Iterator-backto-DinerMenuIterator" style="stroke:#000000;stroke-width:1.0;"/><polygon fill="none" points="485.5,176.4873,492.5,156.4873,499.5,176.4873,485.5,176.4873" style="stroke:#000000;stroke-width:1.0;"/></g><!--MD5=[8d74a975ef94713bb317a431b321dd1f]
+@startuml
+!theme plain
+title 内置的迭代器
+
+interface Menu {
+  createIterator()
+}
+
+class PancakeHouseMenu {
+  menuItems
+  createIterator()
+}
+
+class DinerMenu {
+  menuItems
+  createIterator()
+}
+
+class Waitress {
+  printMenu()
+}
+
+interface Iterator {
+  hasNext()
+  next()
+  remove()
+}
+
+class DinerMenuIterator {
+  hasNext()
+  next()
+  remove()
+}
+
+Waitress -L-> Menu
+Waitress -R-> Iterator
+
+Menu <|- - PancakeHouseMenu
+Menu <|- - DinerMenu
+
+Iterator <|- - DinerMenuIterator
+
+@enduml
+
+@startuml
+
+
+
+
+
+
+
+<style>
+  root {
+    BackgroundColor white
+    FontColor black
+    FontName Verdana
+    HyperLinkColor blue
+    LineColor black
+    LineThickness 1
+    Margin 5
+  }
+  caption {
+    LineThickness 0
+  }
+  footer {
+    LineThickness 0
+  }
+  header {
+    LineThickness 0
+  }
+  node {
+    MaximumWidth 300
+  }
+  title {
+    FontSize 22
+    LineThickness 0
+  }
+</style>
+
+skinparam ArrowLollipopColor black
+skinparam BackgroundColor white
+skinparam DefaultFontName Verdana
+skinparam DefaultMonospacedFontName Courier
+skinparam LifelineStrategy nosolid
+skinparam ParticipantPadding 10
+skinparam SequenceLifeLineBorderColor black
+skinparam Shadowing false
+skinparam UseBetaStyle true
+
+skinparam Activity {
+  BackgroundColor white
+  BarColor black
+  BorderColor black
+  FontColor black
+  FontName Verdana
+}
+skinparam Boundary {
+  FontColor black
+}
+skinparam Box {
+  Padding 5
+}
+skinparam CircledCharacter {
+  FontColor black
+  FontName Courier
+  Radius 9
+}
+skinparam Class {
+  BackgroundColor white
+  BorderColor black
+  FontColor black
+  FontName Verdana
+}
+skinparam ClassAttribute {
+  FontColor black
+  FontName Verdana
+}
+skinparam ClassStereotype {
+  FontColor black
+  FontName Verdana
+}
+skinparam Footer {
+  FontColor black
+  FontName Verdana
+}
+skinparam Header {
+  FontColor black
+  FontName Verdana
+}
+skinparam Hyperlink {
+  Color blue
+}
+skinparam IconPackage {
+  Color black
+  BackgroundColor white
+}
+skinparam IconPrivate {
+  Color black
+  BackgroundColor white
+}
+skinparam IconProtected {
+  Color black
+  BackgroundColor white
+}
+skinparam IconPublic {
+  Color black
+  BackgroundColor white
+}
+skinparam Note {
+  FontColor black
+  FontName Verdana
+}
+skinparam Object {
+  BorderColor black
+}
+skinparam Package {
+  BorderColor black
+  FontColor black
+  FontName Verdana
+}
+skinparam State {
+  BackgroundColor white
+  BorderColor black
+}
+skinparam StereotypeA {
+  BackgroundColor white
+  BorderColor black
+}
+skinparam StereotypeC {
+  BackgroundColor white
+  BorderColor black
+}
+skinparam StereotypeE {
+  BackgroundColor white
+  BorderColor black
+}
+skinparam StereotypeI {
+  BackgroundColor white
+  BorderColor black
+}
+skinparam StereotypeN {
+  BackgroundColor white
+  BorderColor black
+}
+skinparam UseCaseStereoType {
+  FontColor black
+  FontName Verdana
+}
+title 内置的迭代器
+
+interface Menu {
+  createIterator()
+}
+
+class PancakeHouseMenu {
+  menuItems
+  createIterator()
+}
+
+class DinerMenu {
+  menuItems
+  createIterator()
+}
+
+class Waitress {
+  printMenu()
+}
+
+interface Iterator {
+  hasNext()
+  next()
+  remove()
+}
+
+class DinerMenuIterator {
+  hasNext()
+  next()
+  remove()
+}
+
+Waitress -L-> Menu
+Waitress -R-> Iterator
+
+Menu <|- - PancakeHouseMenu
+Menu <|- - DinerMenu
+
+Iterator <|- - DinerMenuIterator
+
+@enduml
+
+PlantUML version 1.2022.7(Tue Aug 23 01:01:30 CST 2022)
+(GPL source distribution)
+Java Runtime: OpenJDK Runtime Environment
+JVM: OpenJDK 64-Bit Server VM
+Default Encoding: UTF-8
+Language: en
+Country: US
+--></g></svg>
