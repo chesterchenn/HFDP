@@ -1,0 +1,191 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" contentStyleType="text/css" height="496px" preserveAspectRatio="none" style="width:370px;height:496px;background:#FFFFFF;" version="1.1" viewBox="0 0 370 496" width="370px" zoomAndPan="magnify"><defs/><g><rect fill="#FFFFFF" height="36.7373" id="_title" style="stroke:#FFFFFF;stroke-width:0.0;" width="142" x="109.62" y="10"/><text fill="#000000" font-family="Verdana" font-size="22" font-weight="bold" lengthAdjust="spacing" textLength="132" x="114.62" y="37.1182">糖果机状态图</text><g id="没有25分钱"><rect fill="#FFFFFF" height="50" rx="12.5" ry="12.5" style="stroke:#000000;stroke-width:1.0;" width="94" x="93.24" y="59.7373"/><line style="stroke:#000000;stroke-width:1.0;" x1="93.24" x2="187.24" y1="86.752" y2="86.752"/><text fill="#000000" font-family="Verdana" font-size="14" lengthAdjust="spacing" textLength="74" x="103.24" y="78.8125">没有25分钱</text></g><g id="有25分钱"><rect fill="#FFFFFF" height="50" rx="12.5" ry="12.5" style="stroke:#000000;stroke-width:1.0;" width="80" x="83.24" y="186.7373"/><line style="stroke:#000000;stroke-width:1.0;" x1="83.24" x2="163.24" y1="213.752" y2="213.752"/><text fill="#000000" font-family="Verdana" font-size="14" lengthAdjust="spacing" textLength="60" x="93.24" y="205.8125">有25分钱</text></g><g id="售出糖果"><rect fill="#FFFFFF" height="50" rx="12.5" ry="12.5" style="stroke:#000000;stroke-width:1.0;" width="76" x="140.24" y="313.7373"/><line style="stroke:#000000;stroke-width:1.0;" x1="140.24" x2="216.24" y1="340.752" y2="340.752"/><text fill="#000000" font-family="Verdana" font-size="14" lengthAdjust="spacing" textLength="56" x="150.24" y="332.8125">售出糖果</text></g><g id="糖果售罄"><rect fill="#FFFFFF" height="50" rx="12.5" ry="12.5" style="stroke:#000000;stroke-width:1.0;" width="76" x="140.24" y="440.7373"/><line style="stroke:#000000;stroke-width:1.0;" x1="140.24" x2="216.24" y1="467.752" y2="467.752"/><text fill="#000000" font-family="Verdana" font-size="14" lengthAdjust="spacing" textLength="56" x="150.24" y="459.8125">糖果售罄</text></g><!--MD5=[e2adbdec4ff11f53c84bfc11f54f0d83]
+link 没有25分钱 to 有25分钱--><g id="link_没有25分钱_有25分钱"><path d="M92.85,95.7173 C68.8,103.4373 41.68,116.8373 27.24,139.7373 C11,165.4873 44.99,185.0573 76.92,197.0673 " fill="none" id="没有25分钱-to-有25分钱" style="stroke:#000000;stroke-width:1.0;"/><polygon fill="#000000" points="81.42,198.7073,74.3422,191.8586,76.7244,196.9894,71.5936,199.3716,81.42,198.7073" style="stroke:#000000;stroke-width:1.0;"/><text fill="#000000" font-family="Verdana" font-size="13" lengthAdjust="spacing" textLength="68" x="28.24" y="153.8071">投入25分钱</text></g><!--MD5=[9e6bee3a4e767ab90360dc1d7fc37a81]
+link 有25分钱 to 没有25分钱--><g id="link_有25分钱_没有25分钱"><path d="M126.55,186.3973 C129.26,166.4573 133.12,138.1173 136.04,116.5773 " fill="none" id="有25分钱-to-没有25分钱" style="stroke:#000000;stroke-width:1.0;"/><polygon fill="#000000" points="136.72,111.6373,131.5482,120.019,136.0489,116.5921,139.4758,121.0928,136.72,111.6373" style="stroke:#000000;stroke-width:1.0;"/><text fill="#000000" font-family="Verdana" font-size="13" lengthAdjust="spacing" textLength="68" x="133.24" y="153.8071">返回25分钱</text></g><!--MD5=[15ace068ef96de6f99e92d0f9ac72db0]
+link 有25分钱 to 售出糖果--><g id="link_有25分钱_售出糖果"><path d="M133.31,237.1373 C139.04,250.8773 146.41,268.3173 153.24,283.7373 C156.67,291.4873 160.47,299.8273 164.05,307.5673 " fill="none" id="有25分钱-to-售出糖果" style="stroke:#000000;stroke-width:1.0;"/><polygon fill="#000000" points="166.1,311.9773,165.9171,302.1301,163.9848,307.4468,158.6682,305.5145,166.1,311.9773" style="stroke:#000000;stroke-width:1.0;"/><text fill="#000000" font-family="Verdana" font-size="13" lengthAdjust="spacing" textLength="52" x="154.24" y="280.8071">转动曲柄</text></g><!--MD5=[d5a20b45770b2d918157babdd0942d12]
+link 售出糖果 to 糖果售罄--><g id="link_售出糖果_糖果售罄"><path d="M178.24,364.1373 C178.24,384.0973 178.24,412.4373 178.24,433.9573 " fill="none" id="售出糖果-to-糖果售罄" style="stroke:#000000;stroke-width:1.0;"/><polygon fill="#000000" points="178.24,438.8873,182.24,429.8873,178.24,433.8873,174.24,429.8873,178.24,438.8873" style="stroke:#000000;stroke-width:1.0;"/><text fill="#000000" font-family="Verdana" font-size="13" lengthAdjust="spacing" textLength="134" x="179.24" y="407.8071">发放糖果，糖果数目=0</text></g><!--MD5=[a5f08a57470c9ff07e7861cc127843cf]
+link 售出糖果 to 没有25分钱--><g id="link_售出糖果_没有25分钱"><path d="M197.1,313.2673 C202.8,304.4473 208.32,294.0973 211.24,283.7373 C228.57,222.1273 238.7,197.0673 210.24,139.7373 C205.34,129.8773 197.7,121.3073 189.23,114.0673 " fill="none" id="售出糖果-to-没有25分钱" style="stroke:#000000;stroke-width:1.0;"/><polygon fill="#000000" points="185.62,111.1473,190.0827,119.9271,189.5006,114.3003,195.1274,113.7182,185.62,111.1473" style="stroke:#000000;stroke-width:1.0;"/><text fill="#000000" font-family="Verdana" font-size="13" lengthAdjust="spacing" textLength="134" x="228.24" y="217.3071">发放糖果，糖果数目&gt;0</text></g><!--MD5=[dbc932bf502de4d72829edf4d555473c]
+@startuml
+!theme plain
+title 糖果机状态图
+
+State 没有25分钱
+State 有25分钱
+State 售出糖果
+State 糖果售罄
+
+没有25分钱 - -> 有25分钱 : 投入25分钱
+有25分钱 - -> 没有25分钱 : 返回25分钱
+有25分钱 - -> 售出糖果 : 转动曲柄
+售出糖果 - -> 糖果售罄 : 发放糖果，糖果数目=0
+售出糖果 - -> 没有25分钱 : 发放糖果，糖果数目>0
+
+@enduml
+
+@startuml
+
+
+
+
+
+
+
+<style>
+  root {
+    BackgroundColor white
+    FontColor black
+    FontName Verdana
+    HyperLinkColor blue
+    LineColor black
+    LineThickness 1
+    Margin 5
+  }
+  caption {
+    LineThickness 0
+  }
+  footer {
+    LineThickness 0
+  }
+  header {
+    LineThickness 0
+  }
+  node {
+    MaximumWidth 300
+  }
+  title {
+    FontSize 22
+    LineThickness 0
+  }
+</style>
+
+skinparam ArrowLollipopColor black
+skinparam BackgroundColor white
+skinparam DefaultFontName Verdana
+skinparam DefaultMonospacedFontName Courier
+skinparam LifelineStrategy nosolid
+skinparam ParticipantPadding 10
+skinparam SequenceLifeLineBorderColor black
+skinparam Shadowing false
+skinparam UseBetaStyle true
+
+skinparam Activity {
+  BackgroundColor white
+  BarColor black
+  BorderColor black
+  FontColor black
+  FontName Verdana
+}
+skinparam Boundary {
+  FontColor black
+}
+skinparam Box {
+  Padding 5
+}
+skinparam CircledCharacter {
+  FontColor black
+  FontName Courier
+  Radius 9
+}
+skinparam Class {
+  BackgroundColor white
+  BorderColor black
+  FontColor black
+  FontName Verdana
+}
+skinparam ClassAttribute {
+  FontColor black
+  FontName Verdana
+}
+skinparam ClassStereotype {
+  FontColor black
+  FontName Verdana
+}
+skinparam Footer {
+  FontColor black
+  FontName Verdana
+}
+skinparam Header {
+  FontColor black
+  FontName Verdana
+}
+skinparam Hyperlink {
+  Color blue
+}
+skinparam IconPackage {
+  Color black
+  BackgroundColor white
+}
+skinparam IconPrivate {
+  Color black
+  BackgroundColor white
+}
+skinparam IconProtected {
+  Color black
+  BackgroundColor white
+}
+skinparam IconPublic {
+  Color black
+  BackgroundColor white
+}
+skinparam Note {
+  FontColor black
+  FontName Verdana
+}
+skinparam Object {
+  BorderColor black
+}
+skinparam Package {
+  BorderColor black
+  FontColor black
+  FontName Verdana
+}
+skinparam State {
+  BackgroundColor white
+  BorderColor black
+}
+skinparam StereotypeA {
+  BackgroundColor white
+  BorderColor black
+}
+skinparam StereotypeC {
+  BackgroundColor white
+  BorderColor black
+}
+skinparam StereotypeE {
+  BackgroundColor white
+  BorderColor black
+}
+skinparam StereotypeI {
+  BackgroundColor white
+  BorderColor black
+}
+skinparam StereotypeN {
+  BackgroundColor white
+  BorderColor black
+}
+skinparam UseCaseStereoType {
+  FontColor black
+  FontName Verdana
+}
+title 糖果机状态图
+
+State 没有25分钱
+State 有25分钱
+State 售出糖果
+State 糖果售罄
+
+没有25分钱 - -> 有25分钱 : 投入25分钱
+有25分钱 - -> 没有25分钱 : 返回25分钱
+有25分钱 - -> 售出糖果 : 转动曲柄
+售出糖果 - -> 糖果售罄 : 发放糖果，糖果数目=0
+售出糖果 - -> 没有25分钱 : 发放糖果，糖果数目>0
+
+@enduml
+
+PlantUML version 1.2022.7(Tue Aug 23 01:01:30 CST 2022)
+(GPL source distribution)
+Java Runtime: OpenJDK Runtime Environment
+JVM: OpenJDK 64-Bit Server VM
+Default Encoding: UTF-8
+Language: en
+Country: US
+--></g></svg>
