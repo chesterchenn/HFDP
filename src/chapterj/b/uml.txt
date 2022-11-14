@@ -1,0 +1,45 @@
+@startuml
+!theme plain
+title 糖果机状态模式的UML图
+
+interface State {
+  insertQuarter()
+  ejectQuarter()
+  turnCrank()
+  dispense()
+}
+
+class SoldState {
+  insertQuarter()
+  ejectQuarter()
+  turnCrank()
+  dispense()
+}
+
+class SoldOutState {
+  insertQuarter()
+  ejectQuarter()
+  turnCrank()
+  dispense()
+}
+
+class NoQuarterState {
+  insertQuarter()
+  ejectQuarter()
+  turnCrank()
+  dispense()
+}
+
+class HasQuarterState {
+  insertQuarter()
+  ejectQuarter()
+  turnCrank()
+  dispense()
+}
+
+State <|.. SoldState
+State <|.. SoldOutState
+State <|.. NoQuarterState
+State <|.. HasQuarterState
+
+@enduml
