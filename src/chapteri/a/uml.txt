@@ -31,8 +31,8 @@ class DinerMenuIterator {
   next()
 }
 
-Iterator <|-- PancakeHouseMenuIterator
-Iterator <|-- DinerMenuIterator
+Iterator <|.. PancakeHouseMenuIterator
+Iterator <|.. DinerMenuIterator
 
 PancakeHouseMenu <-- Waitress
 DinerMenu <-- Waitress

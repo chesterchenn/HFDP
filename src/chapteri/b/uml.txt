@@ -35,9 +35,9 @@ class DinerMenuIterator {
 Waitress -L-> Menu
 Waitress -R-> Iterator
 
-Menu <|-- PancakeHouseMenu
-Menu <|-- DinerMenu
+Menu <|.. PancakeHouseMenu
+Menu <|.. DinerMenu
 
-Iterator <|-- DinerMenuIterator
+Iterator <|.. DinerMenuIterator
 
 @enduml
